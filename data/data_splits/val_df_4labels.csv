@@ -1,0 +1,1784 @@
+,Unnamed: 0,speaker,split,something,microphone,path,Intelligibility_Label,Intelligibility_Percentage,seconds,minutes,speaker_cond,Intelligibility_Label_id
+695,0,M12,B2,D6,M6,/UASpeech/audio/noisereduce/M12/M12_B2_D6_M6.wav,very low,7.4%,3.031,3.0,unhealthy,0
+1633,0,M04,B2,UW13,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW13_M6.wav,very low,2%,3.0086875,3.0,unhealthy,0
+2138,0,M10,B2,CW10,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW10_M6.wav,high,93%,2.169625,2.2,unhealthy,3
+2302,0,M10,B2,LX,M6,/UASpeech/audio/noisereduce/M10/M10_B2_LX_M6.wav,high,93%,2.00975,2.0,unhealthy,3
+121,0,F02,B2,CW45,M6,/UASpeech/audio/noisereduce/F02/F02_B2_CW45_M6.wav,low,29%,3.464,3.5,unhealthy,1
+1750,0,F03,B2,CW41,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW41_M6.wav,very low,6%,2.734875,2.7,unhealthy,0
+647,0,M12,B2,UW51,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW51_M6.wav,very low,7.4%,4.5258125,4.5,unhealthy,0
+2229,0,M09,B2,UW6,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW6_M6.wav,high,86%,2.860875,2.9,unhealthy,3
+1741,0,M14,B2,CW60,M6,/UASpeech/audio/noisereduce/M14/M14_B2_CW60_M6.wav,high,90.4%,2.14,2.1,unhealthy,3
+3355,0,F03,B2,UW76,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW76_M6.wav,very low,6%,5.6684375,5.7,unhealthy,0
+1905,0,M11,B2,UW62,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW62_M6.wav,mid,62%,4.111,4.1,unhealthy,2
+378,0,F03,B2,UW60,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW60_M6.wav,very low,6%,3.8224375,3.8,unhealthy,0
+3161,0,M10,B2,UW30,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW30_M6.wav,high,93%,2.9659375,3.0,unhealthy,3
+1424,0,M09,B2,D9,M6,/UASpeech/audio/noisereduce/M09/M09_B2_D9_M6.wav,high,86%,2.1164375,2.1,unhealthy,3
+2077,0,M04,B2,UW75,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW75_M6.wav,very low,2%,2.6004375,2.6,unhealthy,0
+1373,0,M05,B2,CW53,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW53_M6.wav,mid,58%,2.38525,2.4,unhealthy,2
+2870,0,F04,B2,UW43,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW43_M6.wav,mid,62%,2.5044375,2.5,unhealthy,2
+3176,0,F04,B2,UW39,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW39_M6.wav,mid,62%,2.7235,2.7,unhealthy,2
+2974,0,F05,B2,CW30,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW30_M6.wav,high,95%,1.7115625,1.7,unhealthy,3
+2181,0,F03,B2,CW31,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW31_M6.wav,very low,6%,2.570125,2.6,unhealthy,0
+2526,0,M10,B2,UW37,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW37_M6.wav,high,93%,2.5295,2.5,unhealthy,3
+1392,0,M05,B2,UW12,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW12_M6.wav,mid,58%,2.178125,2.2,unhealthy,2
+1525,0,M09,B2,UW99,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW99_M6.wav,high,86%,2.5828125,2.6,unhealthy,3
+2707,0,F04,B2,UW32,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW32_M6.wav,mid,62%,3.4323125,3.4,unhealthy,2
+3265,0,F02,B2,C15,M6,/UASpeech/audio/noisereduce/F02/F02_B2_C15_M6.wav,low,29%,5.293125,5.3,unhealthy,1
+2135,0,M11,B2,CW42,M6,/UASpeech/audio/noisereduce/M11/M11_B2_CW42_M6.wav,mid,62%,3.6670625,3.7,unhealthy,2
+311,0,F05,B2,UW34,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW34_M6.wav,high,95%,2.437375,2.4,unhealthy,3
+13,0,M05,B2,CW97,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW97_M6.wav,mid,58%,1.6404375,1.6,unhealthy,2
+2598,0,M11,B2,CW46,M6,/UASpeech/audio/noisereduce/M11/M11_B2_CW46_M6.wav,mid,62%,2.8755,2.9,unhealthy,2
+3360,0,M11,B2,LA,M6,/UASpeech/audio/noisereduce/M11/M11_B2_LA_M6.wav,mid,62%,3.75375,3.8,unhealthy,2
+2919,0,M05,B2,UW32,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW32_M6.wav,mid,58%,4.905625,4.9,unhealthy,2
+1610,0,M10,B2,C5,M6,/UASpeech/audio/noisereduce/M10/M10_B2_C5_M6.wav,high,93%,1.8954375,1.9,unhealthy,3
+738,0,M10,B2,UW72,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW72_M6.wav,high,93%,2.4104375,2.4,unhealthy,3
+3523,0,M14,B2,UW46,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW46_M6.wav,high,90.4%,2.79175,2.8,unhealthy,3
+542,0,M05,B2,CW71,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW71_M6.wav,mid,58%,1.9725,2.0,unhealthy,2
+924,0,M14,B2,UW64,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW64_M6.wav,high,90.4%,1.9309375,1.9,unhealthy,3
+1699,0,M05,B2,CW56,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW56_M6.wav,mid,58%,2.568875,2.6,unhealthy,2
+320,0,M05,B2,LH,M6,/UASpeech/audio/noisereduce/M05/M05_B2_LH_M6.wav,mid,58%,1.9570625,2.0,unhealthy,2
+2049,0,M11,B2,UW98,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW98_M6.wav,mid,62%,2.4170625,2.4,unhealthy,2
+1683,0,M09,B2,CW18,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW18_M6.wav,high,86%,2.504125,2.5,unhealthy,3
+2655,0,M08,B2,UW54,M6,/UASpeech/audio/noisereduce/M08/M08_B2_UW54_M6.wav,high,93%,3.8558125,3.9,unhealthy,3
+3482,0,M14,B2,D1,M6,/UASpeech/audio/noisereduce/M14/M14_B2_D1_M6.wav,high,90.4%,2.0418125,2.0,unhealthy,3
+2436,0,F02,B2,UW87,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW87_M6.wav,low,29%,3.4146875,3.4,unhealthy,1
+1453,0,F03,B2,CW82,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW82_M6.wav,very low,6%,2.5936875,2.6,unhealthy,0
+2388,0,M08,B2,C9,M6,/UASpeech/audio/noisereduce/M08/M08_B2_C9_M6.wav,high,93%,2.2368125,2.2,unhealthy,3
+3522,0,M12,B2,UW37,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW37_M6.wav,very low,7.4%,5.9684375,6.0,unhealthy,0
+2977,0,M04,B2,CW90,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW90_M6.wav,very low,2%,2.2535,2.3,unhealthy,0
+3268,0,F04,B2,CW41,M6,/UASpeech/audio/noisereduce/F04/F04_B2_CW41_M6.wav,mid,62%,2.142375,2.1,unhealthy,2
+1168,0,F05,B2,UW52,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW52_M6.wav,high,95%,3.2140625,3.2,unhealthy,3
+712,0,M11,B2,D2,M6,/UASpeech/audio/noisereduce/M11/M11_B2_D2_M6.wav,mid,62%,2.601375,2.6,unhealthy,2
+1584,0,M11,B2,UW8,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW8_M6.wav,mid,62%,6.6109375,6.6,unhealthy,2
+2367,0,M14,B2,D2,M6,/UASpeech/audio/noisereduce/M14/M14_B2_D2_M6.wav,high,90.4%,1.7655,1.8,unhealthy,3
+2093,0,M08,B2,UW69,M6,/UASpeech/audio/noisereduce/M08/M08_B2_UW69_M6.wav,high,93%,5.1271875,5.1,unhealthy,3
+3071,0,F03,B2,CW4,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW4_M6.wav,very low,6%,2.826125,2.8,unhealthy,0
+2180,0,F05,B2,UW27,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW27_M6.wav,high,95%,2.2374375,2.2,unhealthy,3
+2577,0,M10,B2,UW76,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW76_M6.wav,high,93%,2.6424375,2.6,unhealthy,3
+3555,0,M10,B2,LB,M6,/UASpeech/audio/noisereduce/M10/M10_B2_LB_M6.wav,high,93%,2.1738125,2.2,unhealthy,3
+2038,0,M01,B2,UW37,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW37_M6.wav,very low,15%,7.1228125,7.1,unhealthy,0
+3066,0,M10,B2,UW82,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW82_M6.wav,high,93%,1.9824375,2.0,unhealthy,3
+2688,0,M04,B2,UW8,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW8_M6.wav,very low,2%,2.9309375,2.9,unhealthy,0
+3053,0,F05,B2,UW11,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW11_M6.wav,high,95%,2.705625,2.7,unhealthy,3
+1414,0,M14,B2,C14,M6,/UASpeech/audio/noisereduce/M14/M14_B2_C14_M6.wav,high,90.4%,1.953,2.0,unhealthy,3
+494,0,F05,B2,D8,M6,/UASpeech/audio/noisereduce/F05/F05_B2_D8_M6.wav,high,95%,1.5613125,1.6,unhealthy,3
+1225,0,M07,B2,UW80,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW80_M6.wav,low,28%,3.737,3.7,unhealthy,1
+354,0,M10,B2,CW69,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW69_M6.wav,high,93%,2.9145,2.9,unhealthy,3
+1413,0,M08,B2,UW55,M6,/UASpeech/audio/noisereduce/M08/M08_B2_UW55_M6.wav,high,93%,2.9966875,3.0,unhealthy,3
+1143,0,M07,B2,CW26,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW26_M6.wav,low,28%,5.6199375,5.6,unhealthy,1
+3003,0,F03,B2,CW47,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW47_M6.wav,very low,6%,2.499625,2.5,unhealthy,0
+1085,0,M09,B2,UW76,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW76_M6.wav,high,86%,3.0261875,3.0,unhealthy,3
+1013,0,M08,B2,UW16,M6,/UASpeech/audio/noisereduce/M08/M08_B2_UW16_M6.wav,high,93%,2.9873125,3.0,unhealthy,3
+2550,0,F04,B2,UW69,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW69_M6.wav,mid,62%,2.5995625,2.6,unhealthy,2
+2644,0,F02,B2,UW38,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW38_M6.wav,low,29%,5.2520625,5.3,unhealthy,1
+665,0,M07,B2,UW42,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW42_M6.wav,low,28%,3.6894375,3.7,unhealthy,1
+2069,0,F02,B2,UW8,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW8_M6.wav,low,29%,10.522375,10.5,unhealthy,1
+899,0,F04,B2,CW100,M6,/UASpeech/audio/noisereduce/F04/F04_B2_CW100_M6.wav,mid,62%,1.8915,1.9,unhealthy,2
+1103,0,M14,B2,CW22,M6,/UASpeech/audio/noisereduce/M14/M14_B2_CW22_M6.wav,high,90.4%,2.2020625,2.2,unhealthy,3
+1963,0,M01,B2,LP,M6,/UASpeech/audio/noisereduce/M01/M01_B2_LP_M6.wav,very low,15%,3.6294375,3.6,unhealthy,0
+968,0,F04,B2,CW6,M6,/UASpeech/audio/noisereduce/F04/F04_B2_CW6_M6.wav,mid,62%,1.8683125,1.9,unhealthy,2
+3091,0,F02,B2,UW77,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW77_M6.wav,low,29%,7.1414375,7.1,unhealthy,1
+2858,0,M07,B2,CW39,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW39_M6.wav,low,28%,2.0813125,2.1,unhealthy,1
+457,0,F05,B2,LB,M6,/UASpeech/audio/noisereduce/F05/F05_B2_LB_M6.wav,high,95%,1.6430625,1.6,unhealthy,3
+3095,0,F04,B2,UW30,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW30_M6.wav,mid,62%,4.0624375,4.1,unhealthy,2
+329,0,F02,B2,UW99,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW99_M6.wav,low,29%,3.836625,3.8,unhealthy,1
+2622,0,M01,B2,CW100,M6,/UASpeech/audio/noisereduce/M01/M01_B2_CW100_M6.wav,very low,15%,4.9591875,5.0,unhealthy,0
+521,0,M12,B2,CW6,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW6_M6.wav,very low,7.4%,3.3351875,3.3,unhealthy,0
+228,0,F02,B2,CW41,M6,/UASpeech/audio/noisereduce/F02/F02_B2_CW41_M6.wav,low,29%,4.4831875,4.5,unhealthy,1
+1436,0,M11,B2,UW24,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW24_M6.wav,mid,62%,3.2069375,3.2,unhealthy,2
+2933,0,F05,B2,CW23,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW23_M6.wav,high,95%,1.8350625,1.8,unhealthy,3
+519,0,M01,B2,UW95,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW95_M6.wav,very low,15%,11.3424375,11.3,unhealthy,0
+1498,0,M10,B2,UW28,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW28_M6.wav,high,93%,2.4878125,2.5,unhealthy,3
+3282,0,M12,B2,UW86,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW86_M6.wav,very low,7.4%,3.6389375,3.6,unhealthy,0
+2642,0,M07,B2,LF,M6,/UASpeech/audio/noisereduce/M07/M07_B2_LF_M6.wav,low,28%,2.960875,3.0,unhealthy,1
+3470,0,M08,B2,C12,M6,/UASpeech/audio/noisereduce/M08/M08_B2_C12_M6.wav,high,93%,2.6385625,2.6,unhealthy,3
+2129,0,M05,B2,UW70,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW70_M6.wav,mid,58%,2.8813125,2.9,unhealthy,2
+3167,0,M04,B2,UW72,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW72_M6.wav,very low,2%,2.9195,2.9,unhealthy,0
+2310,0,F05,B2,CW89,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW89_M6.wav,high,95%,2.0165625,2.0,unhealthy,3
+3495,0,M07,B2,C18,M6,/UASpeech/audio/noisereduce/M07/M07_B2_C18_M6.wav,low,28%,2.2725625,2.3,unhealthy,1
+1433,0,M12,B2,LA,M6,/UASpeech/audio/noisereduce/M12/M12_B2_LA_M6.wav,very low,7.4%,3.4465625,3.4,unhealthy,0
+2614,0,F04,B2,LB,M6,/UASpeech/audio/noisereduce/F04/F04_B2_LB_M6.wav,mid,62%,2.5291875,2.5,unhealthy,2
+292,0,M10,B2,D0,M6,/UASpeech/audio/noisereduce/M10/M10_B2_D0_M6.wav,high,93%,1.5715625,1.6,unhealthy,3
+576,0,M09,B2,CW73,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW73_M6.wav,high,86%,2.7185625,2.7,unhealthy,3
+1527,0,M01,B2,UW9,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW9_M6.wav,very low,15%,17.2234375,17.2,unhealthy,0
+3492,0,M12,B2,CW22,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW22_M6.wav,very low,7.4%,3.5500625,3.6,unhealthy,0
+2191,0,M01,B2,LH,M6,/UASpeech/audio/noisereduce/M01/M01_B2_LH_M6.wav,very low,15%,4.4674375,4.5,unhealthy,0
+939,0,F05,B2,LF,M6,/UASpeech/audio/noisereduce/F05/F05_B2_LF_M6.wav,high,95%,1.8759375,1.9,unhealthy,3
+2101,0,F03,B2,CW98,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW98_M6.wav,very low,6%,2.7821875,2.8,unhealthy,0
+2195,0,F05,B2,CW76,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW76_M6.wav,high,95%,1.8253125,1.8,unhealthy,3
+2499,0,M07,B2,UW59,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW59_M6.wav,low,28%,2.2930625,2.3,unhealthy,1
+2438,0,M10,B2,UW87,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW87_M6.wav,high,93%,2.4515625,2.5,unhealthy,3
+3306,0,M01,B2,UW90,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW90_M6.wav,very low,15%,5.375625,5.4,unhealthy,0
+3452,0,M08,B2,UW79,M6,/UASpeech/audio/noisereduce/M08/M08_B2_UW79_M6.wav,high,93%,3.9170625,3.9,unhealthy,3
+1721,0,M12,B2,UW87,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW87_M6.wav,very low,7.4%,2.482,2.5,unhealthy,0
+2920,0,M09,B2,UW56,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW56_M6.wav,high,86%,3.024125,3.0,unhealthy,3
+468,0,M07,B2,CW13,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW13_M6.wav,low,28%,1.8301875,1.8,unhealthy,1
+2922,0,M05,B2,CW16,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW16_M6.wav,mid,58%,2.32,2.3,unhealthy,2
+3424,0,M04,B2,LM,M6,/UASpeech/audio/noisereduce/M04/M04_B2_LM_M6.wav,very low,2%,2.351375,2.4,unhealthy,0
+3277,0,M12,B2,CW63,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW63_M6.wav,very low,7.4%,3.59875,3.6,unhealthy,0
+3215,0,F03,B2,LS,M6,/UASpeech/audio/noisereduce/F03/F03_B2_LS_M6.wav,very low,6%,3.91475,3.9,unhealthy,0
+2099,0,M12,B2,CW61,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW61_M6.wav,very low,7.4%,3.5219375,3.5,unhealthy,0
+1983,0,M05,B2,C19,M6,/UASpeech/audio/noisereduce/M05/M05_B2_C19_M6.wav,mid,58%,2.2259375,2.2,unhealthy,2
+679,0,F02,B2,LF,M6,/UASpeech/audio/noisereduce/F02/F02_B2_LF_M6.wav,low,29%,5.8966875,5.9,unhealthy,1
+678,0,M12,B2,UW53,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW53_M6.wav,very low,7.4%,3.5738125,3.6,unhealthy,0
+133,0,M11,B2,CW41,M6,/UASpeech/audio/noisereduce/M11/M11_B2_CW41_M6.wav,mid,62%,3.7325625,3.7,unhealthy,2
+2246,0,M14,B2,C15,M6,/UASpeech/audio/noisereduce/M14/M14_B2_C15_M6.wav,high,90.4%,1.922,1.9,unhealthy,3
+2701,0,M07,B2,UW51,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW51_M6.wav,low,28%,3.1558125,3.2,unhealthy,1
+1280,0,F02,B2,LT,M6,/UASpeech/audio/noisereduce/F02/F02_B2_LT_M6.wav,low,29%,3.920875,3.9,unhealthy,1
+2096,0,M04,B2,UW62,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW62_M6.wav,very low,2%,2.10125,2.1,unhealthy,0
+1783,0,M04,B2,CW55,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW55_M6.wav,very low,2%,3.6790625,3.7,unhealthy,0
+2481,0,M05,B2,CW33,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW33_M6.wav,mid,58%,5.9865625,6.0,unhealthy,2
+978,0,F03,B2,CW13,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW13_M6.wav,very low,6%,2.749875,2.7,unhealthy,0
+404,0,M01,B2,UW39,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW39_M6.wav,very low,15%,6.527625,6.5,unhealthy,0
+1075,0,M10,B2,CW34,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW34_M6.wav,high,93%,2.23075,2.2,unhealthy,3
+2167,0,F03,B2,C9,M6,/UASpeech/audio/noisereduce/F03/F03_B2_C9_M6.wav,very low,6%,3.0925,3.1,unhealthy,0
+2898,0,M11,B2,UW5,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW5_M6.wav,mid,62%,4.3474375,4.3,unhealthy,2
+1319,0,M05,B2,UW78,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW78_M6.wav,mid,58%,2.9585625,3.0,unhealthy,2
+2061,0,M01,B2,UW18,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW18_M6.wav,very low,15%,8.7871875,8.8,unhealthy,0
+859,0,M09,B2,UW74,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW74_M6.wav,high,86%,2.934625,2.9,unhealthy,3
+1214,0,M11,B2,LX,M6,/UASpeech/audio/noisereduce/M11/M11_B2_LX_M6.wav,mid,62%,4.499875,4.5,unhealthy,2
+1186,0,F04,B2,LN,M6,/UASpeech/audio/noisereduce/F04/F04_B2_LN_M6.wav,mid,62%,2.76,2.8,unhealthy,2
+616,0,M05,B2,CW24,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW24_M6.wav,mid,58%,2.1330625,2.1,unhealthy,2
+249,0,M09,B2,UW94,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW94_M6.wav,high,86%,2.5816875,2.6,unhealthy,3
+1381,0,M08,B2,CW51,M6,/UASpeech/audio/noisereduce/M08/M08_B2_CW51_M6.wav,high,93%,2.3963125,2.4,unhealthy,3
+257,0,M01,B2,CW45,M6,/UASpeech/audio/noisereduce/M01/M01_B2_CW45_M6.wav,very low,15%,2.775625,2.8,unhealthy,0
+1492,0,M04,B2,CW42,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW42_M6.wav,very low,2%,1.961,2.0,unhealthy,0
+1121,0,F05,B2,CW84,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW84_M6.wav,high,95%,1.866,1.9,unhealthy,3
+465,0,F05,B2,CW58,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW58_M6.wav,high,95%,1.9819375,2.0,unhealthy,3
+1022,0,M01,B2,UW54,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW54_M6.wav,very low,15%,7.2501875,7.3,unhealthy,0
+2502,0,F03,B2,CW71,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW71_M6.wav,very low,6%,2.264875,2.3,unhealthy,0
+1239,0,M10,B2,CW46,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW46_M6.wav,high,93%,2.294125,2.3,unhealthy,3
+2639,0,F04,B2,UW79,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW79_M6.wav,mid,62%,2.506375,2.5,unhealthy,2
+3297,0,M10,B2,CW56,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW56_M6.wav,high,93%,2.2619375,2.3,unhealthy,3
+2482,0,F02,B2,UW70,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW70_M6.wav,low,29%,5.088625,5.1,unhealthy,1
+1218,0,M14,B2,LD,M6,/UASpeech/audio/noisereduce/M14/M14_B2_LD_M6.wav,high,90.4%,1.7454375,1.7,unhealthy,3
+2457,0,M01,B2,UW61,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW61_M6.wav,very low,15%,4.6514375,4.7,unhealthy,0
+1616,0,M12,B2,UW50,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW50_M6.wav,very low,7.4%,4.079,4.1,unhealthy,0
+662,0,M05,B2,UW52,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW52_M6.wav,mid,58%,2.5059375,2.5,unhealthy,2
+2207,0,F03,B2,UW58,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW58_M6.wav,very low,6%,3.217375,3.2,unhealthy,0
+1842,0,M05,B2,CW23,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW23_M6.wav,mid,58%,2.2,2.2,unhealthy,2
+2496,0,F05,B2,C17,M6,/UASpeech/audio/noisereduce/F05/F05_B2_C17_M6.wav,high,95%,1.9045,1.9,unhealthy,3
+3344,0,F05,B2,CW10,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW10_M6.wav,high,95%,1.9166875,1.9,unhealthy,3
+531,0,M11,B2,C2,M6,/UASpeech/audio/noisereduce/M11/M11_B2_C2_M6.wav,mid,62%,4.4216875,4.4,unhealthy,2
+25,0,M05,B2,LT,M6,/UASpeech/audio/noisereduce/M05/M05_B2_LT_M6.wav,mid,58%,2.902,2.9,unhealthy,2
+2334,0,M11,B2,LU,M6,/UASpeech/audio/noisereduce/M11/M11_B2_LU_M6.wav,mid,62%,4.1985625,4.2,unhealthy,2
+2948,0,F02,B2,UW68,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW68_M6.wav,low,29%,10.5525,10.6,unhealthy,1
+305,0,M11,B2,UW36,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW36_M6.wav,mid,62%,6.605,6.6,unhealthy,2
+1068,0,M05,B2,CW58,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW58_M6.wav,mid,58%,2.1145,2.1,unhealthy,2
+1080,0,F05,B2,CW98,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW98_M6.wav,high,95%,1.7985625,1.8,unhealthy,3
+1116,0,M09,B2,UW32,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW32_M6.wav,high,86%,3.833375,3.8,unhealthy,3
+3219,0,M10,B2,CW52,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW52_M6.wav,high,93%,2.3163125,2.3,unhealthy,3
+1378,0,F02,B2,CW38,M6,/UASpeech/audio/noisereduce/F02/F02_B2_CW38_M6.wav,low,29%,3.0930625,3.1,unhealthy,1
+2036,0,M04,B2,CW61,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW61_M6.wav,very low,2%,2.2790625,2.3,unhealthy,0
+3279,0,M11,B2,D1,M6,/UASpeech/audio/noisereduce/M11/M11_B2_D1_M6.wav,mid,62%,3.4679375,3.5,unhealthy,2
+1887,0,M05,B2,UW95,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW95_M6.wav,mid,58%,2.4038125,2.4,unhealthy,2
+1574,0,F04,B2,UW65,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW65_M6.wav,mid,62%,3.1575625,3.2,unhealthy,2
+1033,0,M11,B2,UW2,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW2_M6.wav,mid,62%,5.059125,5.1,unhealthy,2
+1297,0,M12,B2,CW81,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW81_M6.wav,very low,7.4%,3.2598125,3.3,unhealthy,0
+362,0,M04,B2,C7,M6,/UASpeech/audio/noisereduce/M04/M04_B2_C7_M6.wav,very low,2%,1.8421875,1.8,unhealthy,0
+3373,0,M08,B2,UW3,M6,/UASpeech/audio/noisereduce/M08/M08_B2_UW3_M6.wav,high,93%,2.5785,2.6,unhealthy,3
+2122,0,F04,B2,LY,M6,/UASpeech/audio/noisereduce/F04/F04_B2_LY_M6.wav,mid,62%,2.767375,2.8,unhealthy,2
+212,0,M08,B2,CW95,M6,/UASpeech/audio/noisereduce/M08/M08_B2_CW95_M6.wav,high,93%,2.3385625,2.3,unhealthy,3
+1535,0,F02,B2,CW63,M6,/UASpeech/audio/noisereduce/F02/F02_B2_CW63_M6.wav,low,29%,3.371625,3.4,unhealthy,1
+2911,0,M09,B2,UW80,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW80_M6.wav,high,86%,3.008375,3.0,unhealthy,3
+1518,0,F03,B2,CW86,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW86_M6.wav,very low,6%,2.4816875,2.5,unhealthy,0
+2338,0,M11,B2,C18,M6,/UASpeech/audio/noisereduce/M11/M11_B2_C18_M6.wav,mid,62%,3.6705625,3.7,unhealthy,2
+849,0,M12,B2,UW58,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW58_M6.wav,very low,7.4%,4.148875,4.1,unhealthy,0
+2540,0,M14,B2,CW70,M6,/UASpeech/audio/noisereduce/M14/M14_B2_CW70_M6.wav,high,90.4%,2.402,2.4,unhealthy,3
+790,0,F05,B2,C14,M6,/UASpeech/audio/noisereduce/F05/F05_B2_C14_M6.wav,high,95%,1.74,1.7,unhealthy,3
+1580,0,M04,B2,CW3,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW3_M6.wav,very low,2%,1.9620625,2.0,unhealthy,0
+189,0,M10,B2,CW97,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW97_M6.wav,high,93%,2.6050625,2.6,unhealthy,3
+3538,0,M01,B2,CW54,M6,/UASpeech/audio/noisereduce/M01/M01_B2_CW54_M6.wav,very low,15%,2.449125,2.4,unhealthy,0
+967,0,F05,B2,LE,M6,/UASpeech/audio/noisereduce/F05/F05_B2_LE_M6.wav,high,95%,1.8684375,1.9,unhealthy,3
+2473,0,M07,B2,UW8,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW8_M6.wav,low,28%,3.083,3.1,unhealthy,1
+952,0,M09,B2,UW39,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW39_M6.wav,high,86%,2.821875,2.8,unhealthy,3
+956,0,M07,B2,UW92,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW92_M6.wav,low,28%,2.2205,2.2,unhealthy,1
+2740,0,M11,B2,CW68,M6,/UASpeech/audio/noisereduce/M11/M11_B2_CW68_M6.wav,mid,62%,4.3421875,4.3,unhealthy,2
+2363,0,M01,B2,UW11,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW11_M6.wav,very low,15%,4.6538125,4.7,unhealthy,0
+1095,0,M04,B2,UW70,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW70_M6.wav,very low,2%,2.8425625,2.8,unhealthy,0
+1766,0,M12,B2,CW74,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW74_M6.wav,very low,7.4%,4.1635,4.2,unhealthy,0
+2832,0,M05,B2,CW52,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW52_M6.wav,mid,58%,2.9516875,3.0,unhealthy,2
+1276,0,M01,B2,UW45,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW45_M6.wav,very low,15%,12.8615625,12.9,unhealthy,0
+2979,0,F02,B2,UW15,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW15_M6.wav,low,29%,6.444,6.4,unhealthy,1
+976,0,M08,B2,C16,M6,/UASpeech/audio/noisereduce/M08/M08_B2_C16_M6.wav,high,93%,2.3270625,2.3,unhealthy,3
+1117,0,F04,B2,UW71,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW71_M6.wav,mid,62%,2.449,2.4,unhealthy,2
+2128,0,F02,B2,CW56,M6,/UASpeech/audio/noisereduce/F02/F02_B2_CW56_M6.wav,low,29%,4.162125,4.2,unhealthy,1
+3498,0,F03,B2,D4,M6,/UASpeech/audio/noisereduce/F03/F03_B2_D4_M6.wav,very low,6%,2.1680625,2.2,unhealthy,0
+3463,0,M12,B2,UW13,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW13_M6.wav,very low,7.4%,5.5651875,5.6,unhealthy,0
+2968,0,M10,B2,CW42,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW42_M6.wav,high,93%,2.0251875,2.0,unhealthy,3
+1234,0,F02,B2,UW66,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW66_M6.wav,low,29%,5.485875,5.5,unhealthy,1
+2713,0,M09,B2,C5,M6,/UASpeech/audio/noisereduce/M09/M09_B2_C5_M6.wav,high,86%,2.3336875,2.3,unhealthy,3
+608,0,M10,B2,CW77,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW77_M6.wav,high,93%,2.318875,2.3,unhealthy,3
+1067,0,M05,B2,CW80,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW80_M6.wav,mid,58%,2.0084375,2.0,unhealthy,2
+2187,0,M12,B2,UW39,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW39_M6.wav,very low,7.4%,5.0659375,5.1,unhealthy,0
+1688,0,M11,B2,UW12,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW12_M6.wav,mid,62%,6.8505,6.9,unhealthy,2
+962,0,F03,B2,UW77,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW77_M6.wav,very low,6%,4.1014375,4.1,unhealthy,0
+2833,0,M12,B2,UW72,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW72_M6.wav,very low,7.4%,5.299125,5.3,unhealthy,0
+1873,0,F02,B2,UW2,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW2_M6.wav,low,29%,6.167,6.2,unhealthy,1
+1382,0,F05,B2,CW49,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW49_M6.wav,high,95%,2.340625,2.3,unhealthy,3
+3445,0,F02,B2,UW85,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW85_M6.wav,low,29%,4.9155625,4.9,unhealthy,1
+2410,0,M05,B2,CW82,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW82_M6.wav,mid,58%,1.993,2.0,unhealthy,2
+421,0,M07,B2,CW88,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW88_M6.wav,low,28%,2.9975625,3.0,unhealthy,1
+2808,0,F05,B2,UW98,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW98_M6.wav,high,95%,1.8055625,1.8,unhealthy,3
+167,0,M12,B2,CW37,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW37_M6.wav,very low,7.4%,3.8155,3.8,unhealthy,0
+1600,0,M09,B2,UW95,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW95_M6.wav,high,86%,2.6419375,2.6,unhealthy,3
+481,0,M04,B2,CW50,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW50_M6.wav,very low,2%,1.6470625,1.6,unhealthy,0
+1387,0,M07,B2,CW76,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW76_M6.wav,low,28%,1.8746875,1.9,unhealthy,1
+1009,0,M04,B2,UW34,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW34_M6.wav,very low,2%,3.447,3.4,unhealthy,0
+2940,0,M14,B2,C10,M6,/UASpeech/audio/noisereduce/M14/M14_B2_C10_M6.wav,high,90.4%,1.9758125,2.0,unhealthy,3
+2772,0,M05,B2,CW100,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW100_M6.wav,mid,58%,2.482,2.5,unhealthy,2
+2778,0,M09,B2,CW81,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW81_M6.wav,high,86%,2.5864375,2.6,unhealthy,3
+2032,0,F03,B2,UW36,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW36_M6.wav,very low,6%,7.020875,7.0,unhealthy,0
+2949,0,M04,B2,UW47,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW47_M6.wav,very low,2%,3.0751875,3.1,unhealthy,0
+1287,0,F03,B2,CW62,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW62_M6.wav,very low,6%,2.3951875,2.4,unhealthy,0
+1932,0,M08,B2,UW77,M6,/UASpeech/audio/noisereduce/M08/M08_B2_UW77_M6.wav,high,93%,3.363,3.4,unhealthy,3
+3310,0,F04,B2,CW97,M6,/UASpeech/audio/noisereduce/F04/F04_B2_CW97_M6.wav,mid,62%,2.8868125,2.9,unhealthy,2
+2575,0,M08,B2,CW68,M6,/UASpeech/audio/noisereduce/M08/M08_B2_CW68_M6.wav,high,93%,2.400375,2.4,unhealthy,3
+2037,0,M07,B2,CW87,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW87_M6.wav,low,28%,2.6591875,2.7,unhealthy,1
+2667,0,M14,B2,UW5,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW5_M6.wav,high,90.4%,2.5334375,2.5,unhealthy,3
+1543,0,M10,B2,UW99,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW99_M6.wav,high,93%,2.53275,2.5,unhealthy,3
+2237,0,F03,B2,CW22,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW22_M6.wav,very low,6%,2.6975,2.7,unhealthy,0
+2535,0,F03,B2,UW71,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW71_M6.wav,very low,6%,2.855875,2.9,unhealthy,0
+2466,0,M08,B2,UW78,M6,/UASpeech/audio/noisereduce/M08/M08_B2_UW78_M6.wav,high,93%,3.698875,3.7,unhealthy,3
+2817,0,F02,B2,UW73,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW73_M6.wav,low,29%,5.9168125,5.9,unhealthy,1
+3393,0,M10,B2,C15,M6,/UASpeech/audio/noisereduce/M10/M10_B2_C15_M6.wav,high,93%,2.1274375,2.1,unhealthy,3
+2024,0,M08,B2,C7,M6,/UASpeech/audio/noisereduce/M08/M08_B2_C7_M6.wav,high,93%,2.447875,2.4,unhealthy,3
+1770,0,F05,B2,CW33,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW33_M6.wav,high,95%,2.0486875,2.0,unhealthy,3
+261,0,F03,B2,UW97,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW97_M6.wav,very low,6%,5.2029375,5.2,unhealthy,0
+2295,0,F03,B2,C1,M6,/UASpeech/audio/noisereduce/F03/F03_B2_C1_M6.wav,very low,6%,3.953,4.0,unhealthy,0
+89,0,F05,B2,UW70,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW70_M6.wav,high,95%,2.314625,2.3,unhealthy,3
+1678,0,F05,B2,C1,M6,/UASpeech/audio/noisereduce/F05/F05_B2_C1_M6.wav,high,95%,1.8139375,1.8,unhealthy,3
+654,0,F05,B2,CW56,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW56_M6.wav,high,95%,2.067,2.1,unhealthy,3
+1875,0,M01,B2,C5,M6,/UASpeech/audio/noisereduce/M01/M01_B2_C5_M6.wav,very low,15%,10.6526875,10.7,unhealthy,0
+1850,0,M04,B2,D9,M6,/UASpeech/audio/noisereduce/M04/M04_B2_D9_M6.wav,very low,2%,2.182625,2.2,unhealthy,0
+2033,0,M07,B2,CW81,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW81_M6.wav,low,28%,2.10675,2.1,unhealthy,1
+2578,0,M09,B2,D8,M6,/UASpeech/audio/noisereduce/M09/M09_B2_D8_M6.wav,high,86%,1.9344375,1.9,unhealthy,3
+693,0,M12,B2,CW77,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW77_M6.wav,very low,7.4%,4.5411875,4.5,unhealthy,0
+760,0,M14,B2,CW77,M6,/UASpeech/audio/noisereduce/M14/M14_B2_CW77_M6.wav,high,90.4%,2.064375,2.1,unhealthy,3
+384,0,M05,B2,UW39,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW39_M6.wav,mid,58%,2.2041875,2.2,unhealthy,2
+2382,0,M08,B2,CW70,M6,/UASpeech/audio/noisereduce/M08/M08_B2_CW70_M6.wav,high,93%,2.5909375,2.6,unhealthy,3
+726,0,M04,B2,UW1,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW1_M6.wav,very low,2%,2.08675,2.1,unhealthy,0
+1446,0,F05,B2,UW59,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW59_M6.wav,high,95%,2.437125,2.4,unhealthy,3
+762,0,F04,B2,UW94,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW94_M6.wav,mid,62%,2.742125,2.7,unhealthy,2
+3455,0,M05,B2,UW5,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW5_M6.wav,mid,58%,2.977375,3.0,unhealthy,2
+326,0,M14,B2,UW51,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW51_M6.wav,high,90.4%,2.727125,2.7,unhealthy,3
+1435,0,F04,B2,CW28,M6,/UASpeech/audio/noisereduce/F04/F04_B2_CW28_M6.wav,mid,62%,2.622125,2.6,unhealthy,2
+2615,0,M09,B2,CW98,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW98_M6.wav,high,86%,2.67175,2.7,unhealthy,3
+1861,0,M14,B2,CW45,M6,/UASpeech/audio/noisereduce/M14/M14_B2_CW45_M6.wav,high,90.4%,2.17675,2.2,unhealthy,3
+615,0,F05,B2,UW66,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW66_M6.wav,high,95%,1.967625,2.0,unhealthy,3
+136,0,M11,B2,CW47,M6,/UASpeech/audio/noisereduce/M11/M11_B2_CW47_M6.wav,mid,62%,2.998,3.0,unhealthy,2
+355,0,F02,B2,UW96,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW96_M6.wav,low,29%,4.945125,4.9,unhealthy,1
+1816,0,M04,B2,UW99,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW99_M6.wav,very low,2%,2.2820625,2.3,unhealthy,0
+128,0,M09,B2,UW19,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW19_M6.wav,high,86%,3.8653125,3.9,unhealthy,3
+1202,0,M08,B2,CW13,M6,/UASpeech/audio/noisereduce/M08/M08_B2_CW13_M6.wav,high,93%,2.0706875,2.1,unhealthy,3
+2696,0,F02,B2,UW62,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW62_M6.wav,low,29%,4.061875,4.1,unhealthy,1
+1712,0,M01,B2,UW78,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW78_M6.wav,very low,15%,8.19875,8.2,unhealthy,0
+1066,0,M14,B2,CW91,M6,/UASpeech/audio/noisereduce/M14/M14_B2_CW91_M6.wav,high,90.4%,2.1045625,2.1,unhealthy,3
+3241,0,F05,B2,D9,M6,/UASpeech/audio/noisereduce/F05/F05_B2_D9_M6.wav,high,95%,1.644,1.6,unhealthy,3
+423,0,M11,B2,UW3,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW3_M6.wav,mid,62%,3.813125,3.8,unhealthy,2
+600,0,M14,B2,CW81,M6,/UASpeech/audio/noisereduce/M14/M14_B2_CW81_M6.wav,high,90.4%,2.15075,2.2,unhealthy,3
+2253,0,M11,B2,D5,M6,/UASpeech/audio/noisereduce/M11/M11_B2_D5_M6.wav,mid,62%,2.6894375,2.7,unhealthy,2
+3332,0,M05,B2,CW95,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW95_M6.wav,mid,58%,1.9921875,2.0,unhealthy,2
+1936,0,M11,B2,C17,M6,/UASpeech/audio/noisereduce/M11/M11_B2_C17_M6.wav,mid,62%,4.39725,4.4,unhealthy,2
+2148,0,F04,B2,CW2,M6,/UASpeech/audio/noisereduce/F04/F04_B2_CW2_M6.wav,mid,62%,1.67175,1.7,unhealthy,2
+1684,0,M08,B2,CW65,M6,/UASpeech/audio/noisereduce/M08/M08_B2_CW65_M6.wav,high,93%,2.24,2.2,unhealthy,3
+2831,0,M05,B2,CW39,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW39_M6.wav,mid,58%,2.3208125,2.3,unhealthy,2
+1430,0,F05,B2,UW78,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW78_M6.wav,high,95%,2.606125,2.6,unhealthy,3
+1755,0,M09,B2,CW20,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW20_M6.wav,high,86%,2.842375,2.8,unhealthy,3
+1065,0,M08,B2,UW59,M6,/UASpeech/audio/noisereduce/M08/M08_B2_UW59_M6.wav,high,93%,2.64375,2.6,unhealthy,3
+1355,0,M11,B2,LL,M6,/UASpeech/audio/noisereduce/M11/M11_B2_LL_M6.wav,mid,62%,3.6110625,3.6,unhealthy,2
+3353,0,F04,B2,UW60,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW60_M6.wav,mid,62%,2.56675,2.6,unhealthy,2
+2211,0,M08,B2,UW74,M6,/UASpeech/audio/noisereduce/M08/M08_B2_UW74_M6.wav,high,93%,5.9129375,5.9,unhealthy,3
+3294,0,M12,B2,CW52,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW52_M6.wav,very low,7.4%,3.2218125,3.2,unhealthy,0
+1640,0,M07,B2,UW15,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW15_M6.wav,low,28%,4.61775,4.6,unhealthy,1
+1248,0,M14,B2,UW68,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW68_M6.wav,high,90.4%,2.4618125,2.5,unhealthy,3
+522,0,F02,B2,CW97,M6,/UASpeech/audio/noisereduce/F02/F02_B2_CW97_M6.wav,low,29%,3.6385625,3.6,unhealthy,1
+1255,0,M08,B2,UW70,M6,/UASpeech/audio/noisereduce/M08/M08_B2_UW70_M6.wav,high,93%,2.6621875,2.7,unhealthy,3
+2064,0,F04,B2,UW70,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW70_M6.wav,mid,62%,3.48225,3.5,unhealthy,2
+1959,0,F04,B2,CW49,M6,/UASpeech/audio/noisereduce/F04/F04_B2_CW49_M6.wav,mid,62%,2.012,2.0,unhealthy,2
+517,0,M11,B2,CW62,M6,/UASpeech/audio/noisereduce/M11/M11_B2_CW62_M6.wav,mid,62%,3.5110625,3.5,unhealthy,2
+2521,0,F02,B2,UW36,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW36_M6.wav,low,29%,6.9366875,6.9,unhealthy,1
+2903,0,M09,B2,C10,M6,/UASpeech/audio/noisereduce/M09/M09_B2_C10_M6.wav,high,86%,2.376375,2.4,unhealthy,3
+1828,0,M04,B2,CW84,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW84_M6.wav,very low,2%,1.9896875,2.0,unhealthy,0
+59,0,M05,B2,UW48,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW48_M6.wav,mid,58%,2.7149375,2.7,unhealthy,2
+1488,0,M05,B2,CW40,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW40_M6.wav,mid,58%,2.384625,2.4,unhealthy,2
+1539,0,M10,B2,C7,M6,/UASpeech/audio/noisereduce/M10/M10_B2_C7_M6.wav,high,93%,2.124625,2.1,unhealthy,3
+2983,0,M12,B2,C8,M6,/UASpeech/audio/noisereduce/M12/M12_B2_C8_M6.wav,very low,7.4%,3.8846875,3.9,unhealthy,0
+3059,0,F02,B2,UW56,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW56_M6.wav,low,29%,5.38525,5.4,unhealthy,1
+2966,0,F04,B2,CW67,M6,/UASpeech/audio/noisereduce/F04/F04_B2_CW67_M6.wav,mid,62%,2.091,2.1,unhealthy,2
+1131,0,M09,B2,CW58,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW58_M6.wav,high,86%,2.57925,2.6,unhealthy,3
+2859,0,M04,B2,UW29,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW29_M6.wav,very low,2%,2.550875,2.6,unhealthy,0
+3417,0,F04,B2,CW1,M6,/UASpeech/audio/noisereduce/F04/F04_B2_CW1_M6.wav,mid,62%,2.2719375,2.3,unhealthy,2
+1881,0,F05,B2,CW92,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW92_M6.wav,high,95%,1.7628125,1.8,unhealthy,3
+110,0,M08,B2,C11,M6,/UASpeech/audio/noisereduce/M08/M08_B2_C11_M6.wav,high,93%,2.371625,2.4,unhealthy,3
+3270,0,M12,B2,CW57,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW57_M6.wav,very low,7.4%,3.839375,3.8,unhealthy,0
+874,0,M14,B2,CW40,M6,/UASpeech/audio/noisereduce/M14/M14_B2_CW40_M6.wav,high,90.4%,2.0730625,2.1,unhealthy,3
+2602,0,M08,B2,CW6,M6,/UASpeech/audio/noisereduce/M08/M08_B2_CW6_M6.wav,high,93%,2.074125,2.1,unhealthy,3
+2157,0,M12,B2,LJ,M6,/UASpeech/audio/noisereduce/M12/M12_B2_LJ_M6.wav,very low,7.4%,4.4930625,4.5,unhealthy,0
+752,0,M07,B2,UW88,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW88_M6.wav,low,28%,1.7970625,1.8,unhealthy,1
+963,0,M04,B2,CW20,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW20_M6.wav,very low,2%,1.9634375,2.0,unhealthy,0
+1463,0,M07,B2,UW57,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW57_M6.wav,low,28%,2.5305625,2.5,unhealthy,1
+1441,0,F03,B2,LD,M6,/UASpeech/audio/noisereduce/F03/F03_B2_LD_M6.wav,very low,6%,2.792625,2.8,unhealthy,0
+820,0,F02,B2,C13,M6,/UASpeech/audio/noisereduce/F02/F02_B2_C13_M6.wav,low,29%,5.7041875,5.7,unhealthy,1
+3099,0,F03,B2,CW97,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW97_M6.wav,very low,6%,2.4271875,2.4,unhealthy,0
+1686,0,F04,B2,CW43,M6,/UASpeech/audio/noisereduce/F04/F04_B2_CW43_M6.wav,mid,62%,2.605875,2.6,unhealthy,2
+2993,0,M05,B2,UW6,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW6_M6.wav,mid,58%,2.0523125,2.1,unhealthy,2
+260,0,F02,B2,CW65,M6,/UASpeech/audio/noisereduce/F02/F02_B2_CW65_M6.wav,low,29%,3.2133125,3.2,unhealthy,1
+2554,0,M14,B2,LL,M6,/UASpeech/audio/noisereduce/M14/M14_B2_LL_M6.wav,high,90.4%,2.074125,2.1,unhealthy,3
+3039,0,F04,B2,CW87,M6,/UASpeech/audio/noisereduce/F04/F04_B2_CW87_M6.wav,mid,62%,2.4099375,2.4,unhealthy,2
+1273,0,F02,B2,LQ,M6,/UASpeech/audio/noisereduce/F02/F02_B2_LQ_M6.wav,low,29%,6.1386875,6.1,unhealthy,1
+2783,0,F03,B2,C19,M6,/UASpeech/audio/noisereduce/F03/F03_B2_C19_M6.wav,very low,6%,2.5673125,2.6,unhealthy,0
+3289,0,F04,B2,UW88,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW88_M6.wav,mid,62%,2.325875,2.3,unhealthy,2
+2172,0,M04,B2,UW61,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW61_M6.wav,very low,2%,2.32125,2.3,unhealthy,0
+2273,0,M08,B2,CW4,M6,/UASpeech/audio/noisereduce/M08/M08_B2_CW4_M6.wav,high,93%,2.1680625,2.2,unhealthy,3
+914,0,M08,B2,UW97,M6,/UASpeech/audio/noisereduce/M08/M08_B2_UW97_M6.wav,high,93%,2.2804375,2.3,unhealthy,3
+446,0,M04,B2,UW7,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW7_M6.wav,very low,2%,2.1844375,2.2,unhealthy,0
+2824,0,M01,B2,CW64,M6,/UASpeech/audio/noisereduce/M01/M01_B2_CW64_M6.wav,very low,15%,4.5215625,4.5,unhealthy,0
+2231,0,M12,B2,CW50,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW50_M6.wav,very low,7.4%,3.6829375,3.7,unhealthy,0
+3471,0,M08,B2,CW26,M6,/UASpeech/audio/noisereduce/M08/M08_B2_CW26_M6.wav,high,93%,2.2990625,2.3,unhealthy,3
+1219,0,M10,B2,CW47,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW47_M6.wav,high,93%,2.2116875,2.2,unhealthy,3
+2734,0,M05,B2,C8,M6,/UASpeech/audio/noisereduce/M05/M05_B2_C8_M6.wav,mid,58%,2.068125,2.1,unhealthy,2
+359,0,F02,B2,CW90,M6,/UASpeech/audio/noisereduce/F02/F02_B2_CW90_M6.wav,low,29%,4.63675,4.6,unhealthy,1
+1999,0,M04,B2,UW42,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW42_M6.wav,very low,2%,3.4609375,3.5,unhealthy,0
+1788,0,M01,B2,CW94,M6,/UASpeech/audio/noisereduce/M01/M01_B2_CW94_M6.wav,very low,15%,5.52,5.5,unhealthy,0
+1922,0,M08,B2,CW12,M6,/UASpeech/audio/noisereduce/M08/M08_B2_CW12_M6.wav,high,93%,2.2505625,2.3,unhealthy,3
+1238,0,M08,B2,C2,M6,/UASpeech/audio/noisereduce/M08/M08_B2_C2_M6.wav,high,93%,2.471,2.5,unhealthy,3
+3397,0,M12,B2,UW82,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW82_M6.wav,very low,7.4%,3.152625,3.2,unhealthy,0
+428,0,M07,B2,CW90,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW90_M6.wav,low,28%,4.139875,4.1,unhealthy,1
+2269,0,M08,B2,CW10,M6,/UASpeech/audio/noisereduce/M08/M08_B2_CW10_M6.wav,high,93%,1.96575,2.0,unhealthy,3
+2512,0,M05,B2,C9,M6,/UASpeech/audio/noisereduce/M05/M05_B2_C9_M6.wav,mid,58%,2.306375,2.3,unhealthy,2
+2742,0,F04,B2,UW95,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW95_M6.wav,mid,62%,2.4563125,2.5,unhealthy,2
+1215,0,M11,B2,CW8,M6,/UASpeech/audio/noisereduce/M11/M11_B2_CW8_M6.wav,mid,62%,3.1833125,3.2,unhealthy,2
+387,0,F03,B2,UW63,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW63_M6.wav,very low,6%,2.7610625,2.8,unhealthy,0
+104,0,M11,B2,LW,M6,/UASpeech/audio/noisereduce/M11/M11_B2_LW_M6.wav,mid,62%,3.8065,3.8,unhealthy,2
+711,0,F04,B2,LH,M6,/UASpeech/audio/noisereduce/F04/F04_B2_LH_M6.wav,mid,62%,2.4424375,2.4,unhealthy,2
+1421,0,F02,B2,LX,M6,/UASpeech/audio/noisereduce/F02/F02_B2_LX_M6.wav,low,29%,4.6730625,4.7,unhealthy,1
+3503,0,M08,B2,CW17,M6,/UASpeech/audio/noisereduce/M08/M08_B2_CW17_M6.wav,high,93%,2.388375,2.4,unhealthy,3
+842,0,F02,B2,UW83,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW83_M6.wav,low,29%,5.2288125,5.2,unhealthy,1
+328,0,F03,B2,CW45,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW45_M6.wav,very low,6%,2.7676875,2.8,unhealthy,0
+497,0,M04,B2,CW98,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW98_M6.wav,very low,2%,1.8363125,1.8,unhealthy,0
+1196,0,M12,B2,UW34,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW34_M6.wav,very low,7.4%,7.241,7.2,unhealthy,0
+1693,0,M08,B2,CW30,M6,/UASpeech/audio/noisereduce/M08/M08_B2_CW30_M6.wav,high,93%,2.2331875,2.2,unhealthy,3
+3252,0,M10,B2,UW38,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW38_M6.wav,high,93%,2.694125,2.7,unhealthy,3
+2583,0,F02,B2,CW72,M6,/UASpeech/audio/noisereduce/F02/F02_B2_CW72_M6.wav,low,29%,3.515,3.5,unhealthy,1
+710,0,F05,B2,UW13,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW13_M6.wav,high,95%,2.584125,2.6,unhealthy,3
+1729,0,M10,B2,LQ,M6,/UASpeech/audio/noisereduce/M10/M10_B2_LQ_M6.wav,high,93%,1.870125,1.9,unhealthy,3
+1372,0,M10,B2,CW28,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW28_M6.wav,high,93%,2.2295,2.2,unhealthy,3
+832,0,F04,B2,CW15,M6,/UASpeech/audio/noisereduce/F04/F04_B2_CW15_M6.wav,mid,62%,2.1060625,2.1,unhealthy,2
+2894,0,M12,B2,UW46,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW46_M6.wav,very low,7.4%,5.0431875,5.0,unhealthy,0
+902,0,M08,B2,UW24,M6,/UASpeech/audio/noisereduce/M08/M08_B2_UW24_M6.wav,high,93%,2.5418125,2.5,unhealthy,3
+396,0,M08,B2,UW1,M6,/UASpeech/audio/noisereduce/M08/M08_B2_UW1_M6.wav,high,93%,2.2439375,2.2,unhealthy,3
+1542,0,F02,B2,CW91,M6,/UASpeech/audio/noisereduce/F02/F02_B2_CW91_M6.wav,low,29%,3.470875,3.5,unhealthy,1
+90,0,F02,B2,UW50,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW50_M6.wav,low,29%,4.15925,4.2,unhealthy,1
+2915,0,M01,B2,LU,M6,/UASpeech/audio/noisereduce/M01/M01_B2_LU_M6.wav,very low,15%,5.808375,5.8,unhealthy,0
+885,0,F02,B2,CW24,M6,/UASpeech/audio/noisereduce/F02/F02_B2_CW24_M6.wav,low,29%,3.6125625,3.6,unhealthy,1
+1601,0,F05,B2,CW60,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW60_M6.wav,high,95%,1.7873125,1.8,unhealthy,3
+435,0,M10,B2,CW11,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW11_M6.wav,high,93%,2.0849375,2.1,unhealthy,3
+3384,0,M09,B2,CW13,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW13_M6.wav,high,86%,2.4889375,2.5,unhealthy,3
+2045,0,M04,B2,CW10,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW10_M6.wav,very low,2%,2.3545625,2.4,unhealthy,0
+942,0,F05,B2,CW100,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW100_M6.wav,high,95%,1.589625,1.6,unhealthy,3
+2857,0,F03,B2,CW66,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW66_M6.wav,very low,6%,2.7285,2.7,unhealthy,0
+2879,0,F05,B2,UW100,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW100_M6.wav,high,95%,1.8571875,1.9,unhealthy,3
+2012,0,M10,B2,UW46,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW46_M6.wav,high,93%,2.4410625,2.4,unhealthy,3
+2640,0,M07,B2,UW25,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW25_M6.wav,low,28%,3.57775,3.6,unhealthy,1
+1262,0,M11,B2,UW69,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW69_M6.wav,mid,62%,4.4673125,4.5,unhealthy,2
+3261,0,M11,B2,UW60,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW60_M6.wav,mid,62%,4.8405625,4.8,unhealthy,2
+985,0,F04,B2,CW64,M6,/UASpeech/audio/noisereduce/F04/F04_B2_CW64_M6.wav,mid,62%,2.3206875,2.3,unhealthy,2
+2855,0,M11,B2,UW57,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW57_M6.wav,mid,62%,6.6165625,6.6,unhealthy,2
+1334,0,M11,B2,LM,M6,/UASpeech/audio/noisereduce/M11/M11_B2_LM_M6.wav,mid,62%,2.30125,2.3,unhealthy,2
+1270,0,M08,B2,CW78,M6,/UASpeech/audio/noisereduce/M08/M08_B2_CW78_M6.wav,high,93%,2.177,2.2,unhealthy,3
+2221,0,M12,B2,UW54,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW54_M6.wav,very low,7.4%,4.435375,4.4,unhealthy,0
+819,0,F05,B2,UW61,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW61_M6.wav,high,95%,2.5715625,2.6,unhealthy,3
+2432,0,M08,B2,UW4,M6,/UASpeech/audio/noisereduce/M08/M08_B2_UW4_M6.wav,high,93%,2.4036875,2.4,unhealthy,3
+1914,0,F03,B2,UW6,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW6_M6.wav,very low,6%,2.2414375,2.2,unhealthy,0
+2152,0,F03,B2,UW73,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW73_M6.wav,very low,6%,3.2040625,3.2,unhealthy,0
+1665,0,M05,B2,LU,M6,/UASpeech/audio/noisereduce/M05/M05_B2_LU_M6.wav,mid,58%,2.7320625,2.7,unhealthy,2
+2380,0,M05,B2,CW46,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW46_M6.wav,mid,58%,2.864625,2.9,unhealthy,2
+2340,0,M08,B2,UW63,M6,/UASpeech/audio/noisereduce/M08/M08_B2_UW63_M6.wav,high,93%,4.8761875,4.9,unhealthy,3
+1862,0,M08,B2,CW61,M6,/UASpeech/audio/noisereduce/M08/M08_B2_CW61_M6.wav,high,93%,2.075375,2.1,unhealthy,3
+1595,0,M05,B2,CW96,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW96_M6.wav,mid,58%,2.0081875,2.0,unhealthy,2
+721,0,M09,B2,CW9,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW9_M6.wav,high,86%,2.1645625,2.2,unhealthy,3
+787,0,F02,B2,CW100,M6,/UASpeech/audio/noisereduce/F02/F02_B2_CW100_M6.wav,low,29%,3.855875,3.9,unhealthy,1
+148,0,M08,B2,D4,M6,/UASpeech/audio/noisereduce/M08/M08_B2_D4_M6.wav,high,93%,1.720875,1.7,unhealthy,3
+2009,0,M09,B2,LW,M6,/UASpeech/audio/noisereduce/M09/M09_B2_LW_M6.wav,high,86%,2.2165,2.2,unhealthy,3
+2621,0,F02,B2,UW97,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW97_M6.wav,low,29%,4.15225,4.2,unhealthy,1
+1567,0,F03,B2,UW57,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW57_M6.wav,very low,6%,4.29,4.3,unhealthy,0
+2179,0,M04,B2,LB,M6,/UASpeech/audio/noisereduce/M04/M04_B2_LB_M6.wav,very low,2%,2.3864375,2.4,unhealthy,0
+3431,0,M11,B2,CW97,M6,/UASpeech/audio/noisereduce/M11/M11_B2_CW97_M6.wav,mid,62%,3.4706875,3.5,unhealthy,2
+2140,0,F04,B2,C9,M6,/UASpeech/audio/noisereduce/F04/F04_B2_C9_M6.wav,mid,62%,2.1874375,2.2,unhealthy,2
+2050,0,M10,B2,CW89,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW89_M6.wav,high,93%,2.4766875,2.5,unhealthy,3
+2517,0,M10,B2,UW92,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW92_M6.wav,high,93%,2.4125,2.4,unhealthy,3
+2797,0,F04,B2,UW77,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW77_M6.wav,mid,62%,2.624625,2.6,unhealthy,2
+2914,0,M09,B2,C3,M6,/UASpeech/audio/noisereduce/M09/M09_B2_C3_M6.wav,high,86%,2.5073125,2.5,unhealthy,3
+2773,0,M10,B2,LS,M6,/UASpeech/audio/noisereduce/M10/M10_B2_LS_M6.wav,high,93%,2.0735,2.1,unhealthy,3
+1524,0,M07,B2,D6,M6,/UASpeech/audio/noisereduce/M07/M07_B2_D6_M6.wav,low,28%,1.67925,1.7,unhealthy,1
+1787,0,M08,B2,LD,M6,/UASpeech/audio/noisereduce/M08/M08_B2_LD_M6.wav,high,93%,2.0128125,2.0,unhealthy,3
+2006,0,M14,B2,UW25,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW25_M6.wav,high,90.4%,2.896625,2.9,unhealthy,3
+3326,0,M01,B2,CW23,M6,/UASpeech/audio/noisereduce/M01/M01_B2_CW23_M6.wav,very low,15%,3.6763125,3.7,unhealthy,0
+1328,0,F05,B2,UW71,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW71_M6.wav,high,95%,2.5406875,2.5,unhealthy,3
+487,0,M12,B2,CW88,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW88_M6.wav,very low,7.4%,2.924375,2.9,unhealthy,0
+2875,0,M12,B2,CW54,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW54_M6.wav,very low,7.4%,3.2301875,3.2,unhealthy,0
+2897,0,F03,B2,UW100,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW100_M6.wav,very low,6%,3.314125,3.3,unhealthy,0
+919,0,M07,B2,CW96,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW96_M6.wav,low,28%,1.922,1.9,unhealthy,1
+2782,0,M09,B2,UW81,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW81_M6.wav,high,86%,3.5325,3.5,unhealthy,3
+1048,0,M12,B2,UW63,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW63_M6.wav,very low,7.4%,4.2906875,4.3,unhealthy,0
+2751,0,M07,B2,CW92,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW92_M6.wav,low,28%,1.9645,2.0,unhealthy,1
+2729,0,F04,B2,UW85,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW85_M6.wav,mid,62%,2.6431875,2.6,unhealthy,2
+166,0,M11,B2,UW97,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW97_M6.wav,mid,62%,3.1378125,3.1,unhealthy,2
+2849,0,F05,B2,CW47,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW47_M6.wav,high,95%,2.365125,2.4,unhealthy,3
+3429,0,M07,B2,LE,M6,/UASpeech/audio/noisereduce/M07/M07_B2_LE_M6.wav,low,28%,2.54,2.5,unhealthy,1
+3148,0,M09,B2,UW34,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW34_M6.wav,high,86%,6.4024375,6.4,unhealthy,3
+1149,0,M09,B2,CW29,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW29_M6.wav,high,86%,2.856625,2.9,unhealthy,3
+2568,0,F04,B2,C16,M6,/UASpeech/audio/noisereduce/F04/F04_B2_C16_M6.wav,mid,62%,2.29,2.3,unhealthy,2
+1520,0,M10,B2,CW3,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW3_M6.wav,high,93%,1.97,2.0,unhealthy,3
+2254,0,M12,B2,CW91,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW91_M6.wav,very low,7.4%,3.7211875,3.7,unhealthy,0
+2988,0,F02,B2,LS,M6,/UASpeech/audio/noisereduce/F02/F02_B2_LS_M6.wav,low,29%,4.5363125,4.5,unhealthy,1
+1639,0,F05,B2,CW63,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW63_M6.wav,high,95%,1.9411875,1.9,unhealthy,3
+1628,0,M07,B2,LT,M6,/UASpeech/audio/noisereduce/M07/M07_B2_LT_M6.wav,low,28%,1.8730625,1.9,unhealthy,1
+3557,0,M01,B2,UW92,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW92_M6.wav,very low,15%,7.4819375,7.5,unhealthy,0
+3488,0,M08,B2,C14,M6,/UASpeech/audio/noisereduce/M08/M08_B2_C14_M6.wav,high,93%,2.0736875,2.1,unhealthy,3
+3189,0,M09,B2,CW56,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW56_M6.wav,high,86%,2.7895625,2.8,unhealthy,3
+1358,0,M08,B2,UW17,M6,/UASpeech/audio/noisereduce/M08/M08_B2_UW17_M6.wav,high,93%,4.243375,4.2,unhealthy,3
+687,0,M14,B2,CW35,M6,/UASpeech/audio/noisereduce/M14/M14_B2_CW35_M6.wav,high,90.4%,1.9353125,1.9,unhealthy,3
+1939,0,M09,B2,LG,M6,/UASpeech/audio/noisereduce/M09/M09_B2_LG_M6.wav,high,86%,2.373625,2.4,unhealthy,3
+541,0,M12,B2,UW9,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW9_M6.wav,very low,7.4%,4.5174375,4.5,unhealthy,0
+912,0,M07,B2,UW27,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW27_M6.wav,low,28%,4.7695625,4.8,unhealthy,1
+3024,0,F03,B2,UW66,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW66_M6.wav,very low,6%,5.712625,5.7,unhealthy,0
+2284,0,M10,B2,UW34,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW34_M6.wav,high,93%,2.2108125,2.2,unhealthy,3
+430,0,M10,B2,LV,M6,/UASpeech/audio/noisereduce/M10/M10_B2_LV_M6.wav,high,93%,2.321375,2.3,unhealthy,3
+1220,0,M07,B2,C15,M6,/UASpeech/audio/noisereduce/M07/M07_B2_C15_M6.wav,low,28%,2.7,2.7,unhealthy,1
+1924,0,M12,B2,C7,M6,/UASpeech/audio/noisereduce/M12/M12_B2_C7_M6.wav,very low,7.4%,3.458125,3.5,unhealthy,0
+1333,0,M11,B2,CW67,M6,/UASpeech/audio/noisereduce/M11/M11_B2_CW67_M6.wav,mid,62%,4.50675,4.5,unhealthy,2
+2070,0,M04,B2,UW10,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW10_M6.wav,very low,2%,2.7126875,2.7,unhealthy,0
+2431,0,M04,B2,LW,M6,/UASpeech/audio/noisereduce/M04/M04_B2_LW_M6.wav,very low,2%,2.6709375,2.7,unhealthy,0
+289,0,M05,B2,UW26,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW26_M6.wav,mid,58%,4.61225,4.6,unhealthy,2
+2062,0,F03,B2,LE,M6,/UASpeech/audio/noisereduce/F03/F03_B2_LE_M6.wav,very low,6%,2.166875,2.2,unhealthy,0
+2542,0,M07,B2,UW33,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW33_M6.wav,low,28%,4.155375,4.2,unhealthy,1
+1174,0,F05,B2,UW6,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW6_M6.wav,high,95%,1.919875,1.9,unhealthy,3
+1258,0,M11,B2,UW76,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW76_M6.wav,mid,62%,4.6513125,4.7,unhealthy,2
+418,0,M12,B2,UW56,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW56_M6.wav,very low,7.4%,3.9295625,3.9,unhealthy,0
+1235,0,M01,B2,C14,M6,/UASpeech/audio/noisereduce/M01/M01_B2_C14_M6.wav,very low,15%,2.879875,2.9,unhealthy,0
+2305,0,M14,B2,LN,M6,/UASpeech/audio/noisereduce/M14/M14_B2_LN_M6.wav,high,90.4%,2.1835,2.2,unhealthy,3
+2895,0,M07,B2,CW2,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW2_M6.wav,low,28%,4.10375,4.1,unhealthy,1
+1541,0,M01,B2,UW47,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW47_M6.wav,very low,15%,9.9296875,9.9,unhealthy,0
+1025,0,M12,B2,CW12,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW12_M6.wav,very low,7.4%,3.8080625,3.8,unhealthy,0
+945,0,M11,B2,CW73,M6,/UASpeech/audio/noisereduce/M11/M11_B2_CW73_M6.wav,mid,62%,4.5945,4.6,unhealthy,2
+1129,0,M07,B2,D3,M6,/UASpeech/audio/noisereduce/M07/M07_B2_D3_M6.wav,low,28%,5.085,5.1,unhealthy,1
+3000,0,M14,B2,UW54,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW54_M6.wav,high,90.4%,3.327875,3.3,unhealthy,3
+3380,0,M10,B2,CW88,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW88_M6.wav,high,93%,2.3995625,2.4,unhealthy,3
+1790,0,M07,B2,UW48,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW48_M6.wav,low,28%,2.971375,3.0,unhealthy,1
+2413,0,M12,B2,UW38,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW38_M6.wav,very low,7.4%,5.3510625,5.4,unhealthy,0
+2243,0,F05,B2,CW48,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW48_M6.wav,high,95%,2.93125,2.9,unhealthy,3
+3392,0,M12,B2,LI,M6,/UASpeech/audio/noisereduce/M12/M12_B2_LI_M6.wav,very low,7.4%,3.4846875,3.5,unhealthy,0
+2767,0,F03,B2,UW86,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW86_M6.wav,very low,6%,2.955875,3.0,unhealthy,0
+3341,0,M01,B2,UW68,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW68_M6.wav,very low,15%,7.768625,7.8,unhealthy,0
+1166,0,M14,B2,UW7,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW7_M6.wav,high,90.4%,2.3025625,2.3,unhealthy,3
+2674,0,F05,B2,UW93,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW93_M6.wav,high,95%,1.94,1.9,unhealthy,3
+46,0,F02,B2,CW4,M6,/UASpeech/audio/noisereduce/F02/F02_B2_CW4_M6.wav,low,29%,3.1073125,3.1,unhealthy,1
+3428,0,M09,B2,UW96,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW96_M6.wav,high,86%,3.3180625,3.3,unhealthy,3
+2591,0,M12,B2,UW94,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW94_M6.wav,very low,7.4%,3.6005,3.6,unhealthy,0
+236,0,M08,B2,UW61,M6,/UASpeech/audio/noisereduce/M08/M08_B2_UW61_M6.wav,high,93%,2.63075,2.6,unhealthy,3
+1347,0,F05,B2,UW76,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW76_M6.wav,high,95%,2.4511875,2.5,unhealthy,3
+1332,0,M08,B2,UW25,M6,/UASpeech/audio/noisereduce/M08/M08_B2_UW25_M6.wav,high,93%,2.4734375,2.5,unhealthy,3
+3541,0,M01,B2,CW35,M6,/UASpeech/audio/noisereduce/M01/M01_B2_CW35_M6.wav,very low,15%,3.100625,3.1,unhealthy,0
+2444,0,M10,B2,UW62,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW62_M6.wav,high,93%,2.501875,2.5,unhealthy,3
+93,0,M01,B2,CW4,M6,/UASpeech/audio/noisereduce/M01/M01_B2_CW4_M6.wav,very low,15%,4.5080625,4.5,unhealthy,0
+2485,0,F04,B2,C6,M6,/UASpeech/audio/noisereduce/F04/F04_B2_C6_M6.wav,mid,62%,2.2826875,2.3,unhealthy,2
+855,0,M10,B2,CW66,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW66_M6.wav,high,93%,2.476,2.5,unhealthy,3
+2023,0,M14,B2,UW1,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW1_M6.wav,high,90.4%,2.0866875,2.1,unhealthy,3
+3508,0,M12,B2,CW8,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW8_M6.wav,very low,7.4%,3.551125,3.6,unhealthy,0
+3389,0,M07,B2,C19,M6,/UASpeech/audio/noisereduce/M07/M07_B2_C19_M6.wav,low,28%,2.1266875,2.1,unhealthy,1
+127,0,M10,B2,CW92,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW92_M6.wav,high,93%,2.2449375,2.2,unhealthy,3
+785,0,M04,B2,C3,M6,/UASpeech/audio/noisereduce/M04/M04_B2_C3_M6.wav,very low,2%,2.0096875,2.0,unhealthy,0
+3213,0,M05,B2,CW41,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW41_M6.wav,mid,58%,2.2520625,2.3,unhealthy,2
+324,0,M05,B2,UW71,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW71_M6.wav,mid,58%,2.5056875,2.5,unhealthy,2
+1207,0,M05,B2,UW29,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW29_M6.wav,mid,58%,3.7188125,3.7,unhealthy,2
+307,0,F02,B2,UW52,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW52_M6.wav,low,29%,6.3793125,6.4,unhealthy,1
+2119,0,F04,B2,CW69,M6,/UASpeech/audio/noisereduce/F04/F04_B2_CW69_M6.wav,mid,62%,2.0069375,2.0,unhealthy,2
+1058,0,F03,B2,CW81,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW81_M6.wav,very low,6%,3.3223125,3.3,unhealthy,0
+3500,0,M11,B2,C7,M6,/UASpeech/audio/noisereduce/M11/M11_B2_C7_M6.wav,mid,62%,3.53125,3.5,unhealthy,2
+930,0,M14,B2,CW83,M6,/UASpeech/audio/noisereduce/M14/M14_B2_CW83_M6.wav,high,90.4%,2.1193125,2.1,unhealthy,3
+847,0,F04,B2,LR,M6,/UASpeech/audio/noisereduce/F04/F04_B2_LR_M6.wav,mid,62%,5.7295,5.7,unhealthy,2
+2421,0,M09,B2,UW36,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW36_M6.wav,high,86%,8.3375,8.3,unhealthy,3
+55,0,M04,B2,C10,M6,/UASpeech/audio/noisereduce/M04/M04_B2_C10_M6.wav,very low,2%,2.3428125,2.3,unhealthy,0
+3171,0,M08,B2,UW22,M6,/UASpeech/audio/noisereduce/M08/M08_B2_UW22_M6.wav,high,93%,3.798375,3.8,unhealthy,3
+57,0,M01,B2,CW88,M6,/UASpeech/audio/noisereduce/M01/M01_B2_CW88_M6.wav,very low,15%,8.2529375,8.3,unhealthy,0
+3519,0,F04,B2,CW82,M6,/UASpeech/audio/noisereduce/F04/F04_B2_CW82_M6.wav,mid,62%,2.5189375,2.5,unhealthy,2
+3420,0,M05,B2,UW76,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW76_M6.wav,mid,58%,2.8495,2.8,unhealthy,2
+146,0,M12,B2,UW90,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW90_M6.wav,very low,7.4%,3.2736875,3.3,unhealthy,0
+2330,0,M10,B2,LG,M6,/UASpeech/audio/noisereduce/M10/M10_B2_LG_M6.wav,high,93%,2.1430625,2.1,unhealthy,3
+112,0,F05,B2,UW24,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW24_M6.wav,high,95%,2.2456875,2.2,unhealthy,3
+2355,0,M14,B2,UW69,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW69_M6.wav,high,90.4%,2.2579375,2.3,unhealthy,3
+2205,0,M10,B2,UW20,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW20_M6.wav,high,93%,2.4786875,2.5,unhealthy,3
+54,0,M08,B2,CW76,M6,/UASpeech/audio/noisereduce/M08/M08_B2_CW76_M6.wav,high,93%,2.448375,2.4,unhealthy,3
+1931,0,M05,B2,CW86,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW86_M6.wav,mid,58%,3.3059375,3.3,unhealthy,2
+1570,0,M05,B2,UW4,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW4_M6.wav,mid,58%,2.483375,2.5,unhealthy,2
+1026,0,F02,B2,UW40,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW40_M6.wav,low,29%,3.97175,4.0,unhealthy,1
+1585,0,M12,B2,CW19,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW19_M6.wav,very low,7.4%,3.5131875,3.5,unhealthy,0
+2704,0,M04,B2,C11,M6,/UASpeech/audio/noisereduce/M04/M04_B2_C11_M6.wav,very low,2%,3.791875,3.8,unhealthy,0
+565,0,F03,B2,UW43,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW43_M6.wav,very low,6%,8.0188125,8.0,unhealthy,0
+1062,0,M11,B2,CW33,M6,/UASpeech/audio/noisereduce/M11/M11_B2_CW33_M6.wav,mid,62%,2.627625,2.6,unhealthy,2
+1928,0,M05,B2,CW90,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW90_M6.wav,mid,58%,2.0945,2.1,unhealthy,2
+944,0,F04,B2,CW84,M6,/UASpeech/audio/noisereduce/F04/F04_B2_CW84_M6.wav,mid,62%,2.1754375,2.2,unhealthy,2
+1415,0,F05,B2,CW55,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW55_M6.wav,high,95%,2.032,2.0,unhealthy,3
+3133,0,M04,B2,CW6,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW6_M6.wav,very low,2%,1.8048125,1.8,unhealthy,0
+1969,0,F03,B2,C3,M6,/UASpeech/audio/noisereduce/F03/F03_B2_C3_M6.wav,very low,6%,2.907375,2.9,unhealthy,0
+2028,0,F05,B2,UW67,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW67_M6.wav,high,95%,1.834375,1.8,unhealthy,3
+1572,0,M05,B2,UW85,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW85_M6.wav,mid,58%,2.8258125,2.8,unhealthy,2
+761,0,M04,B2,UW43,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW43_M6.wav,very low,2%,3.1039375,3.1,unhealthy,0
+2694,0,M01,B2,UW96,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW96_M6.wav,very low,15%,6.1423125,6.1,unhealthy,0
+2846,0,M05,B2,CW6,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW6_M6.wav,mid,58%,4.1154375,4.1,unhealthy,2
+2068,0,M14,B2,UW79,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW79_M6.wav,high,90.4%,2.5050625,2.5,unhealthy,3
+765,0,M14,B2,UW59,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW59_M6.wav,high,90.4%,2.186,2.2,unhealthy,3
+287,0,F02,B2,CW35,M6,/UASpeech/audio/noisereduce/F02/F02_B2_CW35_M6.wav,low,29%,3.06975,3.1,unhealthy,1
+3532,0,F02,B2,CW42,M6,/UASpeech/audio/noisereduce/F02/F02_B2_CW42_M6.wav,low,29%,2.763125,2.8,unhealthy,1
+1181,0,M01,B2,LX,M6,/UASpeech/audio/noisereduce/M01/M01_B2_LX_M6.wav,very low,15%,6.9724375,7.0,unhealthy,0
+578,0,F05,B2,UW20,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW20_M6.wav,high,95%,2.3769375,2.4,unhealthy,3
+2815,0,M04,B2,UW53,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW53_M6.wav,very low,2%,2.8186875,2.8,unhealthy,0
+117,0,F02,B2,LW,M6,/UASpeech/audio/noisereduce/F02/F02_B2_LW_M6.wav,low,29%,4.109625,4.1,unhealthy,1
+2571,0,F05,B2,UW30,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW30_M6.wav,high,95%,21.4253125,21.4,unhealthy,3
+456,0,M12,B2,CW72,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW72_M6.wav,very low,7.4%,3.5695625,3.6,unhealthy,0
+2716,0,M11,B2,UW86,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW86_M6.wav,mid,62%,3.4891875,3.5,unhealthy,2
+1107,0,M14,B2,D7,M6,/UASpeech/audio/noisereduce/M14/M14_B2_D7_M6.wav,high,90.4%,2.0888125,2.1,unhealthy,3
+1771,0,M01,B2,CW24,M6,/UASpeech/audio/noisereduce/M01/M01_B2_CW24_M6.wav,very low,15%,3.1211875,3.1,unhealthy,0
+2178,0,M04,B2,UW69,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW69_M6.wav,very low,2%,1.784625,1.8,unhealthy,0
+2886,0,F03,B2,UW18,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW18_M6.wav,very low,6%,3.16325,3.2,unhealthy,0
+279,0,F05,B2,UW37,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW37_M6.wav,high,95%,4.692125,4.7,unhealthy,3
+2551,0,M14,B2,C9,M6,/UASpeech/audio/noisereduce/M14/M14_B2_C9_M6.wav,high,90.4%,2.0940625,2.1,unhealthy,3
+886,0,M12,B2,UW71,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW71_M6.wav,very low,7.4%,3.45575,3.5,unhealthy,0
+2147,0,F05,B2,C18,M6,/UASpeech/audio/noisereduce/F05/F05_B2_C18_M6.wav,high,95%,1.938875,1.9,unhealthy,3
+1044,0,M11,B2,D9,M6,/UASpeech/audio/noisereduce/M11/M11_B2_D9_M6.wav,mid,62%,2.4668125,2.5,unhealthy,2
+872,0,M12,B2,UW65,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW65_M6.wav,very low,7.4%,4.3455,4.3,unhealthy,0
+1133,0,M08,B2,LC,M6,/UASpeech/audio/noisereduce/M08/M08_B2_LC_M6.wav,high,93%,2.2760625,2.3,unhealthy,3
+1405,0,M05,B2,UW55,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW55_M6.wav,mid,58%,3.0604375,3.1,unhealthy,2
+3490,0,M04,B2,CW7,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW7_M6.wav,very low,2%,1.7970625,1.8,unhealthy,0
+2912,0,M10,B2,CW24,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW24_M6.wav,high,93%,2.080875,2.1,unhealthy,3
+2907,0,M09,B2,D6,M6,/UASpeech/audio/noisereduce/M09/M09_B2_D6_M6.wav,high,86%,2.0151875,2.0,unhealthy,3
+558,0,M01,B2,CW10,M6,/UASpeech/audio/noisereduce/M01/M01_B2_CW10_M6.wav,very low,15%,2.8855,2.9,unhealthy,0
+1035,0,M01,B2,CW22,M6,/UASpeech/audio/noisereduce/M01/M01_B2_CW22_M6.wav,very low,15%,4.774625,4.8,unhealthy,0
+2158,0,M09,B2,UW89,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW89_M6.wav,high,86%,2.6461875,2.6,unhealthy,3
+1555,0,M11,B2,UW4,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW4_M6.wav,mid,62%,6.0303125,6.0,unhealthy,2
+2247,0,M05,B2,UW97,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW97_M6.wav,mid,58%,1.90575,1.9,unhealthy,2
+1706,0,M05,B2,CW87,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW87_M6.wav,mid,58%,3.0068125,3.0,unhealthy,2
+195,0,M08,B2,D5,M6,/UASpeech/audio/noisereduce/M08/M08_B2_D5_M6.wav,high,93%,1.9825,2.0,unhealthy,3
+3131,0,M07,B2,UW20,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW20_M6.wav,low,28%,3.65075,3.7,unhealthy,1
+3224,0,M12,B2,UW75,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW75_M6.wav,very low,7.4%,4.01175,4.0,unhealthy,0
+1011,0,F02,B2,CW98,M6,/UASpeech/audio/noisereduce/F02/F02_B2_CW98_M6.wav,low,29%,3.9165,3.9,unhealthy,1
+266,0,F04,B2,UW40,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW40_M6.wav,mid,62%,2.90775,2.9,unhealthy,2
+2220,0,M04,B2,CW97,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW97_M6.wav,very low,2%,1.6570625,1.7,unhealthy,0
+3368,0,F05,B2,UW42,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW42_M6.wav,high,95%,2.840875,2.8,unhealthy,3
+3243,0,M12,B2,UW76,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW76_M6.wav,very low,7.4%,6.6719375,6.7,unhealthy,0
+2151,0,M12,B2,CW17,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW17_M6.wav,very low,7.4%,5.78,5.8,unhealthy,0
+915,0,M08,B2,UW32,M6,/UASpeech/audio/noisereduce/M08/M08_B2_UW32_M6.wav,high,93%,3.231125,3.2,unhealthy,3
+743,0,F04,B2,UW58,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW58_M6.wav,mid,62%,2.980375,3.0,unhealthy,2
+2165,0,F04,B2,CW4,M6,/UASpeech/audio/noisereduce/F04/F04_B2_CW4_M6.wav,mid,62%,1.9675625,2.0,unhealthy,2
+680,0,M04,B2,UW66,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW66_M6.wav,very low,2%,2.9509375,3.0,unhealthy,0
+1802,0,M08,B2,LM,M6,/UASpeech/audio/noisereduce/M08/M08_B2_LM_M6.wav,high,93%,2.2238125,2.2,unhealthy,3
+1330,0,F02,B2,UW54,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW54_M6.wav,low,29%,4.291125,4.3,unhealthy,1
+1263,0,M11,B2,D0,M6,/UASpeech/audio/noisereduce/M11/M11_B2_D0_M6.wav,mid,62%,2.7968125,2.8,unhealthy,2
+2022,0,F03,B2,UW12,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW12_M6.wav,very low,6%,6.8989375,6.9,unhealthy,0
+156,0,M08,B2,CW47,M6,/UASpeech/audio/noisereduce/M08/M08_B2_CW47_M6.wav,high,93%,2.2955625,2.3,unhealthy,3
+3554,0,F05,B2,CW61,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW61_M6.wav,high,95%,1.9315,1.9,unhealthy,3
+1442,0,M01,B2,D5,M6,/UASpeech/audio/noisereduce/M01/M01_B2_D5_M6.wav,very low,15%,2.037125,2.0,unhealthy,0
+534,0,F02,B2,CW79,M6,/UASpeech/audio/noisereduce/F02/F02_B2_CW79_M6.wav,low,29%,4.3961875,4.4,unhealthy,1
+3361,0,M14,B2,UW44,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW44_M6.wav,high,90.4%,2.0180625,2.0,unhealthy,3
+1233,0,F03,B2,UW65,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW65_M6.wav,very low,6%,6.4266875,6.4,unhealthy,0
+1726,0,M09,B2,UW12,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW12_M6.wav,high,86%,3.06,3.1,unhealthy,3
+2586,0,F05,B2,CW20,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW20_M6.wav,high,95%,1.8576875,1.9,unhealthy,3
+3300,0,F05,B2,UW96,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW96_M6.wav,high,95%,2.02725,2.0,unhealthy,3
+772,0,M12,B2,CW67,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW67_M6.wav,very low,7.4%,3.54475,3.5,unhealthy,0
+3079,0,F03,B2,CW19,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW19_M6.wav,very low,6%,2.6689375,2.7,unhealthy,0
+1486,0,F02,B2,UW34,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW34_M6.wav,low,29%,5.319625,5.3,unhealthy,1
+1113,0,F04,B2,UW22,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW22_M6.wav,mid,62%,4.20675,4.2,unhealthy,2
+183,0,M08,B2,UW56,M6,/UASpeech/audio/noisereduce/M08/M08_B2_UW56_M6.wav,high,93%,2.3701875,2.4,unhealthy,3
+1739,0,M08,B2,UW80,M6,/UASpeech/audio/noisereduce/M08/M08_B2_UW80_M6.wav,high,93%,2.9901875,3.0,unhealthy,3
+862,0,M08,B2,CW87,M6,/UASpeech/audio/noisereduce/M08/M08_B2_CW87_M6.wav,high,93%,2.3116875,2.3,unhealthy,3
+1533,0,M01,B2,D2,M6,/UASpeech/audio/noisereduce/M01/M01_B2_D2_M6.wav,very low,15%,3.0999375,3.1,unhealthy,0
+2097,0,M10,B2,UW27,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW27_M6.wav,high,93%,2.3956875,2.4,unhealthy,3
+2673,0,M10,B2,LY,M6,/UASpeech/audio/noisereduce/M10/M10_B2_LY_M6.wav,high,93%,2.237,2.2,unhealthy,3
+414,0,F05,B2,CW62,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW62_M6.wav,high,95%,1.8561875,1.9,unhealthy,3
+632,0,M04,B2,UW28,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW28_M6.wav,very low,2%,2.761,2.8,unhealthy,0
+686,0,M05,B2,C6,M6,/UASpeech/audio/noisereduce/M05/M05_B2_C6_M6.wav,mid,58%,2.69725,2.7,unhealthy,2
+2007,0,M04,B2,CW73,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW73_M6.wav,very low,2%,2.9258125,2.9,unhealthy,0
+1397,0,M10,B2,UW88,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW88_M6.wav,high,93%,2.35125,2.4,unhealthy,3
+1211,0,M04,B2,CW43,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW43_M6.wav,very low,2%,2.5486875,2.5,unhealthy,0
+1479,0,M14,B2,LZ,M6,/UASpeech/audio/noisereduce/M14/M14_B2_LZ_M6.wav,high,90.4%,2.2081875,2.2,unhealthy,3
+1752,0,M09,B2,UW68,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW68_M6.wav,high,86%,3.098,3.1,unhealthy,3
+219,0,M04,B2,CW80,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW80_M6.wav,very low,2%,2.0275625,2.0,unhealthy,0
+1230,0,M09,B2,CW94,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW94_M6.wav,high,86%,2.53625,2.5,unhealthy,3
+3444,0,F02,B2,UW32,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW32_M6.wav,low,29%,5.236375,5.2,unhealthy,1
+250,0,M04,B2,LR,M6,/UASpeech/audio/noisereduce/M04/M04_B2_LR_M6.wav,very low,2%,2.3415,2.3,unhealthy,0
+2427,0,M14,B2,UW75,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW75_M6.wav,high,90.4%,2.385875,2.4,unhealthy,3
+3561,0,M07,B2,LL,M6,/UASpeech/audio/noisereduce/M07/M07_B2_LL_M6.wav,low,28%,5.789875,5.8,unhealthy,1
+604,0,M10,B2,UW94,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW94_M6.wav,high,93%,2.453875,2.5,unhealthy,3
+410,0,M14,B2,CW34,M6,/UASpeech/audio/noisereduce/M14/M14_B2_CW34_M6.wav,high,90.4%,2.2165,2.2,unhealthy,3
+154,0,M09,B2,UW45,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW45_M6.wav,high,86%,2.6985,2.7,unhealthy,3
+3339,0,F02,B2,UW47,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW47_M6.wav,low,29%,4.43125,4.4,unhealthy,1
+1621,0,M05,B2,CW9,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW9_M6.wav,mid,58%,2.7596875,2.8,unhealthy,2
+2230,0,M11,B2,LF,M6,/UASpeech/audio/noisereduce/M11/M11_B2_LF_M6.wav,mid,62%,4.782125,4.8,unhealthy,2
+3305,0,M10,B2,CW6,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW6_M6.wav,high,93%,1.9545,2.0,unhealthy,3
+2472,0,M14,B2,UW49,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW49_M6.wav,high,90.4%,2.5693125,2.6,unhealthy,3
+2478,0,M09,B2,CW36,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW36_M6.wav,high,86%,2.63925,2.6,unhealthy,3
+342,0,F04,B2,UW76,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW76_M6.wav,mid,62%,18.5384375,18.5,unhealthy,2
+2174,0,M07,B2,UW23,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW23_M6.wav,low,28%,3.6424375,3.6,unhealthy,1
+2501,0,M10,B2,LE,M6,/UASpeech/audio/noisereduce/M10/M10_B2_LE_M6.wav,high,93%,1.8375625,1.8,unhealthy,3
+2584,0,M14,B2,UW32,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW32_M6.wav,high,90.4%,2.7126875,2.7,unhealthy,3
+639,0,F05,B2,CW85,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW85_M6.wav,high,95%,1.7376875,1.7,unhealthy,3
+1489,0,M12,B2,CW30,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW30_M6.wav,very low,7.4%,3.481625,3.5,unhealthy,0
+2263,0,M01,B2,UW7,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW7_M6.wav,very low,15%,11.72,11.7,unhealthy,0
+734,0,M01,B2,CW2,M6,/UASpeech/audio/noisereduce/M01/M01_B2_CW2_M6.wav,very low,15%,4.2469375,4.2,unhealthy,0
+296,0,M12,B2,UW91,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW91_M6.wav,very low,7.4%,3.783375,3.8,unhealthy,0
+1394,0,M05,B2,CW37,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW37_M6.wav,mid,58%,2.2936875,2.3,unhealthy,2
+2039,0,M12,B2,UW7,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW7_M6.wav,very low,7.4%,6.1404375,6.1,unhealthy,0
+1506,0,M07,B2,UW18,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW18_M6.wav,low,28%,5.5334375,5.5,unhealthy,1
+1460,0,F05,B2,UW64,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW64_M6.wav,high,95%,2.1225625,2.1,unhealthy,3
+1247,0,M14,B2,CW90,M6,/UASpeech/audio/noisereduce/M14/M14_B2_CW90_M6.wav,high,90.4%,2.0103125,2.0,unhealthy,3
+3507,0,M10,B2,CW73,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW73_M6.wav,high,93%,2.226375,2.2,unhealthy,3
+150,0,M09,B2,C9,M6,/UASpeech/audio/noisereduce/M09/M09_B2_C9_M6.wav,high,86%,2.3063125,2.3,unhealthy,3
+1493,0,M11,B2,UW80,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW80_M6.wav,mid,62%,4.5109375,4.5,unhealthy,2
+3548,0,M04,B2,CW32,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW32_M6.wav,very low,2%,2.3006875,2.3,unhealthy,0
+977,0,M04,B2,CW29,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW29_M6.wav,very low,2%,2.100375,2.1,unhealthy,0
+2051,0,M01,B2,UW80,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW80_M6.wav,very low,15%,8.237375,8.2,unhealthy,0
+2958,0,F03,B2,CW84,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW84_M6.wav,very low,6%,2.213875,2.2,unhealthy,0
+3295,0,F02,B2,D2,M6,/UASpeech/audio/noisereduce/F02/F02_B2_D2_M6.wav,low,29%,3.7,3.7,unhealthy,1
+36,0,M08,B2,C4,M6,/UASpeech/audio/noisereduce/M08/M08_B2_C4_M6.wav,high,93%,2.953375,3.0,unhealthy,3
+2067,0,M01,B2,UW60,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW60_M6.wav,very low,15%,6.0538125,6.1,unhealthy,0
+2190,0,F02,B2,C2,M6,/UASpeech/audio/noisereduce/F02/F02_B2_C2_M6.wav,low,29%,5.6961875,5.7,unhealthy,1
+2618,0,M05,B2,D4,M6,/UASpeech/audio/noisereduce/M05/M05_B2_D4_M6.wav,mid,58%,2.0996875,2.1,unhealthy,2
+3418,0,M08,B2,LF,M6,/UASpeech/audio/noisereduce/M08/M08_B2_LF_M6.wav,high,93%,2.5110625,2.5,unhealthy,3
+3145,0,M08,B2,CW100,M6,/UASpeech/audio/noisereduce/M08/M08_B2_CW100_M6.wav,high,93%,2.19025,2.2,unhealthy,3
+331,0,F05,B2,UW79,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW79_M6.wav,high,95%,2.983625,3.0,unhealthy,3
+856,0,M05,B2,LZ,M6,/UASpeech/audio/noisereduce/M05/M05_B2_LZ_M6.wav,mid,58%,2.1610625,2.2,unhealthy,2
+1528,0,M09,B2,UW38,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW38_M6.wav,high,86%,3.0994375,3.1,unhealthy,3
+1677,0,M04,B2,UW82,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW82_M6.wav,very low,2%,2.689875,2.7,unhealthy,0
+3439,0,F02,B2,CW82,M6,/UASpeech/audio/noisereduce/F02/F02_B2_CW82_M6.wav,low,29%,4.5998125,4.6,unhealthy,1
+2538,0,F03,B2,CW54,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW54_M6.wav,very low,6%,2.8274375,2.8,unhealthy,0
+1938,0,M07,B2,CW66,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW66_M6.wav,low,28%,2.40575,2.4,unhealthy,1
+123,0,M01,B2,UW49,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW49_M6.wav,very low,15%,27.3866875,27.4,unhealthy,0
+824,0,M08,B2,UW92,M6,/UASpeech/audio/noisereduce/M08/M08_B2_UW92_M6.wav,high,93%,2.774625,2.8,unhealthy,3
+2635,0,M11,B2,D8,M6,/UASpeech/audio/noisereduce/M11/M11_B2_D8_M6.wav,mid,62%,2.993375,3.0,unhealthy,2
+3316,0,M07,B2,UW46,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW46_M6.wav,low,28%,2.7525625,2.8,unhealthy,1
+243,0,F05,B2,CW73,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW73_M6.wav,high,95%,1.882,1.9,unhealthy,3
+1120,0,M09,B2,C15,M6,/UASpeech/audio/noisereduce/M09/M09_B2_C15_M6.wav,high,86%,2.7383125,2.7,unhealthy,3
+3083,0,F03,B2,UW85,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW85_M6.wav,very low,6%,3.600875,3.6,unhealthy,0
+2953,0,M10,B2,CW54,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW54_M6.wav,high,93%,2.1475,2.1,unhealthy,3
+209,0,M10,B2,UW1,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW1_M6.wav,high,93%,2.5448125,2.5,unhealthy,3
+1236,0,F04,B2,UW6,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW6_M6.wav,mid,62%,2.364125,2.4,unhealthy,2
+2226,0,M05,B2,D8,M6,/UASpeech/audio/noisereduce/M05/M05_B2_D8_M6.wav,mid,58%,2.7308125,2.7,unhealthy,2
+2398,0,M11,B2,LY,M6,/UASpeech/audio/noisereduce/M11/M11_B2_LY_M6.wav,mid,62%,4.1245625,4.1,unhealthy,2
+3044,0,M08,B2,UW6,M6,/UASpeech/audio/noisereduce/M08/M08_B2_UW6_M6.wav,high,93%,2.73,2.7,unhealthy,3
+2026,0,M11,B2,C19,M6,/UASpeech/audio/noisereduce/M11/M11_B2_C19_M6.wav,mid,62%,3.0488125,3.0,unhealthy,2
+1396,0,M12,B2,LW,M6,/UASpeech/audio/noisereduce/M12/M12_B2_LW_M6.wav,very low,7.4%,3.938875,3.9,unhealthy,0
+581,0,M12,B2,UW67,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW67_M6.wav,very low,7.4%,4.3164375,4.3,unhealthy,0
+1927,0,M14,B2,CW73,M6,/UASpeech/audio/noisereduce/M14/M14_B2_CW73_M6.wav,high,90.4%,1.9178125,1.9,unhealthy,3
+2483,0,M12,B2,CW34,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW34_M6.wav,very low,7.4%,4.1390625,4.1,unhealthy,0
+3168,0,M10,B2,CW62,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW62_M6.wav,high,93%,2.4443125,2.4,unhealthy,3
+864,0,M10,B2,C2,M6,/UASpeech/audio/noisereduce/M10/M10_B2_C2_M6.wav,high,93%,2.376625,2.4,unhealthy,3
+1029,0,M07,B2,UW94,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW94_M6.wav,low,28%,2.659125,2.7,unhealthy,1
+1341,0,M07,B2,CW50,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW50_M6.wav,low,28%,1.96475,2.0,unhealthy,1
+2393,0,M11,B2,UW53,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW53_M6.wav,mid,62%,2.7876875,2.8,unhealthy,2
+619,0,M12,B2,UW16,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW16_M6.wav,very low,7.4%,5.157875,5.2,unhealthy,0
+2765,0,M04,B2,CW47,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW47_M6.wav,very low,2%,2.222875,2.2,unhealthy,0
+2763,0,M11,B2,UW58,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW58_M6.wav,mid,62%,3.3910625,3.4,unhealthy,2
+2344,0,M12,B2,C9,M6,/UASpeech/audio/noisereduce/M12/M12_B2_C9_M6.wav,very low,7.4%,3.5398125,3.5,unhealthy,0
+3190,0,M14,B2,LA,M6,/UASpeech/audio/noisereduce/M14/M14_B2_LA_M6.wav,high,90.4%,1.87175,1.9,unhealthy,3
+2027,0,M05,B2,UW36,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW36_M6.wav,mid,58%,4.2793125,4.3,unhealthy,2
+3220,0,M10,B2,CW85,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW85_M6.wav,high,93%,2.4424375,2.4,unhealthy,3
+390,0,F04,B2,C15,M6,/UASpeech/audio/noisereduce/F04/F04_B2_C15_M6.wav,mid,62%,2.85875,2.9,unhealthy,2
+2758,0,M08,B2,CW52,M6,/UASpeech/audio/noisereduce/M08/M08_B2_CW52_M6.wav,high,93%,2.439125,2.4,unhealthy,3
+217,0,M07,B2,UW43,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW43_M6.wav,low,28%,2.4835,2.5,unhealthy,1
+3153,0,M10,B2,LK,M6,/UASpeech/audio/noisereduce/M10/M10_B2_LK_M6.wav,high,93%,2.04125,2.0,unhealthy,3
+2451,0,M07,B2,UW38,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW38_M6.wav,low,28%,2.3375625,2.3,unhealthy,1
+38,0,M14,B2,UW14,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW14_M6.wav,high,90.4%,2.1329375,2.1,unhealthy,3
+3098,0,M05,B2,UW77,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW77_M6.wav,mid,58%,3.27075,3.3,unhealthy,2
+3530,0,M14,B2,UW24,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW24_M6.wav,high,90.4%,3.322,3.3,unhealthy,3
+3205,0,M10,B2,CW37,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW37_M6.wav,high,93%,2.4031875,2.4,unhealthy,3
+1737,0,M14,B2,CW19,M6,/UASpeech/audio/noisereduce/M14/M14_B2_CW19_M6.wav,high,90.4%,2.0671875,2.1,unhealthy,3
+2838,0,F04,B2,UW25,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW25_M6.wav,mid,62%,2.532375,2.5,unhealthy,2
+34,0,M11,B2,UW96,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW96_M6.wav,mid,62%,3.663625,3.7,unhealthy,2
+750,0,M10,B2,UW17,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW17_M6.wav,high,93%,2.736125,2.7,unhealthy,3
+3122,0,F03,B2,CW17,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW17_M6.wav,very low,6%,2.8405,2.8,unhealthy,0
+3196,0,M14,B2,UW82,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW82_M6.wav,high,90.4%,2.005625,2.0,unhealthy,3
+2781,0,F05,B2,UW9,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW9_M6.wav,high,95%,2.997625,3.0,unhealthy,3
+1823,0,M05,B2,CW2,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW2_M6.wav,mid,58%,5.014125,5.0,unhealthy,2
+2477,0,F05,B2,UW44,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW44_M6.wav,high,95%,3.4409375,3.4,unhealthy,3
+1388,0,F02,B2,UW51,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW51_M6.wav,low,29%,5.7745625,5.8,unhealthy,1
+318,0,M01,B2,CW16,M6,/UASpeech/audio/noisereduce/M01/M01_B2_CW16_M6.wav,very low,15%,9.808625,9.8,unhealthy,0
+655,0,M09,B2,CW14,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW14_M6.wav,high,86%,2.797625,2.8,unhealthy,3
+2063,0,M01,B2,UW20,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW20_M6.wav,very low,15%,13.867375,13.9,unhealthy,0
+1352,0,M08,B2,UW2,M6,/UASpeech/audio/noisereduce/M08/M08_B2_UW2_M6.wav,high,93%,2.51425,2.5,unhealthy,3
+1632,0,M01,B2,CW95,M6,/UASpeech/audio/noisereduce/M01/M01_B2_CW95_M6.wav,very low,15%,5.05275,5.1,unhealthy,0
+2910,0,M07,B2,CW43,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW43_M6.wav,low,28%,2.5689375,2.6,unhealthy,1
+1950,0,M10,B2,CW61,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW61_M6.wav,high,93%,2.243625,2.2,unhealthy,3
+340,0,M01,B2,CW50,M6,/UASpeech/audio/noisereduce/M01/M01_B2_CW50_M6.wav,very low,15%,3.1724375,3.2,unhealthy,0
+70,0,M10,B2,CW13,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW13_M6.wav,high,93%,2.246875,2.2,unhealthy,3
+2168,0,M11,B2,UW22,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW22_M6.wav,mid,62%,5.010875,5.0,unhealthy,2
+1817,0,M09,B2,UW51,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW51_M6.wav,high,86%,3.0519375,3.1,unhealthy,3
+356,0,F04,B2,CW61,M6,/UASpeech/audio/noisereduce/F04/F04_B2_CW61_M6.wav,mid,62%,2.1355,2.1,unhealthy,2
+2225,0,M01,B2,D3,M6,/UASpeech/audio/noisereduce/M01/M01_B2_D3_M6.wav,very low,15%,56.92925,56.9,unhealthy,0
+1500,0,M12,B2,UW35,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW35_M6.wav,very low,7.4%,4.451,4.5,unhealthy,0
+1681,0,M01,B2,CW31,M6,/UASpeech/audio/noisereduce/M01/M01_B2_CW31_M6.wav,very low,15%,4.1483125,4.1,unhealthy,0
+1317,0,M14,B2,CW63,M6,/UASpeech/audio/noisereduce/M14/M14_B2_CW63_M6.wav,high,90.4%,2.2924375,2.3,unhealthy,3
+2545,0,M12,B2,CW3,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW3_M6.wav,very low,7.4%,3.5169375,3.5,unhealthy,0
+1437,0,M09,B2,CW22,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW22_M6.wav,high,86%,2.672125,2.7,unhealthy,3
+2747,0,M07,B2,UW1,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW1_M6.wav,low,28%,2.20825,2.2,unhealthy,1
+2973,0,F04,B2,CW46,M6,/UASpeech/audio/noisereduce/F04/F04_B2_CW46_M6.wav,mid,62%,2.3365625,2.3,unhealthy,2
+3478,0,F03,B2,UW9,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW9_M6.wav,very low,6%,3.3429375,3.3,unhealthy,0
+2877,0,M07,B2,CW99,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW99_M6.wav,low,28%,1.72,1.7,unhealthy,1
+3302,0,M01,B2,UW85,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW85_M6.wav,very low,15%,3.578375,3.6,unhealthy,0
+419,0,F04,B2,C7,M6,/UASpeech/audio/noisereduce/F04/F04_B2_C7_M6.wav,mid,62%,2.052625,2.1,unhealthy,2
+3073,0,F02,B2,UW75,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW75_M6.wav,low,29%,7.0864375,7.1,unhealthy,1
+2345,0,M11,B2,CW24,M6,/UASpeech/audio/noisereduce/M11/M11_B2_CW24_M6.wav,mid,62%,4.616375,4.6,unhealthy,2
+2628,0,M09,B2,C2,M6,/UASpeech/audio/noisereduce/M09/M09_B2_C2_M6.wav,high,86%,2.206,2.2,unhealthy,3
+16,0,F05,B2,LU,M6,/UASpeech/audio/noisereduce/F05/F05_B2_LU_M6.wav,high,95%,2.0380625,2.0,unhealthy,3
+1028,0,M12,B2,UW45,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW45_M6.wav,very low,7.4%,4.817125,4.8,unhealthy,0
+1642,0,M10,B2,CW98,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW98_M6.wav,high,93%,2.2685,2.3,unhealthy,3
+1089,0,F03,B2,UW42,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW42_M6.wav,very low,6%,10.1479375,10.1,unhealthy,0
+2708,0,F05,B2,LC,M6,/UASpeech/audio/noisereduce/F05/F05_B2_LC_M6.wav,high,95%,1.9050625,1.9,unhealthy,3
+2131,0,M11,B2,C8,M6,/UASpeech/audio/noisereduce/M11/M11_B2_C8_M6.wav,mid,62%,4.87825,4.9,unhealthy,2
+908,0,F03,B2,CW26,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW26_M6.wav,very low,6%,2.616875,2.6,unhealthy,0
+3208,0,M07,B2,UW30,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW30_M6.wav,low,28%,3.95325,4.0,unhealthy,1
+3343,0,M05,B2,CW79,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW79_M6.wav,mid,58%,1.6863125,1.7,unhealthy,2
+122,0,M09,B2,CW19,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW19_M6.wav,high,86%,2.7234375,2.7,unhealthy,3
+2944,0,M01,B2,CW21,M6,/UASpeech/audio/noisereduce/M01/M01_B2_CW21_M6.wav,very low,15%,4.295,4.3,unhealthy,0
+2607,0,M09,B2,UW72,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW72_M6.wav,high,86%,5.596125,5.6,unhealthy,3
+2803,0,M10,B2,UW42,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW42_M6.wav,high,93%,2.791375,2.8,unhealthy,3
+1296,0,M11,B2,CW11,M6,/UASpeech/audio/noisereduce/M11/M11_B2_CW11_M6.wav,mid,62%,3.62625,3.6,unhealthy,2
+1190,0,M07,B2,UW86,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW86_M6.wav,low,28%,1.866,1.9,unhealthy,1
+2257,0,M09,B2,CW21,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW21_M6.wav,high,86%,2.31525,2.3,unhealthy,3
+200,0,M07,B2,D4,M6,/UASpeech/audio/noisereduce/M07/M07_B2_D4_M6.wav,low,28%,1.8304375,1.8,unhealthy,1
+892,0,M10,B2,CW17,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW17_M6.wav,high,93%,2.7415,2.7,unhealthy,3
+873,0,F05,B2,C4,M6,/UASpeech/audio/noisereduce/F05/F05_B2_C4_M6.wav,high,95%,1.8115,1.8,unhealthy,3
+3194,0,M12,B2,CW24,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW24_M6.wav,very low,7.4%,3.2593125,3.3,unhealthy,0
+1428,0,M10,B2,LT,M6,/UASpeech/audio/noisereduce/M10/M10_B2_LT_M6.wav,high,93%,2.0416875,2.0,unhealthy,3
+1529,0,M10,B2,UW4,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW4_M6.wav,high,93%,1.9888125,2.0,unhealthy,3
+357,0,M05,B2,UW83,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW83_M6.wav,mid,58%,1.9391875,1.9,unhealthy,2
+1032,0,M14,B2,UW88,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW88_M6.wav,high,90.4%,1.9513125,2.0,unhealthy,3
+1264,0,M01,B2,LO,M6,/UASpeech/audio/noisereduce/M01/M01_B2_LO_M6.wav,very low,15%,6.08975,6.1,unhealthy,0
+2509,0,M10,B2,CW48,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW48_M6.wav,high,93%,2.4339375,2.4,unhealthy,3
+2110,0,F04,B2,UW12,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW12_M6.wav,mid,62%,2.77425,2.8,unhealthy,2
+1189,0,M07,B2,UW19,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW19_M6.wav,low,28%,4.0301875,4.0,unhealthy,1
+1156,0,M01,B2,CW9,M6,/UASpeech/audio/noisereduce/M01/M01_B2_CW9_M6.wav,very low,15%,4.5935,4.6,unhealthy,0
+1023,0,M12,B2,UW26,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW26_M6.wav,very low,7.4%,3.6505,3.7,unhealthy,0
+719,0,M05,B2,UW47,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW47_M6.wav,mid,58%,3.716,3.7,unhealthy,2
+1510,0,M12,B2,UW6,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW6_M6.wav,very low,7.4%,3.1264375,3.1,unhealthy,0
+2417,0,F03,B2,CW14,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW14_M6.wav,very low,6%,2.7233125,2.7,unhealthy,0
+878,0,M10,B2,CW19,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW19_M6.wav,high,93%,2.554875,2.6,unhealthy,3
+893,0,M04,B2,CW48,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW48_M6.wav,very low,2%,2.98975,3.0,unhealthy,0
+1775,0,M07,B2,UW49,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW49_M6.wav,low,28%,2.49075,2.5,unhealthy,1
+2792,0,M09,B2,UW22,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW22_M6.wav,high,86%,3.4864375,3.5,unhealthy,3
+1148,0,F03,B2,LZ,M6,/UASpeech/audio/noisereduce/F03/F03_B2_LZ_M6.wav,very low,6%,3.165625,3.2,unhealthy,0
+0,0,F02,B2,UW93,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW93_M6.wav,low,29%,3.4176875,3.4,unhealthy,1
+2358,0,M08,B2,UW44,M6,/UASpeech/audio/noisereduce/M08/M08_B2_UW44_M6.wav,high,93%,2.0489375,2.0,unhealthy,3
+3226,0,M08,B2,CW57,M6,/UASpeech/audio/noisereduce/M08/M08_B2_CW57_M6.wav,high,93%,2.4291875,2.4,unhealthy,3
+2706,0,M10,B2,CW1,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW1_M6.wav,high,93%,1.950625,2.0,unhealthy,3
+1647,0,F04,B2,LK,M6,/UASpeech/audio/noisereduce/F04/F04_B2_LK_M6.wav,mid,62%,2.204375,2.2,unhealthy,2
+3009,0,M07,B2,UW31,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW31_M6.wav,low,28%,4.3019375,4.3,unhealthy,1
+164,0,M01,B2,UW2,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW2_M6.wav,very low,15%,11.576875,11.6,unhealthy,0
+2116,0,M09,B2,C19,M6,/UASpeech/audio/noisereduce/M09/M09_B2_C19_M6.wav,high,86%,2.3189375,2.3,unhealthy,3
+2267,0,M14,B2,UW34,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW34_M6.wav,high,90.4%,2.6625625,2.7,unhealthy,3
+1061,0,M09,B2,UW79,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW79_M6.wav,high,86%,2.504,2.5,unhealthy,3
+1344,0,F03,B2,UW70,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW70_M6.wav,very low,6%,3.1875,3.2,unhealthy,0
+1010,0,M11,B2,LQ,M6,/UASpeech/audio/noisereduce/M11/M11_B2_LQ_M6.wav,mid,62%,3.76825,3.8,unhealthy,2
+697,0,M10,B2,UW3,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW3_M6.wav,high,93%,2.40275,2.4,unhealthy,3
+2463,0,M12,B2,CW66,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW66_M6.wav,very low,7.4%,3.152,3.2,unhealthy,0
+3336,0,M12,B2,CW39,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW39_M6.wav,very low,7.4%,3.45275,3.5,unhealthy,0
+3085,0,M04,B2,CW26,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW26_M6.wav,very low,2%,2.3055625,2.3,unhealthy,0
+1429,0,F02,B2,CW88,M6,/UASpeech/audio/noisereduce/F02/F02_B2_CW88_M6.wav,low,29%,3.82925,3.8,unhealthy,1
+1226,0,F05,B2,UW87,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW87_M6.wav,high,95%,1.8053125,1.8,unhealthy,3
+1878,0,M09,B2,C6,M6,/UASpeech/audio/noisereduce/M09/M09_B2_C6_M6.wav,high,86%,2.4460625,2.4,unhealthy,3
+1857,0,F05,B2,UW77,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW77_M6.wav,high,95%,3.7825625,3.8,unhealthy,3
+808,0,M05,B2,UW89,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW89_M6.wav,mid,58%,6.0305625,6.0,unhealthy,2
+3210,0,F04,B2,UW49,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW49_M6.wav,mid,62%,3.2129375,3.2,unhealthy,2
+3425,0,M04,B2,UW94,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW94_M6.wav,very low,2%,2.2138125,2.2,unhealthy,0
+582,0,F02,B2,C18,M6,/UASpeech/audio/noisereduce/F02/F02_B2_C18_M6.wav,low,29%,4.5069375,4.5,unhealthy,1
+746,0,M01,B2,UW56,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW56_M6.wav,very low,15%,4.856875,4.9,unhealthy,0
+1412,0,F03,B2,LG,M6,/UASpeech/audio/noisereduce/F03/F03_B2_LG_M6.wav,very low,6%,2.6659375,2.7,unhealthy,0
+1487,0,M12,B2,UW43,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW43_M6.wav,very low,7.4%,4.84,4.8,unhealthy,0
+627,0,M05,B2,UW74,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW74_M6.wav,mid,58%,2.6585625,2.7,unhealthy,2
+2874,0,M12,B2,CW46,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW46_M6.wav,very low,7.4%,3.597625,3.6,unhealthy,0
+3199,0,M10,B2,UW33,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW33_M6.wav,high,93%,2.3825,2.4,unhealthy,3
+190,0,M07,B2,C7,M6,/UASpeech/audio/noisereduce/M07/M07_B2_C7_M6.wav,low,28%,3.831875,3.8,unhealthy,1
+94,0,M14,B2,LV,M6,/UASpeech/audio/noisereduce/M14/M14_B2_LV_M6.wav,high,90.4%,1.9740625,2.0,unhealthy,3
+417,0,F05,B2,UW49,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW49_M6.wav,high,95%,21.1209375,21.1,unhealthy,3
+2955,0,M11,B2,CW13,M6,/UASpeech/audio/noisereduce/M11/M11_B2_CW13_M6.wav,mid,62%,2.9536875,3.0,unhealthy,2
+1965,0,M11,B2,UW33,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW33_M6.wav,mid,62%,3.58175,3.6,unhealthy,2
+2030,0,M05,B2,CW89,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW89_M6.wav,mid,58%,1.9393125,1.9,unhealthy,2
+1076,0,F02,B2,CW9,M6,/UASpeech/audio/noisereduce/F02/F02_B2_CW9_M6.wav,low,29%,3.2324375,3.2,unhealthy,1
+2102,0,M04,B2,CW19,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW19_M6.wav,very low,2%,1.899125,1.9,unhealthy,0
+949,0,M14,B2,CW55,M6,/UASpeech/audio/noisereduce/M14/M14_B2_CW55_M6.wav,high,90.4%,2.08475,2.1,unhealthy,3
+3129,0,M09,B2,UW59,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW59_M6.wav,high,86%,2.7635,2.8,unhealthy,3
+1216,0,M04,B2,CW58,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW58_M6.wav,very low,2%,2.3255,2.3,unhealthy,0
+3021,0,F05,B2,CW1,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW1_M6.wav,high,95%,2.0124375,2.0,unhealthy,3
+2495,0,M12,B2,CW53,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW53_M6.wav,very low,7.4%,3.577125,3.6,unhealthy,0
+1643,0,M04,B2,CW15,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW15_M6.wav,very low,2%,2.7876875,2.8,unhealthy,0
+1090,0,M10,B2,C10,M6,/UASpeech/audio/noisereduce/M10/M10_B2_C10_M6.wav,high,93%,2.297625,2.3,unhealthy,3
+1841,0,M08,B2,LE,M6,/UASpeech/audio/noisereduce/M08/M08_B2_LE_M6.wav,high,93%,2.1029375,2.1,unhealthy,3
+2560,0,M05,B2,CW21,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW21_M6.wav,mid,58%,4.7026875,4.7,unhealthy,2
+1718,0,M04,B2,C18,M6,/UASpeech/audio/noisereduce/M04/M04_B2_C18_M6.wav,very low,2%,2.3666875,2.4,unhealthy,0
+1139,0,F04,B2,UW96,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW96_M6.wav,mid,62%,2.5641875,2.6,unhealthy,2
+2695,0,M11,B2,CW28,M6,/UASpeech/audio/noisereduce/M11/M11_B2_CW28_M6.wav,mid,62%,4.0841875,4.1,unhealthy,2
+361,0,F02,B2,CW32,M6,/UASpeech/audio/noisereduce/F02/F02_B2_CW32_M6.wav,low,29%,3.256,3.3,unhealthy,1
+3146,0,M09,B2,CW42,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW42_M6.wav,high,86%,2.5568125,2.6,unhealthy,3
+1364,0,F02,B2,UW25,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW25_M6.wav,low,29%,6.6321875,6.6,unhealthy,1
+769,0,M09,B2,CW71,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW71_M6.wav,high,86%,2.8060625,2.8,unhealthy,3
+2357,0,M08,B2,UW14,M6,/UASpeech/audio/noisereduce/M08/M08_B2_UW14_M6.wav,high,93%,2.934625,2.9,unhealthy,3
+3013,0,F02,B2,LB,M6,/UASpeech/audio/noisereduce/F02/F02_B2_LB_M6.wav,low,29%,5.5576875,5.6,unhealthy,1
+488,0,M01,B2,C15,M6,/UASpeech/audio/noisereduce/M01/M01_B2_C15_M6.wav,very low,15%,3.8546875,3.9,unhealthy,0
+3201,0,M04,B2,UW19,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW19_M6.wav,very low,2%,3.1358125,3.1,unhealthy,0
+549,0,F04,B2,C19,M6,/UASpeech/audio/noisereduce/F04/F04_B2_C19_M6.wav,mid,62%,1.96275,2.0,unhealthy,2
+1641,0,M14,B2,UW37,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW37_M6.wav,high,90.4%,2.668,2.7,unhealthy,3
+673,0,M05,B2,CW35,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW35_M6.wav,mid,58%,2.231875,2.2,unhealthy,2
+444,0,F02,B2,CW54,M6,/UASpeech/audio/noisereduce/F02/F02_B2_CW54_M6.wav,low,29%,4.014,4.0,unhealthy,1
+2569,0,M11,B2,UW67,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW67_M6.wav,mid,62%,3.76925,3.8,unhealthy,2
+1874,0,F02,B2,UW17,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW17_M6.wav,low,29%,6.7731875,6.8,unhealthy,1
+247,0,M01,B2,CW26,M6,/UASpeech/audio/noisereduce/M01/M01_B2_CW26_M6.wav,very low,15%,4.446375,4.4,unhealthy,0
+3493,0,M14,B2,CW100,M6,/UASpeech/audio/noisereduce/M14/M14_B2_CW100_M6.wav,high,90.4%,1.985,2.0,unhealthy,3
+1856,0,M10,B2,UW50,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW50_M6.wav,high,93%,2.1716875,2.2,unhealthy,3
+380,0,M10,B2,UW57,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW57_M6.wav,high,93%,2.234125,2.2,unhealthy,3
+1246,0,M10,B2,CW45,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW45_M6.wav,high,93%,2.4043125,2.4,unhealthy,3
+590,0,M04,B2,UW91,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW91_M6.wav,very low,2%,2.181875,2.2,unhealthy,0
+1531,0,M14,B2,UW23,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW23_M6.wav,high,90.4%,2.215625,2.2,unhealthy,3
+804,0,M09,B2,LO,M6,/UASpeech/audio/noisereduce/M09/M09_B2_LO_M6.wav,high,86%,2.38,2.4,unhealthy,3
+1399,0,M11,B2,CW98,M6,/UASpeech/audio/noisereduce/M11/M11_B2_CW98_M6.wav,mid,62%,5.1511875,5.2,unhealthy,2
+1147,0,M01,B2,UW19,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW19_M6.wav,very low,15%,6.3445625,6.3,unhealthy,0
+900,0,M08,B2,CW24,M6,/UASpeech/audio/noisereduce/M08/M08_B2_CW24_M6.wav,high,93%,2.4581875,2.5,unhealthy,3
+348,0,M01,B2,UW91,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW91_M6.wav,very low,15%,3.8584375,3.9,unhealthy,0
+1144,0,M01,B2,CW17,M6,/UASpeech/audio/noisereduce/M01/M01_B2_CW17_M6.wav,very low,15%,3.665,3.7,unhealthy,0
+1893,0,M07,B2,UW95,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW95_M6.wav,low,28%,2.2573125,2.3,unhealthy,1
+284,0,M07,B2,C3,M6,/UASpeech/audio/noisereduce/M07/M07_B2_C3_M6.wav,low,28%,1.972125,2.0,unhealthy,1
+943,0,F04,B2,UW26,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW26_M6.wav,mid,62%,2.5940625,2.6,unhealthy,2
+3383,0,F05,B2,UW54,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW54_M6.wav,high,95%,4.89025,4.9,unhealthy,3
+1654,0,F04,B2,CW35,M6,/UASpeech/audio/noisereduce/F04/F04_B2_CW35_M6.wav,mid,62%,2.1890625,2.2,unhealthy,2
+1362,0,M07,B2,UW3,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW3_M6.wav,low,28%,4.3300625,4.3,unhealthy,1
+701,0,F02,B2,UW26,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW26_M6.wav,low,29%,4.7805,4.8,unhealthy,1
+2771,0,M12,B2,D4,M6,/UASpeech/audio/noisereduce/M12/M12_B2_D4_M6.wav,very low,7.4%,2.7178125,2.7,unhealthy,0
+577,0,M07,B2,CW4,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW4_M6.wav,low,28%,2.5541875,2.6,unhealthy,1
+2426,0,F05,B2,UW41,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW41_M6.wav,high,95%,3.020375,3.0,unhealthy,3
+3144,0,M14,B2,CW93,M6,/UASpeech/audio/noisereduce/M14/M14_B2_CW93_M6.wav,high,90.4%,2.04575,2.0,unhealthy,3
+1937,0,F04,B2,UW61,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW61_M6.wav,mid,62%,3.3059375,3.3,unhealthy,2
+1395,0,M11,B2,CW9,M6,/UASpeech/audio/noisereduce/M11/M11_B2_CW9_M6.wav,mid,62%,3.6034375,3.6,unhealthy,2
+1465,0,M08,B2,UW65,M6,/UASpeech/audio/noisereduce/M08/M08_B2_UW65_M6.wav,high,93%,2.767125,2.8,unhealthy,3
+1368,0,M12,B2,UW99,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW99_M6.wav,very low,7.4%,2.78325,2.8,unhealthy,0
+3329,0,M12,B2,CW4,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW4_M6.wav,very low,7.4%,3.5546875,3.6,unhealthy,0
+904,0,M01,B2,UW81,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW81_M6.wav,very low,15%,5.5535,5.6,unhealthy,0
+1892,0,F04,B2,LI,M6,/UASpeech/audio/noisereduce/F04/F04_B2_LI_M6.wav,mid,62%,2.570375,2.6,unhealthy,2
+3225,0,F02,B2,D0,M6,/UASpeech/audio/noisereduce/F02/F02_B2_D0_M6.wav,low,29%,2.9085,2.9,unhealthy,1
+2043,0,M07,B2,UW45,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW45_M6.wav,low,28%,3.5930625,3.6,unhealthy,1
+2876,0,M11,B2,CW72,M6,/UASpeech/audio/noisereduce/M11/M11_B2_CW72_M6.wav,mid,62%,4.095375,4.1,unhealthy,2
+2092,0,M05,B2,LD,M6,/UASpeech/audio/noisereduce/M05/M05_B2_LD_M6.wav,mid,58%,2.1450625,2.1,unhealthy,2
+2019,0,M07,B2,UW93,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW93_M6.wav,low,28%,2.1075,2.1,unhealthy,1
+887,0,M04,B2,C19,M6,/UASpeech/audio/noisereduce/M04/M04_B2_C19_M6.wav,very low,2%,2.3298125,2.3,unhealthy,0
+2711,0,M14,B2,D3,M6,/UASpeech/audio/noisereduce/M14/M14_B2_D3_M6.wav,high,90.4%,2.897875,2.9,unhealthy,3
+1064,0,M04,B2,UW56,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW56_M6.wav,very low,2%,2.5316875,2.5,unhealthy,0
+1509,0,M14,B2,CW6,M6,/UASpeech/audio/noisereduce/M14/M14_B2_CW6_M6.wav,high,90.4%,1.8645,1.9,unhealthy,3
+327,0,F04,B2,LO,M6,/UASpeech/audio/noisereduce/F04/F04_B2_LO_M6.wav,mid,62%,2.4850625,2.5,unhealthy,2
+3283,0,M05,B2,UW64,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW64_M6.wav,mid,58%,4.7163125,4.7,unhealthy,2
+937,0,M12,B2,C3,M6,/UASpeech/audio/noisereduce/M12/M12_B2_C3_M6.wav,very low,7.4%,4.1409375,4.1,unhealthy,0
+413,0,M12,B2,CW42,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW42_M6.wav,very low,7.4%,3.0136875,3.0,unhealthy,0
+2547,0,M09,B2,UW27,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW27_M6.wav,high,86%,5.045,5.0,unhealthy,3
+1827,0,M12,B2,CW60,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW60_M6.wav,very low,7.4%,3.332875,3.3,unhealthy,0
+1868,0,M07,B2,UW85,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW85_M6.wav,low,28%,2.0809375,2.1,unhealthy,1
+1810,0,F02,B2,CW58,M6,/UASpeech/audio/noisereduce/F02/F02_B2_CW58_M6.wav,low,29%,3.5125,3.5,unhealthy,1
+763,0,M14,B2,LG,M6,/UASpeech/audio/noisereduce/M14/M14_B2_LG_M6.wav,high,90.4%,2.0281875,2.0,unhealthy,3
+540,0,F02,B2,C7,M6,/UASpeech/audio/noisereduce/F02/F02_B2_C7_M6.wav,low,29%,4.084125,4.1,unhealthy,1
+1675,0,M14,B2,UW73,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW73_M6.wav,high,90.4%,2.15725,2.2,unhealthy,3
+2173,0,F02,B2,UW3,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW3_M6.wav,low,29%,7.7469375,7.7,unhealthy,1
+938,0,F05,B2,UW25,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW25_M6.wav,high,95%,2.2143125,2.2,unhealthy,3
+774,0,F03,B2,UW24,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW24_M6.wav,very low,6%,3.2535625,3.3,unhealthy,0
+1920,0,F03,B2,CW73,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW73_M6.wav,very low,6%,2.3275,2.3,unhealthy,0
+3438,0,M09,B2,CW66,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW66_M6.wav,high,86%,2.8035625,2.8,unhealthy,3
+2844,0,M01,B2,LQ,M6,/UASpeech/audio/noisereduce/M01/M01_B2_LQ_M6.wav,very low,15%,14.3425625,14.3,unhealthy,0
+1316,0,M05,B2,UW61,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW61_M6.wav,mid,58%,2.6465,2.6,unhealthy,2
+3020,0,F05,B2,D6,M6,/UASpeech/audio/noisereduce/F05/F05_B2_D6_M6.wav,high,95%,1.5726875,1.6,unhealthy,3
+1261,0,M01,B2,UW58,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW58_M6.wav,very low,15%,3.768625,3.8,unhealthy,0
+520,0,M01,B2,CW89,M6,/UASpeech/audio/noisereduce/M01/M01_B2_CW89_M6.wav,very low,15%,8.47575,8.5,unhealthy,0
+2942,0,F05,B2,CW32,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW32_M6.wav,high,95%,1.8430625,1.8,unhealthy,3
+2111,0,M08,B2,CW45,M6,/UASpeech/audio/noisereduce/M08/M08_B2_CW45_M6.wav,high,93%,2.6173125,2.6,unhealthy,3
+988,0,M14,B2,CW26,M6,/UASpeech/audio/noisereduce/M14/M14_B2_CW26_M6.wav,high,90.4%,1.9935,2.0,unhealthy,3
+1257,0,M09,B2,CW55,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW55_M6.wav,high,86%,2.4681875,2.5,unhealthy,3
+1813,0,M08,B2,CW23,M6,/UASpeech/audio/noisereduce/M08/M08_B2_CW23_M6.wav,high,93%,2.4395,2.4,unhealthy,3
+3231,0,F03,B2,UW59,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW59_M6.wav,very low,6%,6.715875,6.7,unhealthy,0
+781,0,M04,B2,CW16,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW16_M6.wav,very low,2%,2.6318125,2.6,unhealthy,0
+2206,0,M01,B2,LZ,M6,/UASpeech/audio/noisereduce/M01/M01_B2_LZ_M6.wav,very low,15%,20.1303125,20.1,unhealthy,0
+2245,0,M12,B2,UW49,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW49_M6.wav,very low,7.4%,4.1013125,4.1,unhealthy,0
+1445,0,M08,B2,CW62,M6,/UASpeech/audio/noisereduce/M08/M08_B2_CW62_M6.wav,high,93%,2.4668125,2.5,unhealthy,3
+1592,0,M14,B2,CW52,M6,/UASpeech/audio/noisereduce/M14/M14_B2_CW52_M6.wav,high,90.4%,1.9959375,2.0,unhealthy,3
+1902,0,M12,B2,UW5,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW5_M6.wav,very low,7.4%,6.5766875,6.6,unhealthy,0
+2722,0,M10,B2,CW43,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW43_M6.wav,high,93%,2.112875,2.1,unhealthy,3
+518,0,M14,B2,CW25,M6,/UASpeech/audio/noisereduce/M14/M14_B2_CW25_M6.wav,high,90.4%,2.128125,2.1,unhealthy,3
+1073,0,M14,B2,CW20,M6,/UASpeech/audio/noisereduce/M14/M14_B2_CW20_M6.wav,high,90.4%,1.8890625,1.9,unhealthy,3
+995,0,M05,B2,CW77,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW77_M6.wav,mid,58%,2.4415,2.4,unhealthy,2
+2248,0,F03,B2,C11,M6,/UASpeech/audio/noisereduce/F03/F03_B2_C11_M6.wav,very low,6%,3.187,3.2,unhealthy,0
+1964,0,F04,B2,LM,M6,/UASpeech/audio/noisereduce/F04/F04_B2_LM_M6.wav,mid,62%,2.4673125,2.5,unhealthy,2
+1614,0,M10,B2,UW26,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW26_M6.wav,high,93%,2.0319375,2.0,unhealthy,3
+2745,0,M05,B2,UW75,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW75_M6.wav,mid,58%,4.8825,4.9,unhealthy,2
+143,0,F03,B2,UW37,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW37_M6.wav,very low,6%,2.4798125,2.5,unhealthy,0
+1346,0,M08,B2,CW84,M6,/UASpeech/audio/noisereduce/M08/M08_B2_CW84_M6.wav,high,93%,2.33575,2.3,unhealthy,3
+439,0,M11,B2,CW69,M6,/UASpeech/audio/noisereduce/M11/M11_B2_CW69_M6.wav,mid,62%,4.2550625,4.3,unhealthy,2
+1370,0,M10,B2,UW45,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW45_M6.wav,high,93%,2.991375,3.0,unhealthy,3
+1550,0,M08,B2,UW47,M6,/UASpeech/audio/noisereduce/M08/M08_B2_UW47_M6.wav,high,93%,7.8623125,7.9,unhealthy,3
+2656,0,M01,B2,LC,M6,/UASpeech/audio/noisereduce/M01/M01_B2_LC_M6.wav,very low,15%,6.1449375,6.1,unhealthy,0
+1004,0,M09,B2,UW77,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW77_M6.wav,high,86%,5.03875,5.0,unhealthy,3
+344,0,M09,B2,UW4,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW4_M6.wav,high,86%,3.673625,3.7,unhealthy,3
+1375,0,F05,B2,UW50,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW50_M6.wav,high,95%,3.003,3.0,unhealthy,3
+957,0,F03,B2,UW95,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW95_M6.wav,very low,6%,3.3125,3.3,unhealthy,0
+3014,0,M04,B2,UW81,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW81_M6.wav,very low,2%,3.1946875,3.2,unhealthy,0
+1030,0,F02,B2,UW64,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW64_M6.wav,low,29%,7.86,7.9,unhealthy,1
+1579,0,F02,B2,CW59,M6,/UASpeech/audio/noisereduce/F02/F02_B2_CW59_M6.wav,low,29%,3.8099375,3.8,unhealthy,1
+1807,0,M14,B2,C16,M6,/UASpeech/audio/noisereduce/M14/M14_B2_C16_M6.wav,high,90.4%,2.171375,2.2,unhealthy,3
+3008,0,M14,B2,UW31,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW31_M6.wav,high,90.4%,2.5906875,2.6,unhealthy,3
+1805,0,M14,B2,UW72,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW72_M6.wav,high,90.4%,2.474,2.5,unhealthy,3
+506,0,M04,B2,CW71,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW71_M6.wav,very low,2%,2.10625,2.1,unhealthy,0
+1746,0,M10,B2,UW13,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW13_M6.wav,high,93%,2.3245625,2.3,unhealthy,3
+2383,0,M09,B2,UW55,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW55_M6.wav,high,86%,2.7118125,2.7,unhealthy,3
+2624,0,F04,B2,CW9,M6,/UASpeech/audio/noisereduce/F04/F04_B2_CW9_M6.wav,mid,62%,2.080375,2.1,unhealthy,2
+1356,0,F04,B2,UW20,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW20_M6.wav,mid,62%,3.8964375,3.9,unhealthy,2
+767,0,M08,B2,UW34,M6,/UASpeech/audio/noisereduce/M08/M08_B2_UW34_M6.wav,high,93%,2.639125,2.6,unhealthy,3
+3342,0,M11,B2,UW32,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW32_M6.wav,mid,62%,6.718375,6.7,unhealthy,2
+2280,0,F02,B2,UW21,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW21_M6.wav,low,29%,6.30775,6.3,unhealthy,1
+3143,0,M10,B2,CW30,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW30_M6.wav,high,93%,2.046125,2.0,unhealthy,3
+972,0,M10,B2,UW75,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW75_M6.wav,high,93%,2.5549375,2.6,unhealthy,3
+1758,0,M05,B2,CW44,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW44_M6.wav,mid,58%,2.1186875,2.1,unhealthy,2
+989,0,M10,B2,CW99,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW99_M6.wav,high,93%,2.1761875,2.2,unhealthy,3
+12,0,M04,B2,CW74,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW74_M6.wav,very low,2%,2.592625,2.6,unhealthy,0
+2035,0,M05,B2,CW69,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW69_M6.wav,mid,58%,2.115,2.1,unhealthy,2
+3410,0,M09,B2,CW78,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW78_M6.wav,high,86%,2.5789375,2.6,unhealthy,3
+1322,0,F02,B2,UW61,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW61_M6.wav,low,29%,3.05725,3.1,unhealthy,1
+626,0,M09,B2,CW27,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW27_M6.wav,high,86%,2.7366875,2.7,unhealthy,3
+1210,0,M08,B2,CW36,M6,/UASpeech/audio/noisereduce/M08/M08_B2_CW36_M6.wav,high,93%,2.34175,2.3,unhealthy,3
+3127,0,F02,B2,CW81,M6,/UASpeech/audio/noisereduce/F02/F02_B2_CW81_M6.wav,low,29%,4.306875,4.3,unhealthy,1
+1847,0,F05,B2,CW97,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW97_M6.wav,high,95%,2.1626875,2.2,unhealthy,3
+1988,0,F04,B2,CW52,M6,/UASpeech/audio/noisereduce/F04/F04_B2_CW52_M6.wav,mid,62%,2.035,2.0,unhealthy,2
+2812,0,M11,B2,UW21,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW21_M6.wav,mid,62%,5.0050625,5.0,unhealthy,2
+2433,0,M11,B2,UW50,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW50_M6.wav,mid,62%,4.8765625,4.9,unhealthy,2
+1994,0,M07,B2,UW96,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW96_M6.wav,low,28%,2.097,2.1,unhealthy,1
+1251,0,F03,B2,C17,M6,/UASpeech/audio/noisereduce/F03/F03_B2_C17_M6.wav,very low,6%,2.683625,2.7,unhealthy,0
+2718,0,F04,B2,C17,M6,/UASpeech/audio/noisereduce/F04/F04_B2_C17_M6.wav,mid,62%,2.35325,2.4,unhealthy,2
+685,0,M10,B2,UW81,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW81_M6.wav,high,93%,2.63625,2.6,unhealthy,3
+2582,0,F05,B2,CW68,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW68_M6.wav,high,95%,1.751375,1.8,unhealthy,3
+1043,0,M08,B2,LO,M6,/UASpeech/audio/noisereduce/M08/M08_B2_LO_M6.wav,high,93%,2.7896875,2.8,unhealthy,3
+315,0,M04,B2,UW55,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW55_M6.wav,very low,2%,1.9948125,2.0,unhealthy,0
+1768,0,M08,B2,UW36,M6,/UASpeech/audio/noisereduce/M08/M08_B2_UW36_M6.wav,high,93%,3.46525,3.5,unhealthy,3
+545,0,M11,B2,CW71,M6,/UASpeech/audio/noisereduce/M11/M11_B2_CW71_M6.wav,mid,62%,4.1926875,4.2,unhealthy,2
+2820,0,M08,B2,CW83,M6,/UASpeech/audio/noisereduce/M08/M08_B2_CW83_M6.wav,high,93%,2.339375,2.3,unhealthy,3
+2112,0,M05,B2,CW63,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW63_M6.wav,mid,58%,1.68975,1.7,unhealthy,2
+52,0,M09,B2,UW58,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW58_M6.wav,high,86%,2.9905,3.0,unhealthy,3
+538,0,M07,B2,UW28,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW28_M6.wav,low,28%,3.8636875,3.9,unhealthy,1
+2764,0,M09,B2,UW97,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW97_M6.wav,high,86%,2.5380625,2.5,unhealthy,3
+2461,0,M12,B2,CW87,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW87_M6.wav,very low,7.4%,3.3235,3.3,unhealthy,0
+2743,0,M07,B2,UW62,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW62_M6.wav,low,28%,2.5313125,2.5,unhealthy,1
+1619,0,M05,B2,CW67,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW67_M6.wav,mid,58%,1.9163125,1.9,unhealthy,2
+966,0,F04,B2,CW62,M6,/UASpeech/audio/noisereduce/F04/F04_B2_CW62_M6.wav,mid,62%,2.0861875,2.1,unhealthy,2
+2423,0,M11,B2,C1,M6,/UASpeech/audio/noisereduce/M11/M11_B2_C1_M6.wav,mid,62%,5.6859375,5.7,unhealthy,2
+3288,0,M07,B2,UW52,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW52_M6.wav,low,28%,3.07075,3.1,unhealthy,1
+2285,0,F04,B2,UW67,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW67_M6.wav,mid,62%,2.83625,2.8,unhealthy,2
+2318,0,M04,B2,LQ,M6,/UASpeech/audio/noisereduce/M04/M04_B2_LQ_M6.wav,very low,2%,2.3151875,2.3,unhealthy,0
+3404,0,M14,B2,LP,M6,/UASpeech/audio/noisereduce/M14/M14_B2_LP_M6.wav,high,90.4%,2.177,2.2,unhealthy,3
+2626,0,F03,B2,UW61,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW61_M6.wav,very low,6%,4.7365,4.7,unhealthy,0
+1960,0,F05,B2,UW60,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW60_M6.wav,high,95%,4.002625,4.0,unhealthy,3
+2467,0,M09,B2,CW38,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW38_M6.wav,high,86%,2.4444375,2.4,unhealthy,3
+1231,0,F02,B2,UW49,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW49_M6.wav,low,29%,3.786125,3.8,unhealthy,1
+50,0,M10,B2,UW78,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW78_M6.wav,high,93%,2.6528125,2.7,unhealthy,3
+2529,0,M08,B2,UW43,M6,/UASpeech/audio/noisereduce/M08/M08_B2_UW43_M6.wav,high,93%,2.7060625,2.7,unhealthy,3
+602,0,M12,B2,UW48,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW48_M6.wav,very low,7.4%,5.6306875,5.6,unhealthy,0
+775,0,M05,B2,CW27,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW27_M6.wav,mid,58%,2.2463125,2.2,unhealthy,2
+1871,0,M09,B2,CW75,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW75_M6.wav,high,86%,2.47925,2.5,unhealthy,3
+543,0,M10,B2,CW57,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW57_M6.wav,high,93%,2.153125,2.2,unhealthy,3
+1671,0,M09,B2,CW95,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW95_M6.wav,high,86%,2.3846875,2.4,unhealthy,3
+2465,0,F02,B2,C14,M6,/UASpeech/audio/noisereduce/F02/F02_B2_C14_M6.wav,low,29%,3.072375,3.1,unhealthy,1
+158,0,F03,B2,LH,M6,/UASpeech/audio/noisereduce/F03/F03_B2_LH_M6.wav,very low,6%,2.88,2.9,unhealthy,0
+554,0,M12,B2,CW92,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW92_M6.wav,very low,7.4%,3.2918125,3.3,unhealthy,0
+2261,0,M07,B2,UW17,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW17_M6.wav,low,28%,3.929625,3.9,unhealthy,1
+214,0,M10,B2,CW15,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW15_M6.wav,high,93%,2.343875,2.3,unhealthy,3
+1286,0,M05,B2,CW99,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW99_M6.wav,mid,58%,4.126125,4.1,unhealthy,2
+1814,0,M11,B2,UW91,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW91_M6.wav,mid,62%,3.7783125,3.8,unhealthy,2
+3090,0,M05,B2,UW73,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW73_M6.wav,mid,58%,2.4204375,2.4,unhealthy,2
+2709,0,F03,B2,UW19,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW19_M6.wav,very low,6%,5.052875,5.1,unhealthy,0
+1007,0,M09,B2,LV,M6,/UASpeech/audio/noisereduce/M09/M09_B2_LV_M6.wav,high,86%,2.3636875,2.4,unhealthy,3
+3214,0,M01,B2,C2,M6,/UASpeech/audio/noisereduce/M01/M01_B2_C2_M6.wav,very low,15%,5.42175,5.4,unhealthy,0
+3181,0,F04,B2,CW70,M6,/UASpeech/audio/noisereduce/F04/F04_B2_CW70_M6.wav,mid,62%,2.0720625,2.1,unhealthy,2
+205,0,M08,B2,LW,M6,/UASpeech/audio/noisereduce/M08/M08_B2_LW_M6.wav,high,93%,2.0995625,2.1,unhealthy,3
+1222,0,M10,B2,UW69,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW69_M6.wav,high,93%,2.3155625,2.3,unhealthy,3
+3286,0,M07,B2,LR,M6,/UASpeech/audio/noisereduce/M07/M07_B2_LR_M6.wav,low,28%,4.1025,4.1,unhealthy,1
+1734,0,M10,B2,UW74,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW74_M6.wav,high,93%,3.018625,3.0,unhealthy,3
+1342,0,M14,B2,UW78,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW78_M6.wav,high,90.4%,1.9235625,1.9,unhealthy,3
+629,0,M10,B2,D6,M6,/UASpeech/audio/noisereduce/M10/M10_B2_D6_M6.wav,high,93%,1.5970625,1.6,unhealthy,3
+2137,0,M07,B2,CW5,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW5_M6.wav,low,28%,2.497875,2.5,unhealthy,1
+2822,0,M14,B2,CW41,M6,/UASpeech/audio/noisereduce/M14/M14_B2_CW41_M6.wav,high,90.4%,1.8675625,1.9,unhealthy,3
+3419,0,F02,B2,CW21,M6,/UASpeech/audio/noisereduce/F02/F02_B2_CW21_M6.wav,low,29%,3.8108125,3.8,unhealthy,1
+3089,0,M09,B2,C8,M6,/UASpeech/audio/noisereduce/M09/M09_B2_C8_M6.wav,high,86%,2.4071875,2.4,unhealthy,3
+1704,0,M07,B2,CW57,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW57_M6.wav,low,28%,2.15225,2.2,unhealthy,1
+2464,0,M05,B2,UW53,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW53_M6.wav,mid,58%,2.75425,2.8,unhealthy,2
+3070,0,F03,B2,UW67,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW67_M6.wav,very low,6%,3.630125,3.6,unhealthy,0
+2411,0,M07,B2,CW21,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW21_M6.wav,low,28%,4.495375,4.5,unhealthy,1
+2599,0,M12,B2,LF,M6,/UASpeech/audio/noisereduce/M12/M12_B2_LF_M6.wav,very low,7.4%,5.5676875,5.6,unhealthy,0
+3272,0,M14,B2,UW58,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW58_M6.wav,high,90.4%,1.99625,2.0,unhealthy,3
+996,0,M08,B2,UW52,M6,/UASpeech/audio/noisereduce/M08/M08_B2_UW52_M6.wav,high,93%,2.841375,2.8,unhealthy,3
+624,0,M10,B2,LD,M6,/UASpeech/audio/noisereduce/M10/M10_B2_LD_M6.wav,high,93%,1.746625,1.7,unhealthy,3
+306,0,M05,B2,CW32,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW32_M6.wav,mid,58%,2.028375,2.0,unhealthy,2
+1536,0,M01,B2,C17,M6,/UASpeech/audio/noisereduce/M01/M01_B2_C17_M6.wav,very low,15%,5.38,5.4,unhealthy,0
+984,0,F02,B2,LJ,M6,/UASpeech/audio/noisereduce/F02/F02_B2_LJ_M6.wav,low,29%,6.294,6.3,unhealthy,1
+1651,0,F03,B2,UW32,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW32_M6.wav,very low,6%,3.54125,3.5,unhealthy,0
+2290,0,F03,B2,UW48,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW48_M6.wav,very low,6%,8.24675,8.2,unhealthy,0
+1544,0,M07,B2,CW70,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW70_M6.wav,low,28%,1.9481875,1.9,unhealthy,1
+1165,0,M11,B2,CW18,M6,/UASpeech/audio/noisereduce/M11/M11_B2_CW18_M6.wav,mid,62%,3.236875,3.2,unhealthy,2
+78,0,F02,B2,LV,M6,/UASpeech/audio/noisereduce/F02/F02_B2_LV_M6.wav,low,29%,5.6574375,5.7,unhealthy,1
+1546,0,M10,B2,UW49,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW49_M6.wav,high,93%,2.17525,2.2,unhealthy,3
+485,0,M12,B2,CW90,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW90_M6.wav,very low,7.4%,5.086125,5.1,unhealthy,0
+3529,0,M08,B2,CW22,M6,/UASpeech/audio/noisereduce/M08/M08_B2_CW22_M6.wav,high,93%,2.2010625,2.2,unhealthy,3
+2921,0,M04,B2,CW68,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW68_M6.wav,very low,2%,2.1904375,2.2,unhealthy,0
+1278,0,M09,B2,UW10,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW10_M6.wav,high,86%,2.6598125,2.7,unhealthy,3
+2956,0,F02,B2,UW18,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW18_M6.wav,low,29%,4.3903125,4.4,unhealthy,1
+1440,0,F03,B2,CW34,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW34_M6.wav,very low,6%,2.3858125,2.4,unhealthy,0
+826,0,M01,B2,UW27,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW27_M6.wav,very low,15%,5.2685,5.3,unhealthy,0
+1650,0,F05,B2,UW55,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW55_M6.wav,high,95%,1.932375,1.9,unhealthy,3
+2638,0,M12,B2,CW71,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW71_M6.wav,very low,7.4%,3.601,3.6,unhealthy,0
+371,0,M07,B2,CW84,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW84_M6.wav,low,28%,1.8005625,1.8,unhealthy,1
+504,0,F04,B2,UW82,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW82_M6.wav,mid,62%,2.2409375,2.2,unhealthy,2
+10,0,M05,B2,CW57,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW57_M6.wav,mid,58%,2.18675,2.2,unhealthy,2
+2029,0,M07,B2,CW36,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW36_M6.wav,low,28%,6.199875,6.2,unhealthy,1
+2841,0,M08,B2,C10,M6,/UASpeech/audio/noisereduce/M08/M08_B2_C10_M6.wav,high,93%,2.2564375,2.3,unhealthy,3
+300,0,F02,B2,C17,M6,/UASpeech/audio/noisereduce/F02/F02_B2_C17_M6.wav,low,29%,5.375125,5.4,unhealthy,1
+671,0,M01,B2,LW,M6,/UASpeech/audio/noisereduce/M01/M01_B2_LW_M6.wav,very low,15%,5.2575625,5.3,unhealthy,0
+1130,0,M11,B2,UW26,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW26_M6.wav,mid,62%,2.939875,2.9,unhealthy,2
+3119,0,M01,B2,C16,M6,/UASpeech/audio/noisereduce/M01/M01_B2_C16_M6.wav,very low,15%,3.8820625,3.9,unhealthy,0
+3296,0,M05,B2,UW2,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW2_M6.wav,mid,58%,2.5865,2.6,unhealthy,2
+1427,0,F04,B2,CW53,M6,/UASpeech/audio/noisereduce/F04/F04_B2_CW53_M6.wav,mid,62%,2.0445625,2.0,unhealthy,2
+2166,0,M07,B2,CW82,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW82_M6.wav,low,28%,2.464,2.5,unhealthy,1
+5,0,F04,B2,CW20,M6,/UASpeech/audio/noisereduce/F04/F04_B2_CW20_M6.wav,mid,62%,2.6126875,2.6,unhealthy,2
+1390,0,M05,B2,D2,M6,/UASpeech/audio/noisereduce/M05/M05_B2_D2_M6.wav,mid,58%,2.2911875,2.3,unhealthy,2
+2784,0,M01,B2,UW5,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW5_M6.wav,very low,15%,5.0420625,5.0,unhealthy,0
+2196,0,M05,B2,CW48,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW48_M6.wav,mid,58%,1.93275,1.9,unhealthy,2
+1745,0,M05,B2,LW,M6,/UASpeech/audio/noisereduce/M05/M05_B2_LW_M6.wav,mid,58%,3.068375,3.1,unhealthy,2
+141,0,F03,B2,UW15,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW15_M6.wav,very low,6%,6.652875,6.7,unhealthy,0
+1271,0,F02,B2,CW76,M6,/UASpeech/audio/noisereduce/F02/F02_B2_CW76_M6.wav,low,29%,3.226125,3.2,unhealthy,1
+500,0,M04,B2,UW16,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW16_M6.wav,very low,2%,4.008375,4.0,unhealthy,0
+159,0,M07,B2,CW15,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW15_M6.wav,low,28%,1.994625,2.0,unhealthy,1
+1163,0,M07,B2,LU,M6,/UASpeech/audio/noisereduce/M07/M07_B2_LU_M6.wav,low,28%,5.5683125,5.6,unhealthy,1
+2865,0,F04,B2,UW44,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW44_M6.wav,mid,62%,2.3364375,2.3,unhealthy,2
+601,0,M08,B2,C19,M6,/UASpeech/audio/noisereduce/M08/M08_B2_C19_M6.wav,high,93%,1.8703125,1.9,unhealthy,3
+1793,0,M04,B2,CW23,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW23_M6.wav,very low,2%,2.0016875,2.0,unhealthy,0
+1426,0,M10,B2,UW77,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW77_M6.wav,high,93%,3.0015,3.0,unhealthy,3
+3038,0,M09,B2,CW99,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW99_M6.wav,high,86%,2.4481875,2.4,unhealthy,3
+3266,0,M07,B2,C5,M6,/UASpeech/audio/noisereduce/M07/M07_B2_C5_M6.wav,low,28%,2.1761875,2.2,unhealthy,1
+704,0,M04,B2,CW41,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW41_M6.wav,very low,2%,2.0181875,2.0,unhealthy,0
+3203,0,M04,B2,UW27,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW27_M6.wav,very low,2%,3.4320625,3.4,unhealthy,0
+1625,0,M04,B2,UW26,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW26_M6.wav,very low,2%,2.040375,2.0,unhealthy,0
+2595,0,M05,B2,UW54,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW54_M6.wav,mid,58%,3.566,3.6,unhealthy,2
+2182,0,F04,B2,CW36,M6,/UASpeech/audio/noisereduce/F04/F04_B2_CW36_M6.wav,mid,62%,2.1604375,2.2,unhealthy,2
+271,0,M01,B2,C19,M6,/UASpeech/audio/noisereduce/M01/M01_B2_C19_M6.wav,very low,15%,2.97125,3.0,unhealthy,0
+3151,0,M08,B2,CW48,M6,/UASpeech/audio/noisereduce/M08/M08_B2_CW48_M6.wav,high,93%,2.486625,2.5,unhealthy,3
+603,0,M05,B2,CW91,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW91_M6.wav,mid,58%,2.18225,2.2,unhealthy,2
+3149,0,M07,B2,LN,M6,/UASpeech/audio/noisereduce/M07/M07_B2_LN_M6.wav,low,28%,2.1195,2.1,unhealthy,1
+1042,0,M14,B2,LB,M6,/UASpeech/audio/noisereduce/M14/M14_B2_LB_M6.wav,high,90.4%,1.891875,1.9,unhealthy,3
+684,0,M04,B2,CW34,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW34_M6.wav,very low,2%,3.2663125,3.3,unhealthy,0
+992,0,M14,B2,C17,M6,/UASpeech/audio/noisereduce/M14/M14_B2_C17_M6.wav,high,90.4%,2.0483125,2.0,unhealthy,3
+295,0,M11,B2,UW68,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW68_M6.wav,mid,62%,6.48175,6.5,unhealthy,2
+197,0,M07,B2,CW54,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW54_M6.wav,low,28%,3.5321875,3.5,unhealthy,1
+3357,0,M14,B2,CW31,M6,/UASpeech/audio/noisereduce/M14/M14_B2_CW31_M6.wav,high,90.4%,2.1745625,2.2,unhealthy,3
+1224,0,M01,B2,LR,M6,/UASpeech/audio/noisereduce/M01/M01_B2_LR_M6.wav,very low,15%,4.6794375,4.7,unhealthy,0
+1289,0,M11,B2,UW79,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW79_M6.wav,mid,62%,3.558375,3.6,unhealthy,2
+3202,0,M05,B2,C17,M6,/UASpeech/audio/noisereduce/M05/M05_B2_C17_M6.wav,mid,58%,2.398,2.4,unhealthy,2
+1213,0,M05,B2,LM,M6,/UASpeech/audio/noisereduce/M05/M05_B2_LM_M6.wav,mid,58%,1.6511875,1.7,unhealthy,2
+1866,0,M05,B2,CW73,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW73_M6.wav,mid,58%,1.9696875,2.0,unhealthy,2
+2612,0,F04,B2,UW56,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW56_M6.wav,mid,62%,2.6651875,2.7,unhealthy,2
+432,0,M01,B2,LM,M6,/UASpeech/audio/noisereduce/M01/M01_B2_LM_M6.wav,very low,15%,3.437625,3.4,unhealthy,0
+237,0,F05,B2,CW34,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW34_M6.wav,high,95%,1.7676875,1.8,unhealthy,3
+1951,0,M05,B2,CW94,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW94_M6.wav,mid,58%,1.95125,2.0,unhealthy,2
+1051,0,M07,B2,CW63,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW63_M6.wav,low,28%,2.43725,2.4,unhealthy,1
+239,0,F05,B2,UW75,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW75_M6.wav,high,95%,1.949625,1.9,unhealthy,3
+2292,0,M07,B2,CW19,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW19_M6.wav,low,28%,2.0755,2.1,unhealthy,1
+2490,0,M11,B2,CW25,M6,/UASpeech/audio/noisereduce/M11/M11_B2_CW25_M6.wav,mid,62%,3.67025,3.7,unhealthy,2
+1716,0,M04,B2,CW59,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW59_M6.wav,very low,2%,2.3075,2.3,unhealthy,0
+897,0,M04,B2,LY,M6,/UASpeech/audio/noisereduce/M04/M04_B2_LY_M6.wav,very low,2%,2.6005,2.6,unhealthy,0
+312,0,F03,B2,UW91,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW91_M6.wav,very low,6%,3.0361875,3.0,unhealthy,0
+3192,0,M12,B2,UW40,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW40_M6.wav,very low,7.4%,3.6255625,3.6,unhealthy,0
+1626,0,F03,B2,CW99,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW99_M6.wav,very low,6%,2.289875,2.3,unhealthy,0
+3242,0,M12,B2,UW20,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW20_M6.wav,very low,7.4%,5.662625,5.7,unhealthy,0
+1743,0,M04,B2,UW58,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW58_M6.wav,very low,2%,2.327125,2.3,unhealthy,0
+1723,0,F02,B2,CW28,M6,/UASpeech/audio/noisereduce/F02/F02_B2_CW28_M6.wav,low,29%,3.645875,3.6,unhealthy,1
+224,0,M14,B2,UW84,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW84_M6.wav,high,90.4%,2.0771875,2.1,unhealthy,3
+2918,0,M11,B2,CW31,M6,/UASpeech/audio/noisereduce/M11/M11_B2_CW31_M6.wav,mid,62%,2.8193125,2.8,unhealthy,2
+2447,0,M04,B2,LV,M6,/UASpeech/audio/noisereduce/M04/M04_B2_LV_M6.wav,very low,2%,2.8450625,2.8,unhealthy,0
+291,0,M01,B2,UW28,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW28_M6.wav,very low,15%,4.0496875,4.0,unhealthy,0
+2420,0,F05,B2,LJ,M6,/UASpeech/audio/noisereduce/F05/F05_B2_LJ_M6.wav,high,95%,1.80175,1.8,unhealthy,3
+3229,0,M09,B2,UW60,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW60_M6.wav,high,86%,3.173625,3.2,unhealthy,3
+3564,0,M05,B2,UW34,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW34_M6.wav,mid,58%,4.9761875,5.0,unhealthy,2
+2636,0,M04,B2,C13,M6,/UASpeech/audio/noisereduce/M04/M04_B2_C13_M6.wav,very low,2%,2.104375,2.1,unhealthy,0
+648,0,F05,B2,CW74,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW74_M6.wav,high,95%,2.0738125,2.1,unhealthy,3
+3565,0,F05,B2,UW62,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW62_M6.wav,high,95%,2.2035,2.2,unhealthy,3
+2249,0,M14,B2,LF,M6,/UASpeech/audio/noisereduce/M14/M14_B2_LF_M6.wav,high,90.4%,2.3035,2.3,unhealthy,3
+1589,0,M05,B2,CW81,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW81_M6.wav,mid,58%,2.3964375,2.4,unhealthy,2
+589,0,M01,B2,UW70,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW70_M6.wav,very low,15%,7.8798125,7.9,unhealthy,0
+838,0,M04,B2,UW33,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW33_M6.wav,very low,2%,2.93,2.9,unhealthy,0
+436,0,M07,B2,C13,M6,/UASpeech/audio/noisereduce/M07/M07_B2_C13_M6.wav,low,28%,2.6013125,2.6,unhealthy,1
+2425,0,M01,B2,CW28,M6,/UASpeech/audio/noisereduce/M01/M01_B2_CW28_M6.wav,very low,15%,4.3961875,4.4,unhealthy,0
+1834,0,F03,B2,CW23,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW23_M6.wav,very low,6%,2.44,2.4,unhealthy,0
+513,0,M01,B2,LJ,M6,/UASpeech/audio/noisereduce/M01/M01_B2_LJ_M6.wav,very low,15%,8.164875,8.2,unhealthy,0
+1946,0,M05,B2,UW24,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW24_M6.wav,mid,58%,3.0351875,3.0,unhealthy,2
+2476,0,M14,B2,LK,M6,/UASpeech/audio/noisereduce/M14/M14_B2_LK_M6.wav,high,90.4%,2.02775,2.0,unhealthy,3
+3448,0,M11,B2,CW90,M6,/UASpeech/audio/noisereduce/M11/M11_B2_CW90_M6.wav,mid,62%,4.2389375,4.2,unhealthy,2
+2060,0,M11,B2,UW40,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW40_M6.wav,mid,62%,3.4370625,3.4,unhealthy,2
+373,0,F04,B2,CW32,M6,/UASpeech/audio/noisereduce/F04/F04_B2_CW32_M6.wav,mid,62%,2.3295625,2.3,unhealthy,2
+3544,0,M11,B2,CW77,M6,/UASpeech/audio/noisereduce/M11/M11_B2_CW77_M6.wav,mid,62%,3.7415625,3.7,unhealthy,2
+2934,0,F02,B2,UW58,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW58_M6.wav,low,29%,6.96625,7.0,unhealthy,1
+2976,0,M04,B2,UW60,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW60_M6.wav,very low,2%,2.470125,2.5,unhealthy,0
+1124,0,M01,B2,CW46,M6,/UASpeech/audio/noisereduce/M01/M01_B2_CW46_M6.wav,very low,15%,13.2085625,13.2,unhealthy,0
+2271,0,F05,B2,C7,M6,/UASpeech/audio/noisereduce/F05/F05_B2_C7_M6.wav,high,95%,1.845625,1.8,unhealthy,3
+1021,0,F03,B2,UW53,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW53_M6.wav,very low,6%,5.1226875,5.1,unhealthy,0
+546,0,M08,B2,CW38,M6,/UASpeech/audio/noisereduce/M08/M08_B2_CW38_M6.wav,high,93%,2.0815,2.1,unhealthy,3
+2746,0,M04,B2,CW49,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW49_M6.wav,very low,2%,2.0699375,2.1,unhealthy,0
+2497,0,M01,B2,CW91,M6,/UASpeech/audio/noisereduce/M01/M01_B2_CW91_M6.wav,very low,15%,7.4311875,7.4,unhealthy,0
+1760,0,M12,B2,UW8,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW8_M6.wav,very low,7.4%,6.23775,6.2,unhealthy,0
+1461,0,M07,B2,UW78,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW78_M6.wav,low,28%,2.353625,2.4,unhealthy,1
+2913,0,M11,B2,LV,M6,/UASpeech/audio/noisereduce/M11/M11_B2_LV_M6.wav,mid,62%,3.7824375,3.8,unhealthy,2
+2804,0,M07,B2,C9,M6,/UASpeech/audio/noisereduce/M07/M07_B2_C9_M6.wav,low,28%,2.60425,2.6,unhealthy,1
+2738,0,M11,B2,UW51,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW51_M6.wav,mid,62%,4.34375,4.3,unhealthy,2
+1534,0,F02,B2,C12,M6,/UASpeech/audio/noisereduce/F02/F02_B2_C12_M6.wav,low,29%,5.8569375,5.9,unhealthy,1
+2597,0,M08,B2,CW85,M6,/UASpeech/audio/noisereduce/M08/M08_B2_CW85_M6.wav,high,93%,2.6069375,2.6,unhealthy,3
+321,0,M04,B2,CW76,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW76_M6.wav,very low,2%,1.9701875,2.0,unhealthy,0
+3442,0,F02,B2,CW71,M6,/UASpeech/audio/noisereduce/F02/F02_B2_CW71_M6.wav,low,29%,3.682625,3.7,unhealthy,1
+220,0,M14,B2,UW15,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW15_M6.wav,high,90.4%,2.6835625,2.7,unhealthy,3
+3562,0,F02,B2,CW30,M6,/UASpeech/audio/noisereduce/F02/F02_B2_CW30_M6.wav,low,29%,3.596625,3.6,unhealthy,1
+705,0,F02,B2,UW48,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW48_M6.wav,low,29%,6.6500625,6.7,unhealthy,1
+3260,0,M10,B2,LP,M6,/UASpeech/audio/noisereduce/M10/M10_B2_LP_M6.wav,high,93%,2.0035625,2.0,unhealthy,3
+2291,0,M09,B2,UW70,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW70_M6.wav,high,86%,2.87525,2.9,unhealthy,3
+2079,0,F04,B2,UW4,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW4_M6.wav,mid,62%,3.61625,3.6,unhealthy,2
+556,0,M05,B2,UW42,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW42_M6.wav,mid,58%,2.578875,2.6,unhealthy,2
+1720,0,F04,B2,UW57,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW57_M6.wav,mid,62%,2.98,3.0,unhealthy,2
+3558,0,F03,B2,LX,M6,/UASpeech/audio/noisereduce/F03/F03_B2_LX_M6.wav,very low,6%,3.650875,3.7,unhealthy,0
+3198,0,M12,B2,CW84,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW84_M6.wav,very low,7.4%,3.086,3.1,unhealthy,0
+1801,0,M01,B2,UW12,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW12_M6.wav,very low,15%,4.99775,5.0,unhealthy,0
+477,0,F03,B2,UW40,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW40_M6.wav,very low,6%,11.70175,11.7,unhealthy,0
+2978,0,F02,B2,UW9,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW9_M6.wav,low,29%,5.6886875,5.7,unhealthy,1
+1694,0,M12,B2,LS,M6,/UASpeech/audio/noisereduce/M12/M12_B2_LS_M6.wav,very low,7.4%,4.8588125,4.9,unhealthy,0
+1279,0,M01,B2,D4,M6,/UASpeech/audio/noisereduce/M01/M01_B2_D4_M6.wav,very low,15%,2.8240625,2.8,unhealthy,0
+2847,0,M01,B2,CW97,M6,/UASpeech/audio/noisereduce/M01/M01_B2_CW97_M6.wav,very low,15%,3.05975,3.1,unhealthy,0
+3447,0,M04,B2,LT,M6,/UASpeech/audio/noisereduce/M04/M04_B2_LT_M6.wav,very low,2%,2.0311875,2.0,unhealthy,0
+14,0,F03,B2,LK,M6,/UASpeech/audio/noisereduce/F03/F03_B2_LK_M6.wav,very low,6%,3.3386875,3.3,unhealthy,0
+1886,0,M07,B2,CW85,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW85_M6.wav,low,28%,2.0150625,2.0,unhealthy,1
+991,0,M04,B2,D0,M6,/UASpeech/audio/noisereduce/M04/M04_B2_D0_M6.wav,very low,2%,1.5690625,1.6,unhealthy,0
+2188,0,M05,B2,C18,M6,/UASpeech/audio/noisereduce/M05/M05_B2_C18_M6.wav,mid,58%,1.90225,1.9,unhealthy,2
+2013,0,M14,B2,C1,M6,/UASpeech/audio/noisereduce/M14/M14_B2_C1_M6.wav,high,90.4%,1.8368125,1.8,unhealthy,3
+2672,0,M01,B2,CW98,M6,/UASpeech/audio/noisereduce/M01/M01_B2_CW98_M6.wav,very low,15%,7.4954375,7.5,unhealthy,0
+596,0,M11,B2,CW82,M6,/UASpeech/audio/noisereduce/M11/M11_B2_CW82_M6.wav,mid,62%,4.40075,4.4,unhealthy,2
+464,0,F05,B2,UW65,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW65_M6.wav,high,95%,2.15375,2.2,unhealthy,3
+3028,0,F02,B2,CW36,M6,/UASpeech/audio/noisereduce/F02/F02_B2_CW36_M6.wav,low,29%,3.637,3.6,unhealthy,1
+658,0,M05,B2,C15,M6,/UASpeech/audio/noisereduce/M05/M05_B2_C15_M6.wav,mid,58%,3.0364375,3.0,unhealthy,2
+2202,0,M01,B2,UW100,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW100_M6.wav,very low,15%,5.11125,5.1,unhealthy,0
+713,0,M01,B2,CW99,M6,/UASpeech/audio/noisereduce/M01/M01_B2_CW99_M6.wav,very low,15%,8.51425,8.5,unhealthy,0
+579,0,M12,B2,LZ,M6,/UASpeech/audio/noisereduce/M12/M12_B2_LZ_M6.wav,very low,7.4%,3.432375,3.4,unhealthy,0
+1140,0,M08,B2,CW11,M6,/UASpeech/audio/noisereduce/M08/M08_B2_CW11_M6.wav,high,93%,2.0676875,2.1,unhealthy,3
+880,0,F05,B2,CW50,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW50_M6.wav,high,95%,2.0900625,2.1,unhealthy,3
+1812,0,F05,B2,CW28,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW28_M6.wav,high,95%,1.8381875,1.8,unhealthy,3
+2532,0,M10,B2,LH,M6,/UASpeech/audio/noisereduce/M10/M10_B2_LH_M6.wav,high,93%,2.1323125,2.1,unhealthy,3
+60,0,F03,B2,UW20,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW20_M6.wav,very low,6%,13.5919375,13.6,unhealthy,0
+3474,0,M11,B2,UW6,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW6_M6.wav,mid,62%,3.0545,3.1,unhealthy,2
+2548,0,M14,B2,CW48,M6,/UASpeech/audio/noisereduce/M14/M14_B2_CW48_M6.wav,high,90.4%,2.02425,2.0,unhealthy,3
+2297,0,M09,B2,CW96,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW96_M6.wav,high,86%,2.5053125,2.5,unhealthy,3
+225,0,M10,B2,UW64,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW64_M6.wav,high,93%,2.3371875,2.3,unhealthy,3
+2146,0,F03,B2,UW81,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW81_M6.wav,very low,6%,2.8386875,2.8,unhealthy,0
+2924,0,M11,B2,UW75,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW75_M6.wav,mid,62%,4.2731875,4.3,unhealthy,2
+2142,0,F04,B2,UW78,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW78_M6.wav,mid,62%,3.208625,3.2,unhealthy,2
+2727,0,M07,B2,CW86,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW86_M6.wav,low,28%,3.4498125,3.4,unhealthy,1
+2805,0,M07,B2,UW71,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW71_M6.wav,low,28%,1.94,1.9,unhealthy,1
+3354,0,M01,B2,UW4,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW4_M6.wav,very low,15%,21.40375,21.4,unhealthy,0
+2769,0,M07,B2,C11,M6,/UASpeech/audio/noisereduce/M07/M07_B2_C11_M6.wav,low,28%,3.275125,3.3,unhealthy,1
+3217,0,M11,B2,UW82,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW82_M6.wav,mid,62%,2.588125,2.6,unhealthy,2
+2304,0,M09,B2,CW74,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW74_M6.wav,high,86%,2.7804375,2.8,unhealthy,3
+986,0,F03,B2,CW75,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW75_M6.wav,very low,6%,2.244125,2.2,unhealthy,0
+2757,0,F03,B2,CW40,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW40_M6.wav,very low,6%,2.5688125,2.6,unhealthy,0
+2935,0,F05,B2,LD,M6,/UASpeech/audio/noisereduce/F05/F05_B2_LD_M6.wav,high,95%,1.87825,1.9,unhealthy,3
+2888,0,M09,B2,CW54,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW54_M6.wav,high,86%,2.5111875,2.5,unhealthy,3
+1115,0,M05,B2,UW58,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW58_M6.wav,mid,58%,3.039125,3.0,unhealthy,2
+2412,0,M10,B2,D2,M6,/UASpeech/audio/noisereduce/M10/M10_B2_D2_M6.wav,high,93%,1.7763125,1.8,unhealthy,3
+3047,0,M01,B2,CW11,M6,/UASpeech/audio/noisereduce/M01/M01_B2_CW11_M6.wav,very low,15%,2.8546875,2.9,unhealthy,0
+3001,0,F04,B2,LC,M6,/UASpeech/audio/noisereduce/F04/F04_B2_LC_M6.wav,mid,62%,2.1615625,2.2,unhealthy,2
+2653,0,M01,B2,UW55,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW55_M6.wav,very low,15%,8.641,8.6,unhealthy,0
+1056,0,M01,B2,UW30,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW30_M6.wav,very low,15%,4.56325,4.6,unhealthy,0
+1854,0,M01,B2,UW16,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW16_M6.wav,very low,15%,7.2185625,7.2,unhealthy,0
+3162,0,F02,B2,CW78,M6,/UASpeech/audio/noisereduce/F02/F02_B2_CW78_M6.wav,low,29%,4.812375,4.8,unhealthy,1
+1164,0,M07,B2,UW65,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW65_M6.wav,low,28%,3.7468125,3.7,unhealthy,1
+2987,0,M01,B2,C10,M6,/UASpeech/audio/noisereduce/M01/M01_B2_C10_M6.wav,very low,15%,7.8141875,7.8,unhealthy,0
+551,0,F05,B2,CW27,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW27_M6.wav,high,95%,1.8520625,1.9,unhealthy,3
+2381,0,M08,B2,UW85,M6,/UASpeech/audio/noisereduce/M08/M08_B2_UW85_M6.wav,high,93%,2.217875,2.2,unhealthy,3
+1808,0,M07,B2,UW91,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW91_M6.wav,low,28%,4.5264375,4.5,unhealthy,1
+3041,0,F05,B2,CW51,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW51_M6.wav,high,95%,1.8465,1.8,unhealthy,3
+1092,0,M07,B2,CW33,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW33_M6.wav,low,28%,2.1263125,2.1,unhealthy,1
+3367,0,F05,B2,CW65,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW65_M6.wav,high,95%,1.928125,1.9,unhealthy,3
+336,0,M14,B2,C4,M6,/UASpeech/audio/noisereduce/M14/M14_B2_C4_M6.wav,high,90.4%,1.8656875,1.9,unhealthy,3
+1824,0,M05,B2,CW26,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW26_M6.wav,mid,58%,3.3033125,3.3,unhealthy,2
+360,0,M01,B2,UW83,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW83_M6.wav,very low,15%,9.9535625,10.0,unhealthy,0
+1008,0,M10,B2,CW16,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW16_M6.wav,high,93%,2.143125,2.1,unhealthy,3
+2215,0,F04,B2,UW8,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW8_M6.wav,mid,62%,2.653875,2.7,unhealthy,2
+74,0,M10,B2,CW51,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW51_M6.wav,high,93%,2.2340625,2.2,unhealthy,3
+2130,0,M05,B2,CW10,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW10_M6.wav,mid,58%,3.75075,3.8,unhealthy,2
+193,0,M09,B2,CW63,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW63_M6.wav,high,86%,5.231375,5.2,unhealthy,3
+3308,0,F04,B2,UW64,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW64_M6.wav,mid,62%,2.578625,2.6,unhealthy,2
+2654,0,M12,B2,UW57,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW57_M6.wav,very low,7.4%,5.7991875,5.8,unhealthy,0
+47,0,M05,B2,D1,M6,/UASpeech/audio/noisereduce/M05/M05_B2_D1_M6.wav,mid,58%,1.9190625,1.9,unhealthy,2
+3156,0,M05,B2,LR,M6,/UASpeech/audio/noisereduce/M05/M05_B2_LR_M6.wav,mid,58%,2.2325625,2.2,unhealthy,2
+3387,0,M08,B2,UW38,M6,/UASpeech/audio/noisereduce/M08/M08_B2_UW38_M6.wav,high,93%,3.8845,3.9,unhealthy,3
+2402,0,M04,B2,UW6,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW6_M6.wav,very low,2%,2.0784375,2.1,unhealthy,0
+3030,0,F04,B2,LW,M6,/UASpeech/audio/noisereduce/F04/F04_B2_LW_M6.wav,mid,62%,2.082375,2.1,unhealthy,2
+1108,0,M05,B2,LX,M6,/UASpeech/audio/noisereduce/M05/M05_B2_LX_M6.wav,mid,58%,2.9373125,2.9,unhealthy,2
+3263,0,M11,B2,D6,M6,/UASpeech/audio/noisereduce/M11/M11_B2_D6_M6.wav,mid,62%,2.6270625,2.6,unhealthy,2
+381,0,M11,B2,CW56,M6,/UASpeech/audio/noisereduce/M11/M11_B2_CW56_M6.wav,mid,62%,3.36275,3.4,unhealthy,2
+610,0,M09,B2,LT,M6,/UASpeech/audio/noisereduce/M09/M09_B2_LT_M6.wav,high,86%,2.351125,2.4,unhealthy,3
+2014,0,M07,B2,UW54,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW54_M6.wav,low,28%,2.6930625,2.7,unhealthy,1
+987,0,M04,B2,UW22,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW22_M6.wav,very low,2%,3.7025625,3.7,unhealthy,0
+3240,0,F03,B2,UW8,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW8_M6.wav,very low,6%,4.71425,4.7,unhealthy,0
+1573,0,M09,B2,UW100,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW100_M6.wav,high,86%,1.9055,1.9,unhealthy,3
+791,0,F05,B2,CW7,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW7_M6.wav,high,95%,1.920375,1.9,unhealthy,3
+3348,0,M01,B2,LS,M6,/UASpeech/audio/noisereduce/M01/M01_B2_LS_M6.wav,very low,15%,4.9640625,5.0,unhealthy,0
+101,0,M07,B2,CW60,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW60_M6.wav,low,28%,2.1879375,2.2,unhealthy,1
+1096,0,F05,B2,C11,M6,/UASpeech/audio/noisereduce/F05/F05_B2_C11_M6.wav,high,95%,1.99125,2.0,unhealthy,3
+332,0,M07,B2,CW11,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW11_M6.wav,low,28%,1.8018125,1.8,unhealthy,1
+2266,0,M04,B2,UW92,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW92_M6.wav,very low,2%,2.1208125,2.1,unhealthy,0
+3346,0,M11,B2,UW55,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW55_M6.wav,mid,62%,2.72975,2.7,unhealthy,2
+2872,0,M08,B2,CW16,M6,/UASpeech/audio/noisereduce/M08/M08_B2_CW16_M6.wav,high,93%,2.1906875,2.2,unhealthy,3
+3247,0,M11,B2,UW90,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW90_M6.wav,mid,62%,4.1446875,4.1,unhealthy,2
+1907,0,M08,B2,UW31,M6,/UASpeech/audio/noisereduce/M08/M08_B2_UW31_M6.wav,high,93%,4.0948125,4.1,unhealthy,3
+801,0,M09,B2,UW93,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW93_M6.wav,high,86%,2.9066875,2.9,unhealthy,3
+567,0,M14,B2,UW12,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW12_M6.wav,high,90.4%,2.365875,2.4,unhealthy,3
+3037,0,M12,B2,UW32,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW32_M6.wav,very low,7.4%,7.043125,7.0,unhealthy,0
+2375,0,M10,B2,C16,M6,/UASpeech/audio/noisereduce/M10/M10_B2_C16_M6.wav,high,93%,2.1389375,2.1,unhealthy,3
+210,0,M01,B2,CW66,M6,/UASpeech/audio/noisereduce/M01/M01_B2_CW66_M6.wav,very low,15%,6.8586875,6.9,unhealthy,0
+132,0,M04,B2,LK,M6,/UASpeech/audio/noisereduce/M04/M04_B2_LK_M6.wav,very low,2%,1.6496875,1.6,unhealthy,0
+1557,0,M09,B2,UW31,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW31_M6.wav,high,86%,5.2114375,5.2,unhealthy,3
+3258,0,F04,B2,UW99,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW99_M6.wav,mid,62%,2.332625,2.3,unhealthy,2
+3560,0,M12,B2,UW100,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW100_M6.wav,very low,7.4%,2.2835,2.3,unhealthy,0
+918,0,F04,B2,CW94,M6,/UASpeech/audio/noisereduce/F04/F04_B2_CW94_M6.wav,mid,62%,2.6934375,2.7,unhealthy,2
+2349,0,F04,B2,D4,M6,/UASpeech/audio/noisereduce/F04/F04_B2_D4_M6.wav,mid,62%,1.9689375,2.0,unhealthy,2
+184,0,M09,B2,LC,M6,/UASpeech/audio/noisereduce/M09/M09_B2_LC_M6.wav,high,86%,2.6588125,2.7,unhealthy,3
+3138,0,M14,B2,C11,M6,/UASpeech/audio/noisereduce/M14/M14_B2_C11_M6.wav,high,90.4%,2.1155,2.1,unhealthy,3
+1979,0,M08,B2,LP,M6,/UASpeech/audio/noisereduce/M08/M08_B2_LP_M6.wav,high,93%,2.148375,2.1,unhealthy,3
+3416,0,M05,B2,C2,M6,/UASpeech/audio/noisereduce/M05/M05_B2_C2_M6.wav,mid,58%,2.4686875,2.5,unhealthy,2
+2342,0,M14,B2,LR,M6,/UASpeech/audio/noisereduce/M14/M14_B2_LR_M6.wav,high,90.4%,2.1806875,2.2,unhealthy,3
+3237,0,M09,B2,UW87,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW87_M6.wav,high,86%,2.2254375,2.2,unhealthy,3
+81,0,F04,B2,CW59,M6,/UASpeech/audio/noisereduce/F04/F04_B2_CW59_M6.wav,mid,62%,2.93,2.9,unhealthy,2
+2736,0,M04,B2,UW85,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW85_M6.wav,very low,2%,3.3226875,3.3,unhealthy,0
+126,0,F05,B2,CW66,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW66_M6.wav,high,95%,2.0091875,2.0,unhealthy,3
+395,0,M11,B2,LT,M6,/UASpeech/audio/noisereduce/M11/M11_B2_LT_M6.wav,mid,62%,4.4611875,4.5,unhealthy,2
+1568,0,F05,B2,CW9,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW9_M6.wav,high,95%,1.86975,1.9,unhealthy,3
+3432,0,M12,B2,UW55,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW55_M6.wav,very low,7.4%,4.54425,4.5,unhealthy,0
+208,0,M04,B2,UW5,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW5_M6.wav,very low,2%,3.084375,3.1,unhealthy,0
+1590,0,M10,B2,LR,M6,/UASpeech/audio/noisereduce/M10/M10_B2_LR_M6.wav,high,93%,2.3065,2.3,unhealthy,3
+1283,0,M10,B2,UW60,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW60_M6.wav,high,93%,2.4075625,2.4,unhealthy,3
+2892,0,F03,B2,CW68,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW68_M6.wav,very low,6%,2.8409375,2.8,unhealthy,0
+2866,0,M10,B2,CW38,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW38_M6.wav,high,93%,2.086375,2.1,unhealthy,3
+3027,0,M10,B2,C8,M6,/UASpeech/audio/noisereduce/M10/M10_B2_C8_M6.wav,high,93%,2.162375,2.2,unhealthy,3
+3187,0,F03,B2,CW85,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW85_M6.wav,very low,6%,2.340625,2.3,unhealthy,0
+2048,0,M11,B2,CW36,M6,/UASpeech/audio/noisereduce/M11/M11_B2_CW36_M6.wav,mid,62%,3.6026875,3.6,unhealthy,2
+3244,0,M12,B2,CW76,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW76_M6.wav,very low,7.4%,3.106625,3.1,unhealthy,0
+973,0,M01,B2,LI,M6,/UASpeech/audio/noisereduce/M01/M01_B2_LI_M6.wav,very low,15%,9.211875,9.2,unhealthy,0
+3512,0,M14,B2,D0,M6,/UASpeech/audio/noisereduce/M14/M14_B2_D0_M6.wav,high,90.4%,2.0415625,2.0,unhealthy,3
+1751,0,M04,B2,UW32,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW32_M6.wav,very low,2%,3.0130625,3.0,unhealthy,0
+269,0,M09,B2,CW32,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW32_M6.wav,high,86%,2.695625,2.7,unhealthy,3
+86,0,F05,B2,CW93,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW93_M6.wav,high,95%,1.7534375,1.8,unhealthy,3
+1865,0,F03,B2,UW82,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW82_M6.wav,very low,6%,2.7659375,2.8,unhealthy,0
+1661,0,M09,B2,CW12,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW12_M6.wav,high,86%,2.1110625,2.1,unhealthy,3
+779,0,F03,B2,UW69,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW69_M6.wav,very low,6%,3.0538125,3.1,unhealthy,0
+597,0,M05,B2,UW22,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW22_M6.wav,mid,58%,4.769625,4.8,unhealthy,2
+2047,0,F04,B2,LU,M6,/UASpeech/audio/noisereduce/F04/F04_B2_LU_M6.wav,mid,62%,2.3250625,2.3,unhealthy,2
+2692,0,F03,B2,CW8,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW8_M6.wav,very low,6%,2.74325,2.7,unhealthy,0
+1285,0,M12,B2,UW31,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW31_M6.wav,very low,7.4%,5.4916875,5.5,unhealthy,0
+467,0,M09,B2,CW1,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW1_M6.wav,high,86%,2.986,3.0,unhealthy,3
+3407,0,M12,B2,UW68,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW68_M6.wav,very low,7.4%,4.806125,4.8,unhealthy,0
+3399,0,M11,B2,UW44,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW44_M6.wav,mid,62%,3.3815625,3.4,unhealthy,2
+3221,0,M12,B2,CW73,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW73_M6.wav,very low,7.4%,3.824,3.8,unhealthy,0
+3179,0,M09,B2,CW11,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW11_M6.wav,high,86%,2.27275,2.3,unhealthy,3
+1689,0,M11,B2,UW45,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW45_M6.wav,mid,62%,8.36125,8.4,unhealthy,2
+2965,0,M10,B2,UW63,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW63_M6.wav,high,93%,2.45975,2.5,unhealthy,3
+2683,0,F05,B2,UW72,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW72_M6.wav,high,95%,4.1640625,4.2,unhealthy,3
+983,0,M08,B2,LZ,M6,/UASpeech/audio/noisereduce/M08/M08_B2_LZ_M6.wav,high,93%,2.1475625,2.1,unhealthy,3
+2573,0,M04,B2,UW44,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW44_M6.wav,very low,2%,2.88375,2.9,unhealthy,0
+3062,0,M11,B2,C12,M6,/UASpeech/audio/noisereduce/M11/M11_B2_C12_M6.wav,mid,62%,5.2655625,5.3,unhealthy,2
+1182,0,M14,B2,CW82,M6,/UASpeech/audio/noisereduce/M14/M14_B2_CW82_M6.wav,high,90.4%,1.8649375,1.9,unhealthy,3
+67,0,M01,B2,LT,M6,/UASpeech/audio/noisereduce/M01/M01_B2_LT_M6.wav,very low,15%,9.0668125,9.1,unhealthy,0
+926,0,M01,B2,CW85,M6,/UASpeech/audio/noisereduce/M01/M01_B2_CW85_M6.wav,very low,15%,2.999375,3.0,unhealthy,0
+335,0,M11,B2,CW43,M6,/UASpeech/audio/noisereduce/M11/M11_B2_CW43_M6.wav,mid,62%,3.4999375,3.5,unhealthy,2
+853,0,M01,B2,CW80,M6,/UASpeech/audio/noisereduce/M01/M01_B2_CW80_M6.wav,very low,15%,13.3446875,13.3,unhealthy,0
+2396,0,M14,B2,UW39,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW39_M6.wav,high,90.4%,2.3065625,2.3,unhealthy,3
+1471,0,M07,B2,CW3,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW3_M6.wav,low,28%,2.9921875,3.0,unhealthy,1
+1221,0,M08,B2,CW28,M6,/UASpeech/audio/noisereduce/M08/M08_B2_CW28_M6.wav,high,93%,1.9578125,2.0,unhealthy,3
+3052,0,M01,B2,UW75,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW75_M6.wav,very low,15%,3.7948125,3.8,unhealthy,0
+1811,0,M12,B2,C19,M6,/UASpeech/audio/noisereduce/M12/M12_B2_C19_M6.wav,very low,7.4%,3.2500625,3.3,unhealthy,0
+795,0,M08,B2,C5,M6,/UASpeech/audio/noisereduce/M08/M08_B2_C5_M6.wav,high,93%,2.324375,2.3,unhealthy,3
+2543,0,M08,B2,C8,M6,/UASpeech/audio/noisereduce/M08/M08_B2_C8_M6.wav,high,93%,2.091125,2.1,unhealthy,3
+2113,0,M07,B2,UW72,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW72_M6.wav,low,28%,2.46725,2.5,unhealthy,1
+1499,0,M14,B2,LS,M6,/UASpeech/audio/noisereduce/M14/M14_B2_LS_M6.wav,high,90.4%,2.062375,2.1,unhealthy,3
+3152,0,M12,B2,C5,M6,/UASpeech/audio/noisereduce/M12/M12_B2_C5_M6.wav,very low,7.4%,3.28,3.3,unhealthy,0
+124,0,M07,B2,UW75,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW75_M6.wav,low,28%,2.2933125,2.3,unhealthy,1
+2989,0,M08,B2,CW56,M6,/UASpeech/audio/noisereduce/M08/M08_B2_CW56_M6.wav,high,93%,2.334125,2.3,unhealthy,3
+953,0,F02,B2,UW88,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW88_M6.wav,low,29%,4.24,4.2,unhealthy,1
+3539,0,F04,B2,UW47,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW47_M6.wav,mid,62%,3.8818125,3.9,unhealthy,2
+1227,0,F04,B2,CW40,M6,/UASpeech/audio/noisereduce/F04/F04_B2_CW40_M6.wav,mid,62%,2.0611875,2.1,unhealthy,2
+2021,0,M10,B2,LO,M6,/UASpeech/audio/noisereduce/M10/M10_B2_LO_M6.wav,high,93%,2.066875,2.1,unhealthy,3
+1708,0,M01,B2,CW52,M6,/UASpeech/audio/noisereduce/M01/M01_B2_CW52_M6.wav,very low,15%,11.89775,11.9,unhealthy,0
+2259,0,M10,B2,CW20,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW20_M6.wav,high,93%,2.061375,2.1,unhealthy,3
+903,0,M14,B2,UW19,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW19_M6.wav,high,90.4%,2.0109375,2.0,unhealthy,3
+1135,0,M11,B2,UW78,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW78_M6.wav,mid,62%,4.1898125,4.2,unhealthy,2
+1309,0,F03,B2,UW11,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW11_M6.wav,very low,6%,6.3978125,6.4,unhealthy,0
+2494,0,F02,B2,UW57,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW57_M6.wav,low,29%,5.342625,5.3,unhealthy,1
+2489,0,M11,B2,UW64,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW64_M6.wav,mid,62%,4.0665625,4.1,unhealthy,2
+1973,0,M04,B2,CW88,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW88_M6.wav,very low,2%,2.554375,2.6,unhealthy,0
+2957,0,F03,B2,C6,M6,/UASpeech/audio/noisereduce/F03/F03_B2_C6_M6.wav,very low,6%,3.12175,3.1,unhealthy,0
+1655,0,F02,B2,CW14,M6,/UASpeech/audio/noisereduce/F02/F02_B2_CW14_M6.wav,low,29%,3.220625,3.2,unhealthy,1
+230,0,F04,B2,UW42,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW42_M6.wav,mid,62%,2.7381875,2.7,unhealthy,2
+2232,0,F02,B2,CW57,M6,/UASpeech/audio/noisereduce/F02/F02_B2_CW57_M6.wav,low,29%,3.85125,3.9,unhealthy,1
+536,0,M01,B2,UW98,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW98_M6.wav,very low,15%,7.1689375,7.2,unhealthy,0
+2587,0,M14,B2,CW92,M6,/UASpeech/audio/noisereduce/M14/M14_B2_CW92_M6.wav,high,90.4%,1.8385,1.8,unhealthy,3
+631,0,F02,B2,CW5,M6,/UASpeech/audio/noisereduce/F02/F02_B2_CW5_M6.wav,low,29%,3.1605,3.2,unhealthy,1
+372,0,M04,B2,UW9,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW9_M6.wav,very low,2%,2.975375,3.0,unhealthy,0
+1201,0,M11,B2,CW5,M6,/UASpeech/audio/noisereduce/M11/M11_B2_CW5_M6.wav,mid,62%,3.5058125,3.5,unhealthy,2
+3207,0,M09,B2,UW91,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW91_M6.wav,high,86%,2.569875,2.6,unhealthy,3
+2909,0,M01,B2,CW74,M6,/UASpeech/audio/noisereduce/M01/M01_B2_CW74_M6.wav,very low,15%,4.898875,4.9,unhealthy,0
+2214,0,M09,B2,CW48,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW48_M6.wav,high,86%,2.5016875,2.5,unhealthy,3
+3032,0,M01,B2,UW86,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW86_M6.wav,very low,15%,3.883375,3.9,unhealthy,0
+3320,0,M10,B2,UW2,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW2_M6.wav,high,93%,2.65925,2.7,unhealthy,3
+2946,0,M01,B2,C3,M6,/UASpeech/audio/noisereduce/M01/M01_B2_C3_M6.wav,very low,15%,7.0815,7.1,unhealthy,0
+264,0,M09,B2,UW53,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW53_M6.wav,high,86%,2.6630625,2.7,unhealthy,3
+2834,0,F05,B2,UW91,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW91_M6.wav,high,95%,1.7368125,1.7,unhealthy,3
+1564,0,F02,B2,UW46,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW46_M6.wav,low,29%,3.8194375,3.8,unhealthy,1
+1961,0,M12,B2,UW27,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW27_M6.wav,very low,7.4%,5.33675,5.3,unhealthy,0
+1659,0,M01,B2,LG,M6,/UASpeech/audio/noisereduce/M01/M01_B2_LG_M6.wav,very low,15%,5.33475,5.3,unhealthy,0
+668,0,F05,B2,CW96,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW96_M6.wav,high,95%,1.93175,1.9,unhealthy,3
+3048,0,F03,B2,CW91,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW91_M6.wav,very low,6%,3.3503125,3.4,unhealthy,0
+2260,0,M12,B2,CW64,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW64_M6.wav,very low,7.4%,3.58375,3.6,unhealthy,0
+879,0,M12,B2,CW100,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW100_M6.wav,very low,7.4%,2.4573125,2.5,unhealthy,0
+3188,0,M10,B2,LI,M6,/UASpeech/audio/noisereduce/M10/M10_B2_LI_M6.wav,high,93%,2.038,2.0,unhealthy,3
+196,0,M04,B2,UW57,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW57_M6.wav,very low,2%,3.0323125,3.0,unhealthy,0
+1314,0,M09,B2,UW18,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW18_M6.wav,high,86%,2.7933125,2.8,unhealthy,3
+216,0,M05,B2,CW62,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW62_M6.wav,mid,58%,2.860875,2.9,unhealthy,2
+1759,0,M05,B2,UW94,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW94_M6.wav,mid,58%,2.6080625,2.6,unhealthy,2
+2702,0,M05,B2,CW49,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW49_M6.wav,mid,58%,2.6870625,2.7,unhealthy,2
+234,0,M05,B2,UW57,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW57_M6.wav,mid,58%,11.01625,11.0,unhealthy,2
+1831,0,M05,B2,UW99,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW99_M6.wav,mid,58%,2.0678125,2.1,unhealthy,2
+1098,0,F04,B2,CW42,M6,/UASpeech/audio/noisereduce/F04/F04_B2_CW42_M6.wav,mid,62%,2.469125,2.5,unhealthy,2
+9,0,M07,B2,UW40,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW40_M6.wav,low,28%,2.11225,2.1,unhealthy,1
+1311,0,F03,B2,LF,M6,/UASpeech/audio/noisereduce/F03/F03_B2_LF_M6.wav,very low,6%,5.9694375,6.0,unhealthy,0
+1354,0,F05,B2,CW82,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW82_M6.wav,high,95%,1.76,1.8,unhealthy,3
+2308,0,M14,B2,UW18,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW18_M6.wav,high,90.4%,2.1951875,2.2,unhealthy,3
+1086,0,M11,B2,UW65,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW65_M6.wav,mid,62%,4.296125,4.3,unhealthy,2
+1948,0,M08,B2,CW34,M6,/UASpeech/audio/noisereduce/M08/M08_B2_CW34_M6.wav,high,93%,2.227125,2.2,unhealthy,3
+314,0,M04,B2,CW27,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW27_M6.wav,very low,2%,2.0906875,2.1,unhealthy,0
+283,0,F02,B2,UW55,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW55_M6.wav,low,29%,4.28725,4.3,unhealthy,1
+1357,0,M08,B2,UW12,M6,/UASpeech/audio/noisereduce/M08/M08_B2_UW12_M6.wav,high,93%,3.398375,3.4,unhealthy,3
+2625,0,F03,B2,C5,M6,/UASpeech/audio/noisereduce/F03/F03_B2_C5_M6.wav,very low,6%,2.606,2.6,unhealthy,0
+2184,0,M11,B2,CW21,M6,/UASpeech/audio/noisereduce/M11/M11_B2_CW21_M6.wav,mid,62%,4.003625,4.0,unhealthy,2
+2717,0,F05,B2,UW10,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW10_M6.wav,high,95%,2.142375,2.1,unhealthy,3
+2163,0,M12,B2,CW55,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW55_M6.wav,very low,7.4%,3.7375625,3.7,unhealthy,0
+2802,0,F02,B2,UW65,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW65_M6.wav,low,29%,7.2986875,7.3,unhealthy,1
+2118,0,F03,B2,CW50,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW50_M6.wav,very low,6%,3.0901875,3.1,unhealthy,0
+3475,0,M04,B2,CW45,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW45_M6.wav,very low,2%,2.3875625,2.4,unhealthy,0
+1997,0,M04,B2,UW51,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW51_M6.wav,very low,2%,4.58,4.6,unhealthy,0
+475,0,F05,B2,CW4,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW4_M6.wav,high,95%,2.1509375,2.2,unhealthy,3
+870,0,M10,B2,CW63,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW63_M6.wav,high,93%,2.4699375,2.5,unhealthy,3
+3543,0,F05,B2,UW31,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW31_M6.wav,high,95%,2.781875,2.8,unhealthy,3
+1879,0,M01,B2,UW62,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW62_M6.wav,very low,15%,11.3205625,11.3,unhealthy,0
+2939,0,M10,B2,CW23,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW23_M6.wav,high,93%,2.071375,2.1,unhealthy,3
+898,0,M05,B2,UW41,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW41_M6.wav,mid,58%,2.445625,2.4,unhealthy,2
+1657,0,M12,B2,CW97,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW97_M6.wav,very low,7.4%,3.254,3.3,unhealthy,0
+1724,0,M07,B2,CW45,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW45_M6.wav,low,28%,2.1125,2.1,unhealthy,1
+268,0,M12,B2,CW38,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW38_M6.wav,very low,7.4%,5.455875,5.5,unhealthy,0
+2572,0,M07,B2,D8,M6,/UASpeech/audio/noisereduce/M07/M07_B2_D8_M6.wav,low,28%,2.379875,2.4,unhealthy,1
+1918,0,F03,B2,CW5,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW5_M6.wav,very low,6%,2.70075,2.7,unhealthy,0
+1241,0,M05,B2,CW18,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW18_M6.wav,mid,58%,1.9305625,1.9,unhealthy,2
+2059,0,M12,B2,LM,M6,/UASpeech/audio/noisereduce/M12/M12_B2_LM_M6.wav,very low,7.4%,2.8269375,2.8,unhealthy,0
+2236,0,M14,B2,CW72,M6,/UASpeech/audio/noisereduce/M14/M14_B2_CW72_M6.wav,high,90.4%,1.9055625,1.9,unhealthy,3
+2576,0,F05,B2,UW33,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW33_M6.wav,high,95%,2.539125,2.5,unhealthy,3
+3491,0,M11,B2,UW92,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW92_M6.wav,mid,62%,4.60975,4.6,unhealthy,2
+383,0,M07,B2,LX,M6,/UASpeech/audio/noisereduce/M07/M07_B2_LX_M6.wav,low,28%,2.6963125,2.7,unhealthy,1
+1635,0,F05,B2,CW64,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW64_M6.wav,high,95%,1.961875,2.0,unhealthy,3
+3193,0,M12,B2,CW51,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW51_M6.wav,very low,7.4%,3.3405625,3.3,unhealthy,0
+1956,0,F04,B2,UW52,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW52_M6.wav,mid,62%,2.691375,2.7,unhealthy,2
+142,0,M01,B2,CW33,M6,/UASpeech/audio/noisereduce/M01/M01_B2_CW33_M6.wav,very low,15%,6.69225,6.7,unhealthy,0
+240,0,F02,B2,CW2,M6,/UASpeech/audio/noisereduce/F02/F02_B2_CW2_M6.wav,low,29%,3.443375,3.4,unhealthy,1
+1561,0,M08,B2,UW33,M6,/UASpeech/audio/noisereduce/M08/M08_B2_UW33_M6.wav,high,93%,2.607,2.6,unhealthy,3
+2666,0,M12,B2,D1,M6,/UASpeech/audio/noisereduce/M12/M12_B2_D1_M6.wav,very low,7.4%,2.6440625,2.6,unhealthy,0
+1958,0,F02,B2,UW23,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW23_M6.wav,low,29%,5.3651875,5.4,unhealthy,1
+2662,0,M14,B2,UW87,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW87_M6.wav,high,90.4%,1.912625,1.9,unhealthy,3
+3120,0,F02,B2,C3,M6,/UASpeech/audio/noisereduce/F02/F02_B2_C3_M6.wav,low,29%,5.06,5.1,unhealthy,1
+1125,0,F03,B2,CW27,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW27_M6.wav,very low,6%,2.4588125,2.5,unhealthy,0
+653,0,M11,B2,CW94,M6,/UASpeech/audio/noisereduce/M11/M11_B2_CW94_M6.wav,mid,62%,4.0455625,4.0,unhealthy,2
+3403,0,M12,B2,CW10,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW10_M6.wav,very low,7.4%,3.71175,3.7,unhealthy,0
+407,0,M07,B2,LW,M6,/UASpeech/audio/noisereduce/M07/M07_B2_LW_M6.wav,low,28%,2.3205625,2.3,unhealthy,1
+1244,0,M07,B2,UW56,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW56_M6.wav,low,28%,2.857125,2.9,unhealthy,1
+923,0,F02,B2,UW79,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW79_M6.wav,low,29%,5.5024375,5.5,unhealthy,1
+2574,0,F04,B2,D3,M6,/UASpeech/audio/noisereduce/F04/F04_B2_D3_M6.wav,mid,62%,2.21075,2.2,unhealthy,2
+3337,0,F04,B2,CW51,M6,/UASpeech/audio/noisereduce/F04/F04_B2_CW51_M6.wav,mid,62%,1.9390625,1.9,unhealthy,2
+2826,0,M10,B2,UW18,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW18_M6.wav,high,93%,2.7498125,2.7,unhealthy,3
+2416,0,M11,B2,CW51,M6,/UASpeech/audio/noisereduce/M11/M11_B2_CW51_M6.wav,mid,62%,3.6781875,3.7,unhealthy,2
+479,0,F03,B2,CW87,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW87_M6.wav,very low,6%,3.072,3.1,unhealthy,0
+559,0,M14,B2,UW8,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW8_M6.wav,high,90.4%,2.56,2.6,unhealthy,3
+1583,0,F04,B2,LJ,M6,/UASpeech/audio/noisereduce/F04/F04_B2_LJ_M6.wav,mid,62%,2.7095,2.7,unhealthy,2
+1806,0,M07,B2,CW75,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW75_M6.wav,low,28%,2.246,2.2,unhealthy,1
+1636,0,M04,B2,D1,M6,/UASpeech/audio/noisereduce/M04/M04_B2_D1_M6.wav,very low,2%,1.848625,1.8,unhealthy,0
+2580,0,F04,B2,CW47,M6,/UASpeech/audio/noisereduce/F04/F04_B2_CW47_M6.wav,mid,62%,2.099125,2.1,unhealthy,2
+539,0,F04,B2,CW88,M6,/UASpeech/audio/noisereduce/F04/F04_B2_CW88_M6.wav,mid,62%,2.549125,2.5,unhealthy,2
+894,0,M12,B2,CW95,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW95_M6.wav,very low,7.4%,3.5665625,3.6,unhealthy,0
+730,0,F05,B2,LX,M6,/UASpeech/audio/noisereduce/F05/F05_B2_LX_M6.wav,high,95%,2.08,2.1,unhealthy,3
+1765,0,M14,B2,UW3,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW3_M6.wav,high,90.4%,2.361875,2.4,unhealthy,3
+3111,0,M01,B2,D6,M6,/UASpeech/audio/noisereduce/M01/M01_B2_D6_M6.wav,very low,15%,4.559875,4.6,unhealthy,0
+3309,0,M11,B2,UW70,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW70_M6.wav,mid,62%,5.8725,5.9,unhealthy,2
+3378,0,F03,B2,CW35,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW35_M6.wav,very low,6%,2.357,2.4,unhealthy,0
+1386,0,M09,B2,UW73,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW73_M6.wav,high,86%,2.427625,2.4,unhealthy,3
+1858,0,F05,B2,UW36,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW36_M6.wav,high,95%,3.3424375,3.3,unhealthy,3
+337,0,F03,B2,UW74,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW74_M6.wav,very low,6%,2.735375,2.7,unhealthy,0
+1935,0,M10,B2,CW95,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW95_M6.wav,high,93%,2.2838125,2.3,unhealthy,3
+1679,0,M09,B2,UW41,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW41_M6.wav,high,86%,3.53025,3.5,unhealthy,3
+275,0,F03,B2,CW11,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW11_M6.wav,very low,6%,2.6583125,2.7,unhealthy,0
+3026,0,M08,B2,UW86,M6,/UASpeech/audio/noisereduce/M08/M08_B2_UW86_M6.wav,high,93%,2.116625,2.1,unhealthy,3
+965,0,F05,B2,UW39,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW39_M6.wav,high,95%,2.27375,2.3,unhealthy,3
+2222,0,M07,B2,UW41,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW41_M6.wav,low,28%,2.455875,2.5,unhealthy,1
+411,0,M05,B2,C13,M6,/UASpeech/audio/noisereduce/M05/M05_B2_C13_M6.wav,mid,58%,2.4783125,2.5,unhealthy,2
+3064,0,F05,B2,CW39,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW39_M6.wav,high,95%,1.8383125,1.8,unhealthy,3
+2469,0,F05,B2,LS,M6,/UASpeech/audio/noisereduce/F05/F05_B2_LS_M6.wav,high,95%,1.8366875,1.8,unhealthy,3
+31,0,M01,B2,UW41,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW41_M6.wav,very low,15%,3.75725,3.8,unhealthy,0
+165,0,M11,B2,CW54,M6,/UASpeech/audio/noisereduce/M11/M11_B2_CW54_M6.wav,mid,62%,3.7166875,3.7,unhealthy,2
+2951,0,F04,B2,D9,M6,/UASpeech/audio/noisereduce/F04/F04_B2_D9_M6.wav,mid,62%,2.7173125,2.7,unhealthy,2
+106,0,F05,B2,CW52,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW52_M6.wav,high,95%,2.10925,2.1,unhealthy,3
+550,0,M07,B2,D1,M6,/UASpeech/audio/noisereduce/M07/M07_B2_D1_M6.wav,low,28%,1.59025,1.6,unhealthy,1
+1837,0,M14,B2,UW92,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW92_M6.wav,high,90.4%,2.1418125,2.1,unhealthy,3
+2592,0,M14,B2,CW23,M6,/UASpeech/audio/noisereduce/M14/M14_B2_CW23_M6.wav,high,90.4%,2.025125,2.0,unhealthy,3
+1833,0,F02,B2,UW100,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW100_M6.wav,low,29%,3.1438125,3.1,unhealthy,1
+98,0,F05,B2,UW40,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW40_M6.wav,high,95%,2.185,2.2,unhealthy,3
+3170,0,F02,B2,CW96,M6,/UASpeech/audio/noisereduce/F02/F02_B2_CW96_M6.wav,low,29%,4.4661875,4.5,unhealthy,1
+333,0,M04,B2,CW67,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW67_M6.wav,very low,2%,2.114375,2.1,unhealthy,0
+724,0,F03,B2,LO,M6,/UASpeech/audio/noisereduce/F03/F03_B2_LO_M6.wav,very low,6%,3.197875,3.2,unhealthy,0
+868,0,M07,B2,CW69,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW69_M6.wav,low,28%,2.5641875,2.6,unhealthy,1
+2926,0,M04,B2,CW66,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW66_M6.wav,very low,2%,1.9456875,1.9,unhealthy,0
+1229,0,M09,B2,CW72,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW72_M6.wav,high,86%,2.7783125,2.8,unhealthy,3
+41,0,F03,B2,CW32,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW32_M6.wav,very low,6%,2.6095625,2.6,unhealthy,0
+644,0,M12,B2,CW93,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW93_M6.wav,very low,7.4%,3.10525,3.1,unhealthy,0
+2633,0,F04,B2,CW93,M6,/UASpeech/audio/noisereduce/F04/F04_B2_CW93_M6.wav,mid,62%,2.3705,2.4,unhealthy,2
+375,0,M14,B2,UW9,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW9_M6.wav,high,90.4%,2.3815,2.4,unhealthy,3
+1385,0,M09,B2,LD,M6,/UASpeech/audio/noisereduce/M09/M09_B2_LD_M6.wav,high,86%,2.9079375,2.9,unhealthy,3
+1123,0,M09,B2,D0,M6,/UASpeech/audio/noisereduce/M09/M09_B2_D0_M6.wav,high,86%,2.2341875,2.2,unhealthy,3
+233,0,M14,B2,CW1,M6,/UASpeech/audio/noisereduce/M14/M14_B2_CW1_M6.wav,high,90.4%,1.9435,1.9,unhealthy,3
+2239,0,M05,B2,CW43,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW43_M6.wav,mid,58%,2.76975,2.8,unhealthy,2
+2524,0,F02,B2,LI,M6,/UASpeech/audio/noisereduce/F02/F02_B2_LI_M6.wav,low,29%,5.88475,5.9,unhealthy,1
+1237,0,M04,B2,CW13,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW13_M6.wav,very low,2%,1.68575,1.7,unhealthy,0
+258,0,M11,B2,CW96,M6,/UASpeech/audio/noisereduce/M11/M11_B2_CW96_M6.wav,mid,62%,3.7906875,3.8,unhealthy,2
+1393,0,M07,B2,UW21,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW21_M6.wav,low,28%,3.8778125,3.9,unhealthy,1
+2851,0,M14,B2,CW49,M6,/UASpeech/audio/noisereduce/M14/M14_B2_CW49_M6.wav,high,90.4%,2.011125,2.0,unhealthy,3
+241,0,M05,B2,UW16,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW16_M6.wav,mid,58%,4.1825625,4.2,unhealthy,2
+1933,0,M11,B2,CW93,M6,/UASpeech/audio/noisereduce/M11/M11_B2_CW93_M6.wav,mid,62%,2.883875,2.9,unhealthy,2
+1508,0,M04,B2,UW87,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW87_M6.wav,very low,2%,2.371375,2.4,unhealthy,0
+2071,0,F03,B2,CW95,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW95_M6.wav,very low,6%,2.68475,2.7,unhealthy,0
+3234,0,M08,B2,UW35,M6,/UASpeech/audio/noisereduce/M08/M08_B2_UW35_M6.wav,high,93%,3.352875,3.4,unhealthy,3
+1949,0,F05,B2,UW57,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW57_M6.wav,high,95%,2.7835,2.8,unhealthy,3
+462,0,M11,B2,CW70,M6,/UASpeech/audio/noisereduce/M11/M11_B2_CW70_M6.wav,mid,62%,4.6495,4.6,unhealthy,2
+3377,0,F02,B2,CW74,M6,/UASpeech/audio/noisereduce/F02/F02_B2_CW74_M6.wav,low,29%,4.0814375,4.1,unhealthy,1
+3121,0,M14,B2,CW71,M6,/UASpeech/audio/noisereduce/M14/M14_B2_CW71_M6.wav,high,90.4%,2.105125,2.1,unhealthy,3
+580,0,M14,B2,C19,M6,/UASpeech/audio/noisereduce/M14/M14_B2_C19_M6.wav,high,90.4%,1.5395,1.5,unhealthy,3
+921,0,F03,B2,CW36,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW36_M6.wav,very low,6%,5.0111875,5.0,unhealthy,0
+1497,0,M08,B2,CW5,M6,/UASpeech/audio/noisereduce/M08/M08_B2_CW5_M6.wav,high,93%,2.2035,2.2,unhealthy,3
+2374,0,M07,B2,CW61,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW61_M6.wav,low,28%,2.030875,2.0,unhealthy,1
+2854,0,M11,B2,UW15,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW15_M6.wav,mid,62%,5.0341875,5.0,unhealthy,2
+2073,0,M07,B2,CW44,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW44_M6.wav,low,28%,3.035375,3.0,unhealthy,1
+3155,0,F03,B2,CW20,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW20_M6.wav,very low,6%,2.8595625,2.9,unhealthy,0
+3271,0,M11,B2,CW80,M6,/UASpeech/audio/noisereduce/M11/M11_B2_CW80_M6.wav,mid,62%,3.82075,3.8,unhealthy,2
+3395,0,M04,B2,UW84,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW84_M6.wav,very low,2%,1.997125,2.0,unhealthy,0
+2455,0,M11,B2,UW52,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW52_M6.wav,mid,62%,4.972375,5.0,unhealthy,2
+2089,0,M04,B2,UW31,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW31_M6.wav,very low,2%,3.711125,3.7,unhealthy,0
+1648,0,M07,B2,UW9,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW9_M6.wav,low,28%,2.5843125,2.6,unhealthy,1
+606,0,M10,B2,CW27,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW27_M6.wav,high,93%,2.235,2.2,unhealthy,3
+3154,0,F02,B2,C11,M6,/UASpeech/audio/noisereduce/F02/F02_B2_C11_M6.wav,low,29%,8.99375,9.0,unhealthy,1
+1150,0,F03,B2,D9,M6,/UASpeech/audio/noisereduce/F03/F03_B2_D9_M6.wav,very low,6%,2.5241875,2.5,unhealthy,0
+1521,0,M10,B2,CW41,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW41_M6.wav,high,93%,2.3480625,2.3,unhealthy,3
+310,0,M12,B2,CW28,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW28_M6.wav,very low,7.4%,3.3555625,3.4,unhealthy,0
+1295,0,M09,B2,CW34,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW34_M6.wav,high,86%,2.3885625,2.4,unhealthy,3
+1307,0,M08,B2,CW77,M6,/UASpeech/audio/noisereduce/M08/M08_B2_CW77_M6.wav,high,93%,2.475625,2.5,unhealthy,3
+2456,0,M14,B2,CW58,M6,/UASpeech/audio/noisereduce/M14/M14_B2_CW58_M6.wav,high,90.4%,2.0135,2.0,unhealthy,3
+3292,0,M05,B2,LJ,M6,/UASpeech/audio/noisereduce/M05/M05_B2_LJ_M6.wav,mid,58%,2.5370625,2.5,unhealthy,2
+2373,0,M10,B2,UW23,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW23_M6.wav,high,93%,2.5265,2.5,unhealthy,3
+1423,0,M10,B2,CW12,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW12_M6.wav,high,93%,2.227625,2.2,unhealthy,3
+848,0,M09,B2,C14,M6,/UASpeech/audio/noisereduce/M09/M09_B2_C14_M6.wav,high,86%,2.1393125,2.1,unhealthy,3
+398,0,M12,B2,CW96,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW96_M6.wav,very low,7.4%,3.517,3.5,unhealthy,0
+2945,0,M05,B2,UW35,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW35_M6.wav,mid,58%,3.8755625,3.9,unhealthy,2
+786,0,M01,B2,CW81,M6,/UASpeech/audio/noisereduce/M01/M01_B2_CW81_M6.wav,very low,15%,5.7978125,5.8,unhealthy,0
+1825,0,F02,B2,UW95,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW95_M6.wav,low,29%,4.4788125,4.5,unhealthy,1
+2378,0,M09,B2,UW85,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW85_M6.wav,high,86%,2.73475,2.7,unhealthy,3
+557,0,M10,B2,UW43,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW43_M6.wav,high,93%,2.0913125,2.1,unhealthy,3
+1569,0,F03,B2,UW3,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW3_M6.wav,very low,6%,3.25275,3.3,unhealthy,0
+2562,0,F03,B2,UW44,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW44_M6.wav,very low,6%,2.758625,2.8,unhealthy,0
+2748,0,M09,B2,CW41,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW41_M6.wav,high,86%,2.5795625,2.6,unhealthy,3
+2072,0,M01,B2,CW43,M6,/UASpeech/audio/noisereduce/M01/M01_B2_CW43_M6.wav,very low,15%,4.0569375,4.1,unhealthy,0
+722,0,M04,B2,CW77,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW77_M6.wav,very low,2%,2.015,2.0,unhealthy,0
+493,0,M09,B2,C13,M6,/UASpeech/audio/noisereduce/M09/M09_B2_C13_M6.wav,high,86%,2.731125,2.7,unhealthy,3
+1472,0,M12,B2,C6,M6,/UASpeech/audio/noisereduce/M12/M12_B2_C6_M6.wav,very low,7.4%,4.089,4.1,unhealthy,0
+3249,0,F04,B2,CW77,M6,/UASpeech/audio/noisereduce/F04/F04_B2_CW77_M6.wav,mid,62%,2.9631875,3.0,unhealthy,2
+1000,0,F02,B2,UW67,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW67_M6.wav,low,29%,5.6484375,5.6,unhealthy,1
+3011,0,M05,B2,C1,M6,/UASpeech/audio/noisereduce/M05/M05_B2_C1_M6.wav,mid,58%,2.446125,2.4,unhealthy,2
+2154,0,F02,B2,LU,M6,/UASpeech/audio/noisereduce/F02/F02_B2_LU_M6.wav,low,29%,4.6995625,4.7,unhealthy,1
+833,0,M01,B2,UW26,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW26_M6.wav,very low,15%,11.14475,11.1,unhealthy,0
+2403,0,M04,B2,CW100,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW100_M6.wav,very low,2%,1.719125,1.7,unhealthy,0
+1835,0,F03,B2,UW34,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW34_M6.wav,very low,6%,2.546375,2.5,unhealthy,0
+3163,0,M01,B2,UW53,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW53_M6.wav,very low,15%,6.05225,6.1,unhealthy,0
+2419,0,M14,B2,CW47,M6,/UASpeech/audio/noisereduce/M14/M14_B2_CW47_M6.wav,high,90.4%,1.9838125,2.0,unhealthy,3
+1380,0,F05,B2,CW25,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW25_M6.wav,high,95%,2.0536875,2.1,unhealthy,3
+1159,0,M14,B2,UW96,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW96_M6.wav,high,90.4%,2.20275,2.2,unhealthy,3
+1003,0,M08,B2,D9,M6,/UASpeech/audio/noisereduce/M08/M08_B2_D9_M6.wav,high,93%,1.7971875,1.8,unhealthy,3
+645,0,M05,B2,LE,M6,/UASpeech/audio/noisereduce/M05/M05_B2_LE_M6.wav,mid,58%,3.1075,3.1,unhealthy,2
+1644,0,M04,B2,UW63,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW63_M6.wav,very low,2%,2.1281875,2.1,unhealthy,0
+1747,0,M05,B2,UW28,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW28_M6.wav,mid,58%,3.559,3.6,unhealthy,2
+293,0,M08,B2,UW91,M6,/UASpeech/audio/noisereduce/M08/M08_B2_UW91_M6.wav,high,93%,2.85775,2.9,unhealthy,3
+22,0,M12,B2,UW60,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW60_M6.wav,very low,7.4%,5.1785,5.2,unhealthy,0
+1469,0,M05,B2,UW30,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW30_M6.wav,mid,58%,4.3559375,4.4,unhealthy,2
+1327,0,M14,B2,LH,M6,/UASpeech/audio/noisereduce/M14/M14_B2_LH_M6.wav,high,90.4%,1.8913125,1.9,unhealthy,3
+2075,0,M11,B2,LO,M6,/UASpeech/audio/noisereduce/M11/M11_B2_LO_M6.wav,mid,62%,4.3021875,4.3,unhealthy,2
+690,0,M11,B2,CW84,M6,/UASpeech/audio/noisereduce/M11/M11_B2_CW84_M6.wav,mid,62%,3.616,3.6,unhealthy,2
+2250,0,M14,B2,CW5,M6,/UASpeech/audio/noisereduce/M14/M14_B2_CW5_M6.wav,high,90.4%,1.8396875,1.8,unhealthy,3
+2608,0,M10,B2,UW90,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW90_M6.wav,high,93%,2.311625,2.3,unhealthy,3
+160,0,M04,B2,CW39,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW39_M6.wav,very low,2%,2.430375,2.4,unhealthy,0
+3281,0,M11,B2,UW41,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW41_M6.wav,mid,62%,4.48,4.5,unhealthy,2
+3497,0,F02,B2,UW69,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW69_M6.wav,low,29%,3.4933125,3.5,unhealthy,1
+1249,0,M12,B2,UW36,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW36_M6.wav,very low,7.4%,8.3236875,8.3,unhealthy,0
+73,0,F03,B2,LL,M6,/UASpeech/audio/noisereduce/F03/F03_B2_LL_M6.wav,very low,6%,2.9646875,3.0,unhealthy,0
+805,0,M12,B2,UW73,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW73_M6.wav,very low,7.4%,4.25175,4.3,unhealthy,0
+3411,0,F03,B2,UW28,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW28_M6.wav,very low,6%,6.1728125,6.2,unhealthy,0
+2518,0,M09,B2,C1,M6,/UASpeech/audio/noisereduce/M09/M09_B2_C1_M6.wav,high,86%,2.244375,2.2,unhealthy,3
+1799,0,M09,B2,CW65,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW65_M6.wav,high,86%,2.53625,2.5,unhealthy,3
+2365,0,F05,B2,UW80,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW80_M6.wav,high,95%,3.2389375,3.2,unhealthy,3
+1876,0,M09,B2,UW15,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW15_M6.wav,high,86%,4.3160625,4.3,unhealthy,3
+134,0,M11,B2,CW58,M6,/UASpeech/audio/noisereduce/M11/M11_B2_CW58_M6.wav,mid,62%,4.4446875,4.4,unhealthy,2
+2670,0,M10,B2,UW97,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW97_M6.wav,high,93%,2.405375,2.4,unhealthy,3
+3509,0,M09,B2,CW2,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW2_M6.wav,high,86%,2.4375,2.4,unhealthy,3
+3257,0,M07,B2,LB,M6,/UASpeech/audio/noisereduce/M07/M07_B2_LB_M6.wav,low,28%,2.061875,2.1,unhealthy,1
+2313,0,M05,B2,CW1,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW1_M6.wav,mid,58%,2.130375,2.1,unhealthy,2
+1885,0,F04,B2,UW59,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW59_M6.wav,mid,62%,2.5831875,2.6,unhealthy,2
+1161,0,M14,B2,UW29,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW29_M6.wav,high,90.4%,2.1886875,2.2,unhealthy,3
+3086,0,M01,B2,CW62,M6,/UASpeech/audio/noisereduce/M01/M01_B2_CW62_M6.wav,very low,15%,3.1585,3.2,unhealthy,0
+1558,0,M10,B2,D8,M6,/UASpeech/audio/noisereduce/M10/M10_B2_D8_M6.wav,high,93%,1.6266875,1.6,unhealthy,3
+2813,0,M12,B2,CW48,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW48_M6.wav,very low,7.4%,3.5845625,3.6,unhealthy,0
+2768,0,M01,B2,CW61,M6,/UASpeech/audio/noisereduce/M01/M01_B2_CW61_M6.wav,very low,15%,4.388875,4.4,unhealthy,0
+1940,0,M12,B2,CW94,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW94_M6.wav,very low,7.4%,3.6329375,3.6,unhealthy,0
+2906,0,M04,B2,UW2,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW2_M6.wav,very low,2%,2.630875,2.6,unhealthy,0
+325,0,M04,B2,CW25,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW25_M6.wav,very low,2%,2.2354375,2.2,unhealthy,0
+420,0,M11,B2,UW81,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW81_M6.wav,mid,62%,3.7365625,3.7,unhealthy,2
+3055,0,M07,B2,UW29,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW29_M6.wav,low,28%,3.7498125,3.7,unhealthy,1
+683,0,M08,B2,UW90,M6,/UASpeech/audio/noisereduce/M08/M08_B2_UW90_M6.wav,high,93%,2.4029375,2.4,unhealthy,3
+107,0,M07,B2,CW52,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW52_M6.wav,low,28%,3.2466875,3.2,unhealthy,1
+2100,0,M14,B2,D9,M6,/UASpeech/audio/noisereduce/M14/M14_B2_D9_M6.wav,high,90.4%,2.0056875,2.0,unhealthy,3
+1794,0,M01,B2,UW46,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW46_M6.wav,very low,15%,11.47425,11.5,unhealthy,0
+516,0,M12,B2,UW10,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW10_M6.wav,very low,7.4%,3.7376875,3.7,unhealthy,0
+2500,0,M07,B2,UW7,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW7_M6.wav,low,28%,2.973,3.0,unhealthy,1
+1767,0,M04,B2,CW62,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW62_M6.wav,very low,2%,2.439,2.4,unhealthy,0
+3467,0,M12,B2,UW83,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW83_M6.wav,very low,7.4%,4.2651875,4.3,unhealthy,0
+1078,0,M04,B2,LG,M6,/UASpeech/audio/noisereduce/M04/M04_B2_LG_M6.wav,very low,2%,1.8921875,1.9,unhealthy,0
+1365,0,M12,B2,CW23,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW23_M6.wav,very low,7.4%,3.5999375,3.6,unhealthy,0
+931,0,M01,B2,C11,M6,/UASpeech/audio/noisereduce/M01/M01_B2_C11_M6.wav,very low,15%,5.2091875,5.2,unhealthy,0
+1321,0,F03,B2,CW2,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW2_M6.wav,very low,6%,5.05275,5.1,unhealthy,0
+2203,0,M14,B2,CW57,M6,/UASpeech/audio/noisereduce/M14/M14_B2_CW57_M6.wav,high,90.4%,2.063375,2.1,unhealthy,3
+2762,0,M01,B2,UW51,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW51_M6.wav,very low,15%,5.969375,6.0,unhealthy,0
+901,0,M09,B2,LM,M6,/UASpeech/audio/noisereduce/M09/M09_B2_LM_M6.wav,high,86%,2.441625,2.4,unhealthy,3
+129,0,F02,B2,CW11,M6,/UASpeech/audio/noisereduce/F02/F02_B2_CW11_M6.wav,low,29%,3.2239375,3.2,unhealthy,1
+753,0,F03,B2,D6,M6,/UASpeech/audio/noisereduce/F03/F03_B2_D6_M6.wav,very low,6%,2.7396875,2.7,unhealthy,0
+478,0,F02,B2,UW78,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW78_M6.wav,low,29%,3.5411875,3.5,unhealthy,1
+242,0,M10,B2,CW84,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW84_M6.wav,high,93%,2.3489375,2.3,unhealthy,3
+1769,0,M10,B2,LA,M6,/UASpeech/audio/noisereduce/M10/M10_B2_LA_M6.wav,high,93%,2.0405,2.0,unhealthy,3
+499,0,M09,B2,CW15,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW15_M6.wav,high,86%,3.52975,3.5,unhealthy,3
+346,0,M12,B2,CW1,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW1_M6.wav,very low,7.4%,3.057125,3.1,unhealthy,0
+302,0,M14,B2,UW81,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW81_M6.wav,high,90.4%,2.5578125,2.6,unhealthy,3
+2272,0,M07,B2,CW94,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW94_M6.wav,low,28%,1.9839375,2.0,unhealthy,1
+2217,0,F04,B2,CW31,M6,/UASpeech/audio/noisereduce/F04/F04_B2_CW31_M6.wav,mid,62%,2.2900625,2.3,unhealthy,2
+1417,0,M04,B2,CW9,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW9_M6.wav,very low,2%,1.860625,1.9,unhealthy,0
+2336,0,M05,B2,D6,M6,/UASpeech/audio/noisereduce/M05/M05_B2_D6_M6.wav,mid,58%,2.1045625,2.1,unhealthy,2
+1137,0,F02,B2,LH,M6,/UASpeech/audio/noisereduce/F02/F02_B2_LH_M6.wav,low,29%,4.8464375,4.8,unhealthy,1
+313,0,M09,B2,CW86,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW86_M6.wav,high,86%,2.4845625,2.5,unhealthy,3
+1268,0,M09,B2,CW4,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW4_M6.wav,high,86%,2.4433125,2.4,unhealthy,3
+2943,0,M09,B2,CW39,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW39_M6.wav,high,86%,2.722,2.7,unhealthy,3
+1895,0,M01,B2,CW32,M6,/UASpeech/audio/noisereduce/M01/M01_B2_CW32_M6.wav,very low,15%,3.282875,3.3,unhealthy,0
+2287,0,F04,B2,UW62,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW62_M6.wav,mid,62%,3.636125,3.6,unhealthy,2
+591,0,F04,B2,CW10,M6,/UASpeech/audio/noisereduce/F04/F04_B2_CW10_M6.wav,mid,62%,3.8353125,3.8,unhealthy,2
+733,0,M04,B2,UW14,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW14_M6.wav,very low,2%,3.434875,3.4,unhealthy,0
+1045,0,M08,B2,CW99,M6,/UASpeech/audio/noisereduce/M08/M08_B2_CW99_M6.wav,high,93%,2.4246875,2.4,unhealthy,3
+2213,0,M07,B2,UW70,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW70_M6.wav,low,28%,2.34625,2.3,unhealthy,1
+617,0,M01,B2,UW33,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW33_M6.wav,very low,15%,4.951,5.0,unhealthy,0
+920,0,M08,B2,UW40,M6,/UASpeech/audio/noisereduce/M08/M08_B2_UW40_M6.wav,high,93%,3.5926875,3.6,unhealthy,3
+3082,0,M11,B2,LE,M6,/UASpeech/audio/noisereduce/M11/M11_B2_LE_M6.wav,mid,62%,3.337375,3.3,unhealthy,2
+1294,0,F03,B2,UW80,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW80_M6.wav,very low,6%,2.46925,2.5,unhealthy,0
+2590,0,M14,B2,UW77,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW77_M6.wav,high,90.4%,2.5991875,2.6,unhealthy,3
+460,0,F04,B2,CW71,M6,/UASpeech/audio/noisereduce/F04/F04_B2_CW71_M6.wav,mid,62%,2.1916875,2.2,unhealthy,2
+2300,0,F02,B2,UW42,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW42_M6.wav,low,29%,7.201,7.2,unhealthy,1
+2932,0,F04,B2,C14,M6,/UASpeech/audio/noisereduce/F04/F04_B2_C14_M6.wav,mid,62%,1.9415,1.9,unhealthy,2
+3480,0,M07,B2,CW73,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW73_M6.wav,low,28%,2.180375,2.2,unhealthy,1
+442,0,M07,B2,CW10,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW10_M6.wav,low,28%,1.64275,1.6,unhealthy,1
+211,0,M10,B2,CW9,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW9_M6.wav,high,93%,2.2279375,2.2,unhealthy,3
+2766,0,F04,B2,UW9,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW9_M6.wav,mid,62%,2.6406875,2.6,unhealthy,2
+1738,0,M07,B2,UW63,M6,/UASpeech/audio/noisereduce/M07/M07_B2_UW63_M6.wav,low,28%,4.3124375,4.3,unhealthy,1
+491,0,M07,B2,CW62,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW62_M6.wav,low,28%,2.4995625,2.5,unhealthy,1
+2950,0,M05,B2,CW60,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW60_M6.wav,mid,58%,1.8960625,1.9,unhealthy,2
+2504,0,M05,B2,C16,M6,/UASpeech/audio/noisereduce/M05/M05_B2_C16_M6.wav,mid,58%,3.7665625,3.8,unhealthy,2
+3524,0,M10,B2,UW31,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW31_M6.wav,high,93%,2.49525,2.5,unhealthy,3
+64,0,M07,B2,CW49,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW49_M6.wav,low,28%,4.1,4.1,unhealthy,1
+2649,0,F04,B2,UW84,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW84_M6.wav,mid,62%,2.8448125,2.8,unhealthy,2
+2488,0,F03,B2,CW30,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW30_M6.wav,very low,6%,2.7150625,2.7,unhealthy,0
+1653,0,M09,B2,UW61,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW61_M6.wav,high,86%,2.4965625,2.5,unhealthy,3
+1852,0,M10,B2,CW100,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW100_M6.wav,high,93%,2.236,2.2,unhealthy,3
+2406,0,M10,B2,D5,M6,/UASpeech/audio/noisereduce/M10/M10_B2_D5_M6.wav,high,93%,1.96675,2.0,unhealthy,3
+1864,0,F02,B2,UW22,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW22_M6.wav,low,29%,5.8125,5.8,unhealthy,1
+652,0,M14,B2,UW80,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW80_M6.wav,high,90.4%,2.6473125,2.6,unhealthy,3
+386,0,F04,B2,CW48,M6,/UASpeech/audio/noisereduce/F04/F04_B2_CW48_M6.wav,mid,62%,2.083,2.1,unhealthy,2
+24,0,M10,B2,CW32,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW32_M6.wav,high,93%,2.561125,2.6,unhealthy,3
+1418,0,M12,B2,CW86,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW86_M6.wav,very low,7.4%,3.16725,3.2,unhealthy,0
+2665,0,M10,B2,UW68,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW68_M6.wav,high,93%,2.4848125,2.5,unhealthy,3
+2606,0,M04,B2,UW23,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW23_M6.wav,very low,2%,2.3011875,2.3,unhealthy,0
+2687,0,M09,B2,CW100,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW100_M6.wav,high,86%,2.32125,2.3,unhealthy,3
+1556,0,F04,B2,CW98,M6,/UASpeech/audio/noisereduce/F04/F04_B2_CW98_M6.wav,mid,62%,2.0248125,2.0,unhealthy,2
+1512,0,M09,B2,UW17,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW17_M6.wav,high,86%,3.0545,3.1,unhealthy,3
+3049,0,M07,B2,CW77,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW77_M6.wav,low,28%,2.0965625,2.1,unhealthy,1
+2277,0,M05,B2,LA,M6,/UASpeech/audio/noisereduce/M05/M05_B2_LA_M6.wav,mid,58%,2.3179375,2.3,unhealthy,2
+789,0,M14,B2,UW11,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW11_M6.wav,high,90.4%,2.282625,2.3,unhealthy,3
+3545,0,F03,B2,CW18,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW18_M6.wav,very low,6%,2.5749375,2.6,unhealthy,0
+1883,0,M11,B2,CW32,M6,/UASpeech/audio/noisereduce/M11/M11_B2_CW32_M6.wav,mid,62%,3.0926875,3.1,unhealthy,2
+2199,0,M10,B2,CW91,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW91_M6.wav,high,93%,2.31,2.3,unhealthy,3
+2216,0,M11,B2,LG,M6,/UASpeech/audio/noisereduce/M11/M11_B2_LG_M6.wav,mid,62%,3.0818125,3.1,unhealthy,2
+1034,0,M10,B2,UW80,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW80_M6.wav,high,93%,2.433375,2.4,unhealthy,3
+3345,0,F05,B2,LI,M6,/UASpeech/audio/noisereduce/F05/F05_B2_LI_M6.wav,high,95%,2.0434375,2.0,unhealthy,3
+246,0,F05,B2,C2,M6,/UASpeech/audio/noisereduce/F05/F05_B2_C2_M6.wav,high,95%,3.44625,3.4,unhealthy,3
+742,0,F02,B2,D5,M6,/UASpeech/audio/noisereduce/F02/F02_B2_D5_M6.wav,low,29%,4.8764375,4.9,unhealthy,1
+2234,0,M05,B2,UW1,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW1_M6.wav,mid,58%,2.66,2.7,unhealthy,2
+2860,0,M12,B2,C13,M6,/UASpeech/audio/noisereduce/M12/M12_B2_C13_M6.wav,very low,7.4%,3.706125,3.7,unhealthy,0
+3521,0,M14,B2,UW26,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW26_M6.wav,high,90.4%,2.6765,2.7,unhealthy,3
+1298,0,M14,B2,CW28,M6,/UASpeech/audio/noisereduce/M14/M14_B2_CW28_M6.wav,high,90.4%,1.9543125,2.0,unhealthy,3
+1714,0,M14,B2,D5,M6,/UASpeech/audio/noisereduce/M14/M14_B2_D5_M6.wav,high,90.4%,1.9500625,2.0,unhealthy,3
+829,0,M11,B2,CW16,M6,/UASpeech/audio/noisereduce/M11/M11_B2_CW16_M6.wav,mid,62%,3.318125,3.3,unhealthy,2
+1792,0,F05,B2,CW44,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW44_M6.wav,high,95%,2.3060625,2.3,unhealthy,3
+1772,0,M07,B2,CW8,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW8_M6.wav,low,28%,1.9398125,1.9,unhealthy,1
+2085,0,M08,B2,CW58,M6,/UASpeech/audio/noisereduce/M08/M08_B2_CW58_M6.wav,high,93%,2.92675,2.9,unhealthy,3
+745,0,M11,B2,CW20,M6,/UASpeech/audio/noisereduce/M11/M11_B2_CW20_M6.wav,mid,62%,3.5284375,3.5,unhealthy,2
+1867,0,F04,B2,UW93,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW93_M6.wav,mid,62%,2.8086875,2.8,unhealthy,2
+3499,0,M10,B2,CW74,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW74_M6.wav,high,93%,2.0431875,2.0,unhealthy,3
+3278,0,F03,B2,UW54,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW54_M6.wav,very low,6%,2.9261875,2.9,unhealthy,0
+1476,0,M12,B2,UW62,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW62_M6.wav,very low,7.4%,3.5850625,3.6,unhealthy,0
+1715,0,F03,B2,CW28,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW28_M6.wav,very low,6%,2.4148125,2.4,unhealthy,0
+1110,0,M05,B2,CW7,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW7_M6.wav,mid,58%,2.384375,2.4,unhealthy,2
+227,0,M14,B2,D6,M6,/UASpeech/audio/noisereduce/M14/M14_B2_D6_M6.wav,high,90.4%,2.0334375,2.0,unhealthy,3
+1206,0,M05,B2,UW69,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW69_M6.wav,mid,58%,2.9445,2.9,unhealthy,2
+155,0,M08,B2,UW26,M6,/UASpeech/audio/noisereduce/M08/M08_B2_UW26_M6.wav,high,93%,2.8569375,2.9,unhealthy,3
+1384,0,M04,B2,C15,M6,/UASpeech/audio/noisereduce/M04/M04_B2_C15_M6.wav,very low,2%,2.4069375,2.4,unhealthy,0
+3390,0,M12,B2,D7,M6,/UASpeech/audio/noisereduce/M12/M12_B2_D7_M6.wav,very low,7.4%,4.2370625,4.2,unhealthy,0
+1422,0,M10,B2,D9,M6,/UASpeech/audio/noisereduce/M10/M10_B2_D9_M6.wav,high,93%,1.4875,1.5,unhealthy,3
+1099,0,M04,B2,UW86,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW86_M6.wav,very low,2%,2.406125,2.4,unhealthy,0
+1105,0,M07,B2,CW100,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW100_M6.wav,low,28%,2.388125,2.4,unhealthy,1
+2404,0,M14,B2,UW63,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW63_M6.wav,high,90.4%,3.291375,3.3,unhealthy,3
+2366,0,M11,B2,UW27,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW27_M6.wav,mid,62%,3.8216875,3.8,unhealthy,2
+186,0,M10,B2,LZ,M6,/UASpeech/audio/noisereduce/M10/M10_B2_LZ_M6.wav,high,93%,2.4671875,2.5,unhealthy,3
+1431,0,M09,B2,UW16,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW16_M6.wav,high,86%,2.455125,2.5,unhealthy,3
+2400,0,M12,B2,UW14,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW14_M6.wav,very low,7.4%,4.95,5.0,unhealthy,0
+2126,0,M11,B2,UW18,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW18_M6.wav,mid,62%,4.181125,4.2,unhealthy,2
+718,0,M12,B2,CW26,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW26_M6.wav,very low,7.4%,3.2454375,3.2,unhealthy,0
+1047,0,M14,B2,CW62,M6,/UASpeech/audio/noisereduce/M14/M14_B2_CW62_M6.wav,high,90.4%,2.1061875,2.1,unhealthy,3
+861,0,M12,B2,C4,M6,/UASpeech/audio/noisereduce/M12/M12_B2_C4_M6.wav,very low,7.4%,3.6673125,3.7,unhealthy,0
+2040,0,M12,B2,CW44,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW44_M6.wav,very low,7.4%,3.5095,3.5,unhealthy,0
+1586,0,M11,B2,CW65,M6,/UASpeech/audio/noisereduce/M11/M11_B2_CW65_M6.wav,mid,62%,3.6885,3.7,unhealthy,2
+827,0,M11,B2,C4,M6,/UASpeech/audio/noisereduce/M11/M11_B2_C4_M6.wav,mid,62%,4.0624375,4.1,unhealthy,2
+1475,0,M12,B2,UW64,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW64_M6.wav,very low,7.4%,4.8473125,4.8,unhealthy,0
+1012,0,M11,B2,LD,M6,/UASpeech/audio/noisereduce/M11/M11_B2_LD_M6.wav,mid,62%,3.5038125,3.5,unhealthy,2
+1998,0,F05,B2,CW36,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW36_M6.wav,high,95%,1.868875,1.9,unhealthy,3
+1303,0,F04,B2,C4,M6,/UASpeech/audio/noisereduce/F04/F04_B2_C4_M6.wav,mid,62%,1.942,1.9,unhealthy,2
+1582,0,M05,B2,CW28,M6,/UASpeech/audio/noisereduce/M05/M05_B2_CW28_M6.wav,mid,58%,2.770625,2.8,unhealthy,2
+1122,0,M09,B2,CW49,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW49_M6.wav,high,86%,2.935125,2.9,unhealthy,3
+2960,0,F04,B2,UW72,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW72_M6.wav,mid,62%,2.690125,2.7,unhealthy,2
+650,0,F05,B2,C6,M6,/UASpeech/audio/noisereduce/F05/F05_B2_C6_M6.wav,high,95%,1.9760625,2.0,unhealthy,3
+1670,0,M12,B2,UW59,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW59_M6.wav,very low,7.4%,4.3430625,4.3,unhealthy,0
+58,0,M08,B2,CW71,M6,/UASpeech/audio/noisereduce/M08/M08_B2_CW71_M6.wav,high,93%,2.549875,2.5,unhealthy,3
+1367,0,M05,B2,LK,M6,/UASpeech/audio/noisereduce/M05/M05_B2_LK_M6.wav,mid,58%,5.983875,6.0,unhealthy,2
+1921,0,M04,B2,UW17,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW17_M6.wav,very low,2%,2.9461875,2.9,unhealthy,0
+2258,0,M05,B2,LB,M6,/UASpeech/audio/noisereduce/M05/M05_B2_LB_M6.wav,mid,58%,2.6543125,2.7,unhealthy,2
+2139,0,F02,B2,C10,M6,/UASpeech/audio/noisereduce/F02/F02_B2_C10_M6.wav,low,29%,3.9821875,4.0,unhealthy,1
+1501,0,M12,B2,UW41,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW41_M6.wav,very low,7.4%,6.3631875,6.4,unhealthy,0
+1917,0,M09,B2,UW46,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW46_M6.wav,high,86%,4.8289375,4.8,unhealthy,3
+2460,0,F03,B2,C16,M6,/UASpeech/audio/noisereduce/F03/F03_B2_C16_M6.wav,very low,6%,3.367625,3.4,unhealthy,0
+18,0,M11,B2,CW92,M6,/UASpeech/audio/noisereduce/M11/M11_B2_CW92_M6.wav,mid,62%,2.5090625,2.5,unhealthy,2
+1152,0,M10,B2,C17,M6,/UASpeech/audio/noisereduce/M10/M10_B2_C17_M6.wav,high,93%,2.1805,2.2,unhealthy,3
+3483,0,F03,B2,UW64,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW64_M6.wav,very low,6%,7.833625,7.8,unhealthy,0
+814,0,M05,B2,UW40,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW40_M6.wav,mid,58%,2.288875,2.3,unhealthy,2
+947,0,M04,B2,C16,M6,/UASpeech/audio/noisereduce/M04/M04_B2_C16_M6.wav,very low,2%,2.82,2.8,unhealthy,0
+426,0,F03,B2,UW13,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW13_M6.wav,very low,6%,4.7470625,4.7,unhealthy,0
+614,0,F02,B2,UW37,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW37_M6.wav,low,29%,8.1936875,8.2,unhealthy,1
+1450,0,M09,B2,UW48,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW48_M6.wav,high,86%,3.38975,3.4,unhealthy,3
+2448,0,M08,B2,UW58,M6,/UASpeech/audio/noisereduce/M08/M08_B2_UW58_M6.wav,high,93%,2.6285625,2.6,unhealthy,3
+1468,0,F05,B2,UW85,M6,/UASpeech/audio/noisereduce/F05/F05_B2_UW85_M6.wav,high,95%,1.93125,1.9,unhealthy,3
+2893,0,M05,B2,C7,M6,/UASpeech/audio/noisereduce/M05/M05_B2_C7_M6.wav,mid,58%,4.9049375,4.9,unhealthy,2
+1941,0,M08,B2,CW2,M6,/UASpeech/audio/noisereduce/M08/M08_B2_CW2_M6.wav,high,93%,2.2204375,2.2,unhealthy,3
+1256,0,M12,B2,CW25,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW25_M6.wav,very low,7.4%,3.668,3.7,unhealthy,0
+2394,0,M04,B2,CW83,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW83_M6.wav,very low,2%,2.1093125,2.1,unhealthy,0
+699,0,M01,B2,CW25,M6,/UASpeech/audio/noisereduce/M01/M01_B2_CW25_M6.wav,very low,15%,5.2690625,5.3,unhealthy,0
+2279,0,F04,B2,LZ,M6,/UASpeech/audio/noisereduce/F04/F04_B2_LZ_M6.wav,mid,62%,2.2409375,2.2,unhealthy,2
+3547,0,F03,B2,UW49,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW49_M6.wav,very low,6%,4.23675,4.2,unhealthy,0
+170,0,M11,B2,UW39,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW39_M6.wav,mid,62%,3.4775625,3.5,unhealthy,2
+3427,0,F04,B2,CW5,M6,/UASpeech/audio/noisereduce/F04/F04_B2_CW5_M6.wav,mid,62%,1.9595,2.0,unhealthy,2
+162,0,M10,B2,UW93,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW93_M6.wav,high,93%,2.0891875,2.1,unhealthy,3
+523,0,F05,B2,CW24,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW24_M6.wav,high,95%,1.8715625,1.9,unhealthy,3
+646,0,M14,B2,CW24,M6,/UASpeech/audio/noisereduce/M14/M14_B2_CW24_M6.wav,high,90.4%,2.1213125,2.1,unhealthy,3
+1111,0,M11,B2,CW53,M6,/UASpeech/audio/noisereduce/M11/M11_B2_CW53_M6.wav,mid,62%,4.429875,4.4,unhealthy,2
+822,0,M10,B2,UW16,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW16_M6.wav,high,93%,3.7506875,3.8,unhealthy,3
+1913,0,F03,B2,CW92,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW92_M6.wav,very low,6%,2.895,2.9,unhealthy,0
+739,0,M08,B2,LA,M6,/UASpeech/audio/noisereduce/M08/M08_B2_LA_M6.wav,high,93%,2.4035625,2.4,unhealthy,3
+1880,0,F02,B2,LD,M6,/UASpeech/audio/noisereduce/F02/F02_B2_LD_M6.wav,low,29%,3.539625,3.5,unhealthy,1
+2660,0,M01,B2,CW7,M6,/UASpeech/audio/noisereduce/M01/M01_B2_CW7_M6.wav,very low,15%,5.0425,5.0,unhealthy,0
+1789,0,M08,B2,C13,M6,/UASpeech/audio/noisereduce/M08/M08_B2_C13_M6.wav,high,93%,2.226375,2.2,unhealthy,3
+572,0,M01,B2,CW36,M6,/UASpeech/audio/noisereduce/M01/M01_B2_CW36_M6.wav,very low,15%,7.2785,7.3,unhealthy,0
+3501,0,M05,B2,UW15,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW15_M6.wav,mid,58%,3.3386875,3.3,unhealthy,2
+2810,0,M04,B2,CW4,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW4_M6.wav,very low,2%,2.403625,2.4,unhealthy,0
+3321,0,M09,B2,UW8,M6,/UASpeech/audio/noisereduce/M09/M09_B2_UW8_M6.wav,high,86%,3.4504375,3.5,unhealthy,3
+2632,0,M11,B2,LP,M6,/UASpeech/audio/noisereduce/M11/M11_B2_LP_M6.wav,mid,62%,3.563125,3.6,unhealthy,2
+1371,0,F04,B2,CW96,M6,/UASpeech/audio/noisereduce/F04/F04_B2_CW96_M6.wav,mid,62%,2.6035625,2.6,unhealthy,2
+44,0,M14,B2,CW76,M6,/UASpeech/audio/noisereduce/M14/M14_B2_CW76_M6.wav,high,90.4%,1.853125,1.9,unhealthy,3
+2233,0,M10,B2,UW40,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW40_M6.wav,high,93%,2.3928125,2.4,unhealthy,3
+1336,0,M01,B2,CW38,M6,/UASpeech/audio/noisereduce/M01/M01_B2_CW38_M6.wav,very low,15%,8.0650625,8.1,unhealthy,0
+2031,0,F02,B2,CW26,M6,/UASpeech/audio/noisereduce/F02/F02_B2_CW26_M6.wav,low,29%,3.61225,3.6,unhealthy,1
+1082,0,M10,B2,CW82,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW82_M6.wav,high,93%,2.2923125,2.3,unhealthy,3
+1638,0,M10,B2,UW65,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW65_M6.wav,high,93%,2.4365625,2.4,unhealthy,3
+3103,0,F05,B2,D7,M6,/UASpeech/audio/noisereduce/F05/F05_B2_D7_M6.wav,high,95%,1.716125,1.7,unhealthy,3
+2723,0,F04,B2,CW68,M6,/UASpeech/audio/noisereduce/F04/F04_B2_CW68_M6.wav,mid,62%,5.6234375,5.6,unhealthy,2
+3084,0,M10,B2,C3,M6,/UASpeech/audio/noisereduce/M10/M10_B2_C3_M6.wav,high,93%,1.931125,1.9,unhealthy,3
+895,0,F05,B2,CW6,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW6_M6.wav,high,95%,1.866375,1.9,unhealthy,3
+316,0,F03,B2,UW84,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW84_M6.wav,very low,6%,4.2486875,4.2,unhealthy,0
+835,0,M08,B2,CW60,M6,/UASpeech/audio/noisereduce/M08/M08_B2_CW60_M6.wav,high,93%,2.4393125,2.4,unhealthy,3
+1467,0,F03,B2,CW100,M6,/UASpeech/audio/noisereduce/F03/F03_B2_CW100_M6.wav,very low,6%,2.67675,2.7,unhealthy,0
+75,0,M05,B2,UW50,M6,/UASpeech/audio/noisereduce/M05/M05_B2_UW50_M6.wav,mid,58%,2.802375,2.8,unhealthy,2
+1818,0,F02,B2,UW45,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW45_M6.wav,low,29%,4.9169375,4.9,unhealthy,1
+409,0,M04,B2,CW89,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW89_M6.wav,very low,2%,2.0961875,2.1,unhealthy,0
+810,0,F04,B2,UW23,M6,/UASpeech/audio/noisereduce/F04/F04_B2_UW23_M6.wav,mid,62%,3.534875,3.5,unhealthy,2
+147,0,F02,B2,UW92,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW92_M6.wav,low,29%,7.2659375,7.3,unhealthy,1
+347,0,M10,B2,UW95,M6,/UASpeech/audio/noisereduce/M10/M10_B2_UW95_M6.wav,high,93%,2.658375,2.7,unhealthy,3
+3396,0,M14,B2,CW89,M6,/UASpeech/audio/noisereduce/M14/M14_B2_CW89_M6.wav,high,90.4%,2.0015,2.0,unhealthy,3
+1620,0,M09,B2,LY,M6,/UASpeech/audio/noisereduce/M09/M09_B2_LY_M6.wav,high,86%,2.6216875,2.6,unhealthy,3
+1223,0,M12,B2,CW58,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW58_M6.wav,very low,7.4%,3.522,3.5,unhealthy,0
+694,0,F03,B2,UW62,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW62_M6.wav,very low,6%,2.526625,2.5,unhealthy,0
+2434,0,F03,B2,UW94,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW94_M6.wav,very low,6%,3.426,3.4,unhealthy,0
+3536,0,M04,B2,LZ,M6,/UASpeech/audio/noisereduce/M04/M04_B2_LZ_M6.wav,very low,2%,2.2025,2.2,unhealthy,0
+40,0,M09,B2,CW24,M6,/UASpeech/audio/noisereduce/M09/M09_B2_CW24_M6.wav,high,86%,2.6705625,2.7,unhealthy,3
+2454,0,M04,B2,LJ,M6,/UASpeech/audio/noisereduce/M04/M04_B2_LJ_M6.wav,very low,2%,2.3985,2.4,unhealthy,0
+77,0,F02,B2,UW71,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW71_M6.wav,low,29%,3.357125,3.4,unhealthy,1
+1744,0,M04,B2,UW98,M6,/UASpeech/audio/noisereduce/M04/M04_B2_UW98_M6.wav,very low,2%,2.424,2.4,unhealthy,0
+3511,0,M01,B2,UW6,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW6_M6.wav,very low,15%,3.073375,3.1,unhealthy,0
+3104,0,M11,B2,UW16,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW16_M6.wav,mid,62%,6.8431875,6.8,unhealthy,2
+1162,0,M07,B2,LH,M6,/UASpeech/audio/noisereduce/M07/M07_B2_LH_M6.wav,low,28%,2.0578125,2.1,unhealthy,1
+2594,0,M12,B2,CW89,M6,/UASpeech/audio/noisereduce/M12/M12_B2_CW89_M6.wav,very low,7.4%,3.685875,3.7,unhealthy,0
+109,0,M10,B2,CW14,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW14_M6.wav,high,93%,2.161125,2.2,unhealthy,3
+2952,0,F05,B2,CW72,M6,/UASpeech/audio/noisereduce/F05/F05_B2_CW72_M6.wav,high,95%,1.8984375,1.9,unhealthy,3
+256,0,M12,B2,UW24,M6,/UASpeech/audio/noisereduce/M12/M12_B2_UW24_M6.wav,very low,7.4%,3.8886875,3.9,unhealthy,0
+974,0,M08,B2,CW29,M6,/UASpeech/audio/noisereduce/M08/M08_B2_CW29_M6.wav,high,93%,2.4869375,2.5,unhealthy,3
+1192,0,M14,B2,UW76,M6,/UASpeech/audio/noisereduce/M14/M14_B2_UW76_M6.wav,high,90.4%,2.491125,2.5,unhealthy,3
+3559,0,M14,B2,LJ,M6,/UASpeech/audio/noisereduce/M14/M14_B2_LJ_M6.wav,high,90.4%,2.2468125,2.2,unhealthy,3
+427,0,M04,B2,CW91,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW91_M6.wav,very low,2%,2.97875,3.0,unhealthy,0
+2627,0,F03,B2,UW7,M6,/UASpeech/audio/noisereduce/F03/F03_B2_UW7_M6.wav,very low,6%,4.7761875,4.8,unhealthy,0
+2659,0,F02,B2,LR,M6,/UASpeech/audio/noisereduce/F02/F02_B2_LR_M6.wav,low,29%,4.943375,4.9,unhealthy,1
+82,0,M04,B2,C5,M6,/UASpeech/audio/noisereduce/M04/M04_B2_C5_M6.wav,very low,2%,2.06275,2.1,unhealthy,0
+692,0,M04,B2,CW95,M6,/UASpeech/audio/noisereduce/M04/M04_B2_CW95_M6.wav,very low,2%,2.258,2.3,unhealthy,0
+1315,0,M01,B2,CW5,M6,/UASpeech/audio/noisereduce/M01/M01_B2_CW5_M6.wav,very low,15%,5.7145,5.7,unhealthy,0
+1302,0,M07,B2,CW91,M6,/UASpeech/audio/noisereduce/M07/M07_B2_CW91_M6.wav,low,28%,1.9301875,1.9,unhealthy,1
+3338,0,M05,B2,LQ,M6,/UASpeech/audio/noisereduce/M05/M05_B2_LQ_M6.wav,mid,58%,5.1838125,5.2,unhealthy,2
+408,0,M01,B2,UW77,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW77_M6.wav,very low,15%,6.6119375,6.6,unhealthy,0
+674,0,M11,B2,UW49,M6,/UASpeech/audio/noisereduce/M11/M11_B2_UW49_M6.wav,mid,62%,3.8440625,3.8,unhealthy,2
+2819,0,M14,B2,CW67,M6,/UASpeech/audio/noisereduce/M14/M14_B2_CW67_M6.wav,high,90.4%,2.3319375,2.3,unhealthy,3
+1329,0,M01,B2,UW73,M6,/UASpeech/audio/noisereduce/M01/M01_B2_UW73_M6.wav,very low,15%,5.3265,5.3,unhealthy,0
+2845,0,M10,B2,CW2,M6,/UASpeech/audio/noisereduce/M10/M10_B2_CW2_M6.wav,high,93%,1.8955625,1.9,unhealthy,3
+3434,0,F02,B2,UW31,M6,/UASpeech/audio/noisereduce/F02/F02_B2_UW31_M6.wav,low,29%,9.6431875,9.6,unhealthy,1
