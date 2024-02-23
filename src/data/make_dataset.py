@@ -28,9 +28,9 @@ class UASpeechDataset(Dataset):
         speech, samplerate = sf.read(audio_path)
         # seconds = librosa.get_duration(path= audio_path)
         # print(seconds)
-        speech = speech[0:250000]
+        speech = speech[0:350000]
 
-        preprocessed_speech = self.processor(speech, padding="max_length",  max_length = 250000,return_tensors="pt", sampling_rate = samplerate).input_values
+        preprocessed_speech = self.processor(speech, padding="max_length",  max_length = 350000,return_tensors="pt", sampling_rate = samplerate).input_values
         # label = self.metadata.iloc[idx, 3]
         label = self.metadata.loc[self.metadata.index[idx], "Intelligibility_Label_id"]
 
