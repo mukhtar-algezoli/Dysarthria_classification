@@ -39,9 +39,9 @@ class UASpeechDataset(Dataset):
 
 def get_train_test_val_set(args):
     # Load the data
-    train_set = UASpeechDataset(os.path.join(args.data_splits_path, "train_df_4labels.csv"), args.data_path, args.SSL_model)
-    test_set = UASpeechDataset(os.path.join(args.data_splits_path, "test_df_4labels.csv"), args.data_path, args.SSL_model)
-    val_set = UASpeechDataset(os.path.join(args.data_splits_path, "val_df_4labels.csv"), args.data_path, args.SSL_model)
+    train_set = UASpeechDataset(os.path.join(args.data_splits_path, "train_df_binary.csv"), args.data_path, args.SSL_model)
+    test_set = UASpeechDataset(os.path.join(args.data_splits_path, "test_df_binary.csv"), args.data_path, args.SSL_model)
+    val_set = UASpeechDataset(os.path.join(args.data_splits_path, "val_df_binary.csv"), args.data_path, args.SSL_model)
 
     train_dataloader = DataLoader(train_set, batch_size = args.batch_size, shuffle=True)
     test_dataloader = DataLoader(test_set, batch_size = args.batch_size, shuffle=True)

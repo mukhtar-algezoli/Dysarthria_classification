@@ -123,7 +123,7 @@ def main():
 
 
     print("defining loss and optimizer..")
-    loss_fn = torch.nn.CrossEntropyLoss()
+    loss_fn = torch.nn.BCELoss()
 
     optimizer = torch.optim.SGD(model.parameters(), lr= args.lr)
 
