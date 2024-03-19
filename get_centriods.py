@@ -46,7 +46,7 @@ def main():
             for cluster in clusters:
                 temp_arr.append(km_model.cluster_centers_[int(cluster)])
             temp_arr = np.array(temp_arr)
-            np.save(f"/data/centriods/{args.severity_label}_{counter}.npy", temp_arr)
+            np.save(f"./data/centriods/{args.severity_label}_{counter}.npy", temp_arr)
             counter += 1
             # print("clusters_printed")
 
