@@ -34,7 +34,7 @@ def main():
 
     print("loading kmeans model...")
 
-    km_model = joblib.load("/content/hubert_base_ls960_L9_km500.bin")
+    km_model = joblib.load(args.model_path)
 
     print(f"reading file {args.aug_data_path} and getting centriods...")
 
