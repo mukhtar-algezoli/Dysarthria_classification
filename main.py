@@ -25,7 +25,7 @@ def main():
     parser.add_argument('--wandb_token', type=str ,help='Weights and Biases Token')
 
     parser.add_argument('--batch_size', type=int, default=8, metavar='N',
-                        help='input batch size for training (default: 64)')
+                        help='input batch size for training (default: 8)')
     
     parser.add_argument('--epochs', type=int, default=80, metavar='N',
                         help='number of epochs to train (default: 14)')
