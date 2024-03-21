@@ -24,7 +24,7 @@ def train_loop(dataloader, model, loss_fn, optimizer, device, wandb=None):
       optimizer.step()
       optimizer.zero_grad()
 
-      train_loss += loss_fn(pred, batch_labels.to(device)).item()
+      train_loss += loss_fn(pred.float(), batch_labels.unsqueeze(1).float().to(device)).item()
       correct += (pred.argmax(1) == batch_labels.to(device)).type(torch.float).sum().item()
 
       if batch % 5 == 0:
@@ -53,7 +53,7 @@ def val_loop(dataloader, model, loss_fn, device, wandb=None):
         for batch_input, batch_labels in dataloader:
             batch_input = torch.squeeze(batch_input, 1)
             pred = model(batch_input.to(device))
-            val_loss += loss_fn(pred, batch_labels.to(device)).item()
+            val_loss += loss_fn(pred.float(), batch_labels.unsqueeze(1).float().to(device)).item()
             correct += (pred.argmax(1) == batch_labels.to(device)).type(torch.float).sum().item()
 
     val_loss /= num_batches
