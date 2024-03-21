@@ -18,7 +18,7 @@ def train_loop(dataloader, model, loss_fn, optimizer, device, wandb=None):
       print(pred.argmax(1))
       print("-------------labels----------------")
       print(batch_labels)
-      loss = loss_fn(pred.argmax(1), batch_labels.to(device))
+      loss = loss_fn(pred.argmax(1).to(device).float(), batch_labels.to(device).float())
       loss.backward()
       optimizer.step()
       optimizer.zero_grad()
