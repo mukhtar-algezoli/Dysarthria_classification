@@ -1,7 +1,7 @@
 import os
 import torch
 from torch import nn
-# import torch.functional as F
+import torch.functional as F
 from torch.utils.data import DataLoader
 from transformers import AutoFeatureExtractor, AutoModel, HubertModel, Wav2Vec2FeatureExtractor
 import soundfile as sf
@@ -54,7 +54,7 @@ class Dysarthria_model(nn.Module):
     output_features = self.SSLModel(x).last_hidden_state
     hidden_states = self.merged_strategy(output_features, mode=self.pooling_mode)
     logits = self.classificationHead(hidden_states)
-    output = nn.Sigmoid(logits)
+    output = F.sigmoid(logits)
 
     return output
 
