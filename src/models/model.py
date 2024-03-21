@@ -1,7 +1,7 @@
 import os
 import torch
 from torch import nn
-import torch.functional as F
+import torch.nn.functional as F
 from torch.utils.data import DataLoader
 from transformers import AutoFeatureExtractor, AutoModel, HubertModel, Wav2Vec2FeatureExtractor
 import soundfile as sf
