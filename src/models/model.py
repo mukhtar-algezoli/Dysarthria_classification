@@ -24,7 +24,7 @@ class ClassificationHead(nn.Module):
 
 # Model class
 class Dysarthria_model(nn.Module):
-  def __init__(self, model_path = "facebook/hubert-base-ls960", pooling_mode = "mean", num_output_labels = 2):
+  def __init__(self, model_path = "facebook/hubert-base-ls960", pooling_mode = "mean", num_output_labels = 1):
         super().__init__()
         # self.processor = AutoFeatureExtractor.from_pretrained(model_path)
         self.SSLModel = AutoModel.from_pretrained(model_path)
