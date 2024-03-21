@@ -13,6 +13,7 @@ def train_loop(dataloader, model, loss_fn, optimizer, device, wandb=None):
     for batch, (batch_input, batch_labels) in enumerate(dataloader):
       batch_input = torch.squeeze(batch_input, 1)
       pred = model(batch_input.to(device))
+      print(f"pred shape: {pred.shape}, labels shape: {batch_labels.shape}")
       loss = loss_fn(pred, batch_labels.to(device))
       loss.backward()
       optimizer.step()
