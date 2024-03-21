@@ -30,6 +30,7 @@ class Dysarthria_model(nn.Module):
         self.SSLModel = AutoModel.from_pretrained(model_path)
         self.classificationHead = ClassificationHead(768, num_output_labels)
         self.pooling_mode = pooling_mode
+        self.sigmoid = nn.Sigmoid()
 
   def freeze_feature_extractor(self):
         self.SSLModel.feature_extractor._freeze_parameters()
@@ -54,7 +55,7 @@ class Dysarthria_model(nn.Module):
     output_features = self.SSLModel(x).last_hidden_state
     hidden_states = self.merged_strategy(output_features, mode=self.pooling_mode)
     logits = self.classificationHead(hidden_states)
-    output = F.sigmoid(logits)
+    output = self.sigmoid(logits)
 
     return output
 
