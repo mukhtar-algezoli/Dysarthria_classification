@@ -5,7 +5,7 @@
 #SBATCH --nodes=1                   # Run all processes on a single node   
 #SBATCH --ntasks=1              # Run on a single CPU
 #SBATCH --cpus-per-task=64           # Number of CPU cores (changed from 64 to 4)
-#SBATCH --mem=80G   
+#SBATCH --mem=40G   
 #SBATCH --gres=gpu:1                # Number of GPUs (per node)
 #SBATCH -p gpu                      # Use the gpu partition
 #SBATCH --time=1:00:00             # Specify the time needed for your experiment
