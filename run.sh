@@ -8,10 +8,10 @@
 #SBATCH --mem=40G   
 #SBATCH --gres=gpu:1                # Number of GPUs (per node)
 #SBATCH -p gpu                      # Use the gpu partition
-#SBATCH --time=1:00:00             # Specify the time needed for your experiment
+#SBATCH --time=8:00:00             # Specify the time needed for your experiment
 #SBATCH --qos gpu-8                 # To enable the use of up to 8 GPUs
 
 hostname
  
 # python /l/users/rzan.alhaddad/DUB-dysarthria/src/run_translate_with_pseudo.sh --additional_data 0.1 --severity 0
-python main.py --batch_size 32 --epochs 100 --EXP_name Binary --wandb_run_name Binary 
+python main.py --batch_size 16 --epochs 100 --EXP_name Binary --wandb_run_name Binary 
