@@ -27,7 +27,7 @@ def train_loop(dataloader, model, loss_fn, optimizer, device, wandb=None):
       train_loss += loss_fn(pred.float(), batch_labels.unsqueeze(1).float().to(device)).item()
       correct += (pred.round().squeeze() == batch_labels.to(device)).type(torch.float).sum().item()
     #   print(pred.round() == batch_labels.to(device))
-      print(correct)
+    #   print(correct)
 
       if batch % 5 == 0:
             loss, current = loss.item(), (batch + 1) * len(batch_input)
@@ -56,7 +56,7 @@ def val_loop(dataloader, model, loss_fn, device, wandb=None):
             batch_input = torch.squeeze(batch_input, 1)
             pred = model(batch_input.to(device))
             val_loss += loss_fn(pred.float(), batch_labels.unsqueeze(1).float().to(device)).item()
-            correct += (pred.round() == batch_labels.to(device)).type(torch.float).sum().item()
+            correct += (pred.round().squeeze() == batch_labels.to(device)).type(torch.float).sum().item()
 
     val_loss /= num_batches
     correct /= size
@@ -110,7 +110,7 @@ def test_model(args, model, test_loader, loss_fn, device, wandb=None):
             batch_input = torch.squeeze(batch_input, 1)
             pred = model(batch_input.to(device))
             tes_loss += loss_fn(pred.float(), batch_labels.unsqueeze(1).float().to(device)).item()
-            correct += (pred.round() == batch_labels.to(device)).type(torch.float).sum().item()
+            correct += (pred.round().squeeze() == batch_labels.to(device)).type(torch.float).sum().item()
 
     test_loss /= num_batches
     correct /= size
