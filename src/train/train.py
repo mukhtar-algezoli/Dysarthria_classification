@@ -25,7 +25,7 @@ def train_loop(dataloader, model, loss_fn, optimizer, device, wandb=None):
       optimizer.zero_grad()
 
       train_loss += loss_fn(pred.float(), batch_labels.unsqueeze(1).float().to(device)).item()
-      print(f"pred: {pred.argmax(1)}")
+      print(f"pred: {pred}")
       print(f"batch labels: {batch_labels}")
       print("-------------------------------------------")
       correct += (pred.argmax(1) == batch_labels.to(device)).type(torch.float).sum().item()
