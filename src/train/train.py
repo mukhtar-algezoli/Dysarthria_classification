@@ -27,6 +27,8 @@ def train_loop(dataloader, model, loss_fn, optimizer, device, wandb=None):
       train_loss += loss_fn(pred.float(), batch_labels.unsqueeze(1).float().to(device)).item()
       correct += (pred.round() == batch_labels.to(device)).type(torch.float).sum().item()
 
+      print(correct)
+
       if batch % 5 == 0:
             loss, current = loss.item(), (batch + 1) * len(batch_input)
             print(f"loss: {loss:>7f}  [{current:>5d}/{size:>5d}]")
