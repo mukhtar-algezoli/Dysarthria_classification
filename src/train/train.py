@@ -92,7 +92,7 @@ def train_model(args, model, train_loader, val_loader, optimizer, loss_fn, devic
                 'val accuracy': val_acc,
                 "run Id":run_id,
                 "run name":run_name,
-                }, output_path)
+                }, output_path + f"_Epoch{str(t)}.pt")
     print("Done!")
 
 

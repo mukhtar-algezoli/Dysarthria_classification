@@ -145,7 +145,7 @@ def main():
     init_wandb_run(args)
     
     train_dataloader, test_dataloader, val_dataloader = get_train_test_val_set(args)
-    output_path = os.path.join(args.output_path, f"{args.EXP_name}_{args.SSL_model_name}.pt")
+    output_path = os.path.join(args.output_path, f"{args.EXP_name}")
     train_model(args, model, train_dataloader, val_dataloader, optimizer, loss_fn, device, output_path = output_path, wandb=wandb)
     test_model(model, test_dataloader, loss_fn, device, wandb=wandb)
 
