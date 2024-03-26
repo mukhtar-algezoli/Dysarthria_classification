@@ -61,6 +61,7 @@ def val_loop(dataloader, model, loss_fn, device, wandb=None):
     print("-----------------------------------")
     print(f"val pred: {pred.round().squeeze().shape}, val labels: {batch_labels.shape}")
     print(f"val pred: {pred.round().squeeze()}, val labels: {batch_labels}")
+    print(f"correct: {correct}")
     val_loss /= num_batches
     correct /= size
 
