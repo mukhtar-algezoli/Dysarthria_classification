@@ -58,6 +58,9 @@ def val_loop(dataloader, model, loss_fn, device, wandb=None):
             val_loss += loss_fn(pred.float(), batch_labels.unsqueeze(1).float().to(device)).item()
             correct += (pred.round().squeeze() == batch_labels.to(device)).type(torch.float).sum().item()
 
+    print("-----------------------------------")
+    print(f"val pred: {pred.round().squeeze().shape}, val labels: {batch_labels.shape}")
+    print(f"val pred: {pred.round().squeeze()}, val labels: {batch_labels}")
     val_loss /= num_batches
     correct /= size
 
