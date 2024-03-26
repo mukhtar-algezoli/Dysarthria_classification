@@ -24,7 +24,14 @@ class UASpeechDataset(Dataset):
         return len(self.metadata)
 
     def __getitem__(self, idx):
-        audio_path = "./"+self.raw_data_dir +  self.metadata.loc[self.metadata.index[idx], 'path']
+        # comment when working on binary data without augmentation
+        curr_audio_file_path = self.metadata.loc[self.metadata.index[idx], 'path']
+        curr_audio_file_path = curr_audio_file_path.replace("/l/users/rzan.alhaddad/noisereduce", "/UASpeech/audio/noisereduce")
+        curr_audio_file_path = curr_audio_file_path.replace("/l/users/rzan.alhaddad/noisereduce", "/UASpeech/audio/noisereduce_aug")
+        audio_path = "./"+self.raw_data_dir +  curr_audio_file_path
+
+        #uncomment when working on binary data without augmentation
+        # audio_path = "./"+self.raw_data_dir +  self.metadata.loc[self.metadata.index[idx], 'path']
         speech, samplerate = sf.read(audio_path)
         # seconds = librosa.get_duration(path= audio_path)
         # print(seconds)
@@ -39,7 +46,10 @@ class UASpeechDataset(Dataset):
 
 def get_train_test_val_set(args):
     # Load the data
-    train_set = UASpeechDataset(os.path.join(args.data_splits_path, "train_df_binary.csv"), args.data_path, args.SSL_model)
+    # comment when working on binary data without augmentation
+    train_set = UASpeechDataset(os.path.join(args.data_splits_path, "train_df_binary_aug.csv"), args.data_path, args.SSL_model)
+    # uncomment when working on binary data without augmentation
+    # train_set = UASpeechDataset(os.path.join(args.data_splits_path, "train_df_binary.csv"), args.data_path, args.SSL_model)
     test_set = UASpeechDataset(os.path.join(args.data_splits_path, "test_df_binary.csv"), args.data_path, args.SSL_model)
     val_set = UASpeechDataset(os.path.join(args.data_splits_path, "val_df_binary.csv"), args.data_path, args.SSL_model)
 
