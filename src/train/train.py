@@ -83,6 +83,7 @@ def train_model(args, model, train_loader, val_loader, optimizer, loss_fn, devic
         run_name = "local"
 
     for t in range(args.epochs):
+        val_loss, val_acc = val_loop(val_loader, model, loss_fn, device, wandb)
         print(f"Epoch {t+1}\n-------------------------------")
         train_loss, train_acc = train_loop(train_loader, model, loss_fn, optimizer, device, wandb)
         val_loss, val_acc = val_loop(val_loader, model, loss_fn, device, wandb)
