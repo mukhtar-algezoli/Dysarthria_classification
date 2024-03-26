@@ -58,10 +58,10 @@ def val_loop(dataloader, model, loss_fn, device, wandb=None):
             val_loss += loss_fn(pred.float(), batch_labels.unsqueeze(1).float().to(device)).item()
             correct += (pred.round().squeeze() == batch_labels.to(device)).type(torch.float).sum().item()
 
-    print("-----------------------------------")
-    print(f"val pred: {pred.round().squeeze().shape}, val labels: {batch_labels.shape}")
-    print(f"val pred: {pred.round().squeeze()}, val labels: {batch_labels}")
-    print(f"correct: {correct}")
+    # print("-----------------------------------")
+    # print(f"val pred: {pred.round().squeeze().shape}, val labels: {batch_labels.shape}")
+    # print(f"val pred: {pred.round().squeeze()}, val labels: {batch_labels}")
+    # print(f"correct: {correct}")
     val_loss /= num_batches
     correct /= size
 
@@ -83,7 +83,6 @@ def train_model(args, model, train_loader, val_loader, optimizer, loss_fn, devic
         run_name = "local"
 
     for t in range(args.epochs):
-        val_loss, val_acc = val_loop(val_loader, model, loss_fn, device, wandb)
         print(f"Epoch {t+1}\n-------------------------------")
         train_loss, train_acc = train_loop(train_loader, model, loss_fn, optimizer, device, wandb)
         val_loss, val_acc = val_loop(val_loader, model, loss_fn, device, wandb)
