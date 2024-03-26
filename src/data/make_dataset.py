@@ -27,7 +27,7 @@ class UASpeechDataset(Dataset):
         # comment when working on binary data without augmentation
         curr_audio_file_path = self.metadata.loc[self.metadata.index[idx], 'path']
         curr_audio_file_path = curr_audio_file_path.replace("/l/users/rzan.alhaddad/noisereduce", "/UASpeech/audio/noisereduce")
-        curr_audio_file_path = curr_audio_file_path.replace("/l/users/rzan.alhaddad/noisereduce", "/UASpeech/audio/noisereduce_aug")
+        curr_audio_file_path = curr_audio_file_path.replace("noisereduce", "noisereduce_aug")
         audio_path = "./"+self.raw_data_dir +  curr_audio_file_path
 
         #uncomment when working on binary data without augmentation
